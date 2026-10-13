@@ -1,6 +1,7 @@
 ---
 name: Light
 description: Words for light, shadow, color, clarity and the act of seeing.
+category: Nature
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

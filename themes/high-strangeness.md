@@ -1,6 +1,7 @@
 ---
 name: High Strangeness
 description: Words for anomalies, secret agencies, cover-ups, close encounters, warped places and the minds that meet them.
+category: Sci-fi
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

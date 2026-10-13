@@ -1,4 +1,4 @@
-// Builds index.json from the packs in synonyms/ (*.pack.json) and themes/ (*.md), checking each one.
+// Builds index.json from the packs in style/ and synonyms/ (*.pack.json) and themes/ (*.md), checking each one.
 // `updated` is the date of the file's last commit, so changing a pack makes Pliny offer Update.
 // node scripts/build-index.mjs          → writes index.json
 // node scripts/build-index.mjs --check  → only checks (pull requests)
@@ -16,7 +16,12 @@ const lastChanged = (file) => {
 
 const slug = (name) => name.toLowerCase().normalize('NFKD').replace(/[^\p{L}\p{N}]+/gu, '-').replace(/^-|-$/g, '')
 
-function synonymPack(file) {
+const info = (data) => ({
+  ...(data.description ? { description: data.description } : {}),
+  ...(data.category ? { category: data.category } : {}),
+})
+
+function wordPack(file, kind) {
   let data
   try {
     data = JSON.parse(readFileSync(file, 'utf8'))
@@ -26,11 +31,11 @@ function synonymPack(file) {
   if (data.pliny !== 'pack') return problems.push(`${file}: "pliny" must be "pack"`)
   if (typeof data.id !== 'string' || !data.id) return problems.push(`${file}: no "id"`)
   if (typeof data.name !== 'string' || !data.name) return problems.push(`${file}: no "name"`)
-  if (data.kind !== 'synonyms') return problems.push(`${file}: "kind" must be "synonyms"`)
+  if (data.kind !== kind) return problems.push(`${file}: "kind" must be "${kind}"`)
   if (!Array.isArray(data.entries)) return problems.push(`${file}: "entries" must be a list: [ { "key": …, "suggestions": [ … ] } ]`)
   const bad = data.entries.findIndex((e) => typeof e?.key !== 'string' || !Array.isArray(e.suggestions) || e.suggestions.some((s) => typeof s !== 'string'))
   if (bad !== -1) return problems.push(`${file}: entry ${bad + 1} needs a "key" and a list of "suggestions"`)
-  packs.push({ id: data.id, name: data.name, kind: 'synonyms', ...(data.description ? { description: data.description } : {}), file, updated: lastChanged(file) })
+  packs.push({ id: data.id, name: data.name, kind, ...info(data), file, updated: lastChanged(file) })
 }
 
 function themePack(file) {
@@ -44,10 +49,10 @@ function themePack(file) {
   const body = front ? text.slice(front[0].length) : text
   if (!body.trim()) return problems.push(`${file}: no text`)
   const name = fields.name ?? /^#\s+(.+?)\s*#*\s*$/m.exec(body)?.[1] ?? file.replace(/^.*\/|\.md$/g, '')
-  packs.push({ id: fields.id ?? slug(name), name, kind: 'theme', ...(fields.description ? { description: fields.description } : {}), file, updated: lastChanged(file) })
+  packs.push({ id: fields.id ?? slug(name), name, kind: 'theme', ...info(fields), file, updated: lastChanged(file) })
 }
 
-for (const [folder, ending, read] of [['synonyms', '.pack.json', synonymPack], ['themes', '.md', themePack]]) {
+for (const [folder, ending, read] of [['style', '.pack.json', (f) => wordPack(f, 'style')], ['synonyms', '.pack.json', (f) => wordPack(f, 'synonyms')], ['themes', '.md', themePack]]) {
   for (const name of readdirSync(folder).sort()) {
     if (name.startsWith('.')) continue
     if (!name.endsWith(ending)) problems.push(`${folder}/${name}: the name must end in ${ending}`)

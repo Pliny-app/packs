@@ -1,6 +1,7 @@
 ---
 name: Mining
 description: Words for mines, rock, ore, metals, gems, tools and the work of digging, from the shaft to the polished stone.
+category: Earth
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

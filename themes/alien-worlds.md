@@ -1,6 +1,7 @@
 ---
 name: Alien Worlds
 description: Words for describing planets and moons in science fiction.
+category: Sci-fi
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

@@ -1,6 +1,7 @@
 ---
 name: Supernatural
 description: Words for spirits, hauntings, spells, seers, charms and the realms beyond, with the differences between close neighbors.
+category: Fantasy
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

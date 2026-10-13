@@ -2,8 +2,9 @@
 
 Word packs for [Pliny](https://github.com/Pliny-app). In the app: Settings › Word packs › Browse….
 
-There are two kinds of pack:
+There are three kinds of pack:
 
+- **Style packs** (`style/*.pack.json`): flag words that can go or be simpler: fillers, clichés, wordy phrases.
 - **Synonym packs** (`synonyms/*.pack.json`): suggest other words while you write. "said" → stated, murmured…; "very bad" → atrocious…
 - **Thematic packs** (`themes/*.md`): Markdown documents on a theme (weather, ships, heraldry…), read beside your text in the Packs panel and turned on per project.
 
@@ -35,6 +36,36 @@ There are two kinds of pack:
 
 Suggestions go best first.
 
+## Style pack
+
+The same file as a synonym pack, with `"kind": "style"`, marked with a dotted underline instead of a highlight:
+
+```json
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "fillers",
+  "name": "Fillers",
+  "kind": "style",
+  "language": "en",
+  "description": "Words that rarely add meaning.",
+  "message": "a filler that can usually go",
+  "remove": true,
+  "entries": [
+    { "key": "very", "suggestions": [] },
+    { "key": "pretty good", "suggestions": ["good"] }
+  ]
+}
+```
+
+- `message`: what a mark says after the words ("“very”: a filler that can usually go"); without it, the pack's name.
+- `suggestions` are the fixes and may be empty.
+- `remove`: an entry without suggestions offers Remove.
+
+## Category
+
+Any pack can have a `category` (`"category": "Sci-fi"` in a `.pack.json`, `category: Sci-fi` in a thematic pack's header). The library in Pliny can be narrowed to one category.
+
 ## Thematic pack
 
 A Markdown file with a short header:
@@ -43,6 +74,7 @@ A Markdown file with a short header:
 ---
 name: Weather
 description: Words for sky, rain, wind, cold and heat.
+category: Nature
 author: Your name
 license: CC BY 4.0
 updated: 2026-10-13
@@ -56,7 +88,7 @@ If `name` is missing, the first `#` heading is used.
 ## Adding a pack
 
 1. Make it in Pliny (Settings › Word packs › New pack) and use Save as file…, or write the `.md`.
-2. Put the file in `synonyms/` (name ending in `.pack.json`) or `themes/` (`.md`): on github.com, Add file › Upload files.
+2. Put the file in `style/` or `synonyms/` (name ending in `.pack.json`) or `themes/` (`.md`): on github.com, Add file › Upload files.
 3. That's it: on every push, a GitHub Action checks the packs and rebuilds `index.json`. Each pack's `updated` date is its file's last change, so Pliny offers Update when a pack changes (at most once a day). A broken pack fails the run (Actions tab) and the index stays as it was.
 
 To check locally: `node scripts/build-index.mjs --check`

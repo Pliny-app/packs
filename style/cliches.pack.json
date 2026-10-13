@@ -1,0 +1,2806 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "cliches",
+  "name": "Clichés",
+  "kind": "style",
+  "language": "en",
+  "description": "Worn-out phrases.",
+  "updated": "2026-10-13",
+  "message": "a cliché",
+  "source": "no-cliches by Matt Blair (MIT)",
+  "entries": [
+    {
+      "key": "a chip off the old block",
+      "suggestions": []
+    },
+    {
+      "key": "a clean slate",
+      "suggestions": []
+    },
+    {
+      "key": "a dark and stormy night",
+      "suggestions": []
+    },
+    {
+      "key": "a far cry",
+      "suggestions": []
+    },
+    {
+      "key": "a fine kettle of fish",
+      "suggestions": []
+    },
+    {
+      "key": "a loose cannon",
+      "suggestions": []
+    },
+    {
+      "key": "a penny saved is a penny earned",
+      "suggestions": []
+    },
+    {
+      "key": "a tough row to hoe",
+      "suggestions": []
+    },
+    {
+      "key": "a word to the wise",
+      "suggestions": []
+    },
+    {
+      "key": "ace in the hole",
+      "suggestions": []
+    },
+    {
+      "key": "acid test",
+      "suggestions": []
+    },
+    {
+      "key": "add insult to injury",
+      "suggestions": []
+    },
+    {
+      "key": "against all odds",
+      "suggestions": []
+    },
+    {
+      "key": "air your dirty laundry",
+      "suggestions": []
+    },
+    {
+      "key": "all fun and games",
+      "suggestions": []
+    },
+    {
+      "key": "all in a day's work",
+      "suggestions": []
+    },
+    {
+      "key": "all talk, no action",
+      "suggestions": []
+    },
+    {
+      "key": "all thumbs",
+      "suggestions": []
+    },
+    {
+      "key": "all your eggs in one basket",
+      "suggestions": []
+    },
+    {
+      "key": "all's fair in love and war",
+      "suggestions": []
+    },
+    {
+      "key": "all's well that ends well",
+      "suggestions": []
+    },
+    {
+      "key": "almighty dollar",
+      "suggestions": []
+    },
+    {
+      "key": "american as apple pie",
+      "suggestions": []
+    },
+    {
+      "key": "an axe to grind",
+      "suggestions": []
+    },
+    {
+      "key": "another day, another dollar",
+      "suggestions": []
+    },
+    {
+      "key": "armed to the teeth",
+      "suggestions": []
+    },
+    {
+      "key": "as luck would have it",
+      "suggestions": []
+    },
+    {
+      "key": "as old as time",
+      "suggestions": []
+    },
+    {
+      "key": "as the crow flies",
+      "suggestions": []
+    },
+    {
+      "key": "at loose ends",
+      "suggestions": []
+    },
+    {
+      "key": "at my wits end",
+      "suggestions": []
+    },
+    {
+      "key": "avoid like the plague",
+      "suggestions": []
+    },
+    {
+      "key": "babe in the woods",
+      "suggestions": []
+    },
+    {
+      "key": "back against the wall",
+      "suggestions": []
+    },
+    {
+      "key": "back in the saddle",
+      "suggestions": []
+    },
+    {
+      "key": "back to square one",
+      "suggestions": []
+    },
+    {
+      "key": "back to the drawing board",
+      "suggestions": []
+    },
+    {
+      "key": "bad to the bone",
+      "suggestions": []
+    },
+    {
+      "key": "badge of honor",
+      "suggestions": []
+    },
+    {
+      "key": "bald faced liar",
+      "suggestions": []
+    },
+    {
+      "key": "ballpark figure",
+      "suggestions": []
+    },
+    {
+      "key": "banging your head against a brick wall",
+      "suggestions": []
+    },
+    {
+      "key": "baptism by fire",
+      "suggestions": []
+    },
+    {
+      "key": "barking up the wrong tree",
+      "suggestions": []
+    },
+    {
+      "key": "bat out of hell",
+      "suggestions": []
+    },
+    {
+      "key": "be all and end all",
+      "suggestions": []
+    },
+    {
+      "key": "beat a dead horse",
+      "suggestions": []
+    },
+    {
+      "key": "beat around the bush",
+      "suggestions": []
+    },
+    {
+      "key": "been there, done that",
+      "suggestions": []
+    },
+    {
+      "key": "beggars can't be choosers",
+      "suggestions": []
+    },
+    {
+      "key": "behind the eight ball",
+      "suggestions": []
+    },
+    {
+      "key": "bend over backwards",
+      "suggestions": []
+    },
+    {
+      "key": "benefit of the doubt",
+      "suggestions": []
+    },
+    {
+      "key": "bent out of shape",
+      "suggestions": []
+    },
+    {
+      "key": "best thing since sliced bread",
+      "suggestions": []
+    },
+    {
+      "key": "bet your bottom dollar",
+      "suggestions": []
+    },
+    {
+      "key": "better half",
+      "suggestions": []
+    },
+    {
+      "key": "better late than never",
+      "suggestions": []
+    },
+    {
+      "key": "better mousetrap",
+      "suggestions": []
+    },
+    {
+      "key": "better safe than sorry",
+      "suggestions": []
+    },
+    {
+      "key": "between a rock and a hard place",
+      "suggestions": []
+    },
+    {
+      "key": "beyond the pale",
+      "suggestions": []
+    },
+    {
+      "key": "bide your time",
+      "suggestions": []
+    },
+    {
+      "key": "big as life",
+      "suggestions": []
+    },
+    {
+      "key": "big cheese",
+      "suggestions": []
+    },
+    {
+      "key": "big fish in a small pond",
+      "suggestions": []
+    },
+    {
+      "key": "big man on campus",
+      "suggestions": []
+    },
+    {
+      "key": "bigger they are the harder they fall",
+      "suggestions": []
+    },
+    {
+      "key": "bird in the hand",
+      "suggestions": []
+    },
+    {
+      "key": "bird's eye view",
+      "suggestions": []
+    },
+    {
+      "key": "birds and the bees",
+      "suggestions": []
+    },
+    {
+      "key": "birds of a feather flock together",
+      "suggestions": []
+    },
+    {
+      "key": "bit the hand that feeds you",
+      "suggestions": []
+    },
+    {
+      "key": "bite the bullet",
+      "suggestions": []
+    },
+    {
+      "key": "bite the dust",
+      "suggestions": []
+    },
+    {
+      "key": "bitten off more than he can chew",
+      "suggestions": []
+    },
+    {
+      "key": "black as coal",
+      "suggestions": []
+    },
+    {
+      "key": "black as pitch",
+      "suggestions": []
+    },
+    {
+      "key": "black as the ace of spades",
+      "suggestions": []
+    },
+    {
+      "key": "blast from the past",
+      "suggestions": []
+    },
+    {
+      "key": "bleeding heart",
+      "suggestions": []
+    },
+    {
+      "key": "blessing in disguise",
+      "suggestions": []
+    },
+    {
+      "key": "blind ambition",
+      "suggestions": []
+    },
+    {
+      "key": "blind as a bat",
+      "suggestions": []
+    },
+    {
+      "key": "blind leading the blind",
+      "suggestions": []
+    },
+    {
+      "key": "blood is thicker than water",
+      "suggestions": []
+    },
+    {
+      "key": "blood sweat and tears",
+      "suggestions": []
+    },
+    {
+      "key": "blow off steam",
+      "suggestions": []
+    },
+    {
+      "key": "blow your own horn",
+      "suggestions": []
+    },
+    {
+      "key": "blushing bride",
+      "suggestions": []
+    },
+    {
+      "key": "boils down to",
+      "suggestions": []
+    },
+    {
+      "key": "bolt from the blue",
+      "suggestions": []
+    },
+    {
+      "key": "bone to pick",
+      "suggestions": []
+    },
+    {
+      "key": "bored stiff",
+      "suggestions": []
+    },
+    {
+      "key": "bored to tears",
+      "suggestions": []
+    },
+    {
+      "key": "bottomless pit",
+      "suggestions": []
+    },
+    {
+      "key": "boys will be boys",
+      "suggestions": []
+    },
+    {
+      "key": "bright and early",
+      "suggestions": []
+    },
+    {
+      "key": "brings home the bacon",
+      "suggestions": []
+    },
+    {
+      "key": "broad across the beam",
+      "suggestions": []
+    },
+    {
+      "key": "broken record",
+      "suggestions": []
+    },
+    {
+      "key": "brought back to reality",
+      "suggestions": []
+    },
+    {
+      "key": "bull by the horns",
+      "suggestions": []
+    },
+    {
+      "key": "bull in a china shop",
+      "suggestions": []
+    },
+    {
+      "key": "burn the midnight oil",
+      "suggestions": []
+    },
+    {
+      "key": "burning question",
+      "suggestions": []
+    },
+    {
+      "key": "burning the candle at both ends",
+      "suggestions": []
+    },
+    {
+      "key": "burst your bubble",
+      "suggestions": []
+    },
+    {
+      "key": "bury the hatchet",
+      "suggestions": []
+    },
+    {
+      "key": "busy as a bee",
+      "suggestions": []
+    },
+    {
+      "key": "by hook or by crook",
+      "suggestions": []
+    },
+    {
+      "key": "call a spade a spade",
+      "suggestions": []
+    },
+    {
+      "key": "called onto the carpet",
+      "suggestions": []
+    },
+    {
+      "key": "calm before the storm",
+      "suggestions": []
+    },
+    {
+      "key": "can of worms",
+      "suggestions": []
+    },
+    {
+      "key": "can't cut the mustard",
+      "suggestions": []
+    },
+    {
+      "key": "can't hold a candle to",
+      "suggestions": []
+    },
+    {
+      "key": "case of mistaken identity",
+      "suggestions": []
+    },
+    {
+      "key": "cat got your tongue",
+      "suggestions": []
+    },
+    {
+      "key": "cat's meow",
+      "suggestions": []
+    },
+    {
+      "key": "caught in the crossfire",
+      "suggestions": []
+    },
+    {
+      "key": "caught red-handed",
+      "suggestions": []
+    },
+    {
+      "key": "checkered past",
+      "suggestions": []
+    },
+    {
+      "key": "chomping at the bit",
+      "suggestions": []
+    },
+    {
+      "key": "cleanliness is next to godliness",
+      "suggestions": []
+    },
+    {
+      "key": "clear as a bell",
+      "suggestions": []
+    },
+    {
+      "key": "clear as mud",
+      "suggestions": []
+    },
+    {
+      "key": "close to the vest",
+      "suggestions": []
+    },
+    {
+      "key": "cock and bull story",
+      "suggestions": []
+    },
+    {
+      "key": "cold shoulder",
+      "suggestions": []
+    },
+    {
+      "key": "come hell or high water",
+      "suggestions": []
+    },
+    {
+      "key": "cool as a cucumber",
+      "suggestions": []
+    },
+    {
+      "key": "cool, calm, and collected",
+      "suggestions": []
+    },
+    {
+      "key": "cost a king's ransom",
+      "suggestions": []
+    },
+    {
+      "key": "count your blessings",
+      "suggestions": []
+    },
+    {
+      "key": "crack of dawn",
+      "suggestions": []
+    },
+    {
+      "key": "crash course",
+      "suggestions": []
+    },
+    {
+      "key": "creature comforts",
+      "suggestions": []
+    },
+    {
+      "key": "cross that bridge when you come to it",
+      "suggestions": []
+    },
+    {
+      "key": "crushing blow",
+      "suggestions": []
+    },
+    {
+      "key": "cry like a baby",
+      "suggestions": []
+    },
+    {
+      "key": "cry me a river",
+      "suggestions": []
+    },
+    {
+      "key": "cry over spilt milk",
+      "suggestions": []
+    },
+    {
+      "key": "crystal clear",
+      "suggestions": []
+    },
+    {
+      "key": "curiosity killed the cat",
+      "suggestions": []
+    },
+    {
+      "key": "cut and dried",
+      "suggestions": []
+    },
+    {
+      "key": "cut through the red tape",
+      "suggestions": []
+    },
+    {
+      "key": "cut to the chase",
+      "suggestions": []
+    },
+    {
+      "key": "cute as a bugs ear",
+      "suggestions": []
+    },
+    {
+      "key": "cute as a button",
+      "suggestions": []
+    },
+    {
+      "key": "cute as a puppy",
+      "suggestions": []
+    },
+    {
+      "key": "cuts to the quick",
+      "suggestions": []
+    },
+    {
+      "key": "dark before the dawn",
+      "suggestions": []
+    },
+    {
+      "key": "day in, day out",
+      "suggestions": []
+    },
+    {
+      "key": "dead as a doornail",
+      "suggestions": []
+    },
+    {
+      "key": "devil is in the details",
+      "suggestions": []
+    },
+    {
+      "key": "dime a dozen",
+      "suggestions": []
+    },
+    {
+      "key": "divide and conquer",
+      "suggestions": []
+    },
+    {
+      "key": "dog and pony show",
+      "suggestions": []
+    },
+    {
+      "key": "dog days",
+      "suggestions": []
+    },
+    {
+      "key": "dog eat dog",
+      "suggestions": []
+    },
+    {
+      "key": "dog tired",
+      "suggestions": []
+    },
+    {
+      "key": "don't burn your bridges",
+      "suggestions": []
+    },
+    {
+      "key": "don't count your chickens",
+      "suggestions": []
+    },
+    {
+      "key": "don't look a gift horse in the mouth",
+      "suggestions": []
+    },
+    {
+      "key": "don't rock the boat",
+      "suggestions": []
+    },
+    {
+      "key": "don't step on anyone's toes",
+      "suggestions": []
+    },
+    {
+      "key": "don't take any wooden nickels",
+      "suggestions": []
+    },
+    {
+      "key": "down and out",
+      "suggestions": []
+    },
+    {
+      "key": "down at the heels",
+      "suggestions": []
+    },
+    {
+      "key": "down in the dumps",
+      "suggestions": []
+    },
+    {
+      "key": "down the hatch",
+      "suggestions": []
+    },
+    {
+      "key": "down to earth",
+      "suggestions": []
+    },
+    {
+      "key": "draw the line",
+      "suggestions": []
+    },
+    {
+      "key": "dressed to kill",
+      "suggestions": []
+    },
+    {
+      "key": "dressed to the nines",
+      "suggestions": []
+    },
+    {
+      "key": "drives me up the wall",
+      "suggestions": []
+    },
+    {
+      "key": "dull as dishwater",
+      "suggestions": []
+    },
+    {
+      "key": "dyed in the wool",
+      "suggestions": []
+    },
+    {
+      "key": "eagle eye",
+      "suggestions": []
+    },
+    {
+      "key": "ear to the ground",
+      "suggestions": []
+    },
+    {
+      "key": "early bird catches the worm",
+      "suggestions": []
+    },
+    {
+      "key": "easier said than done",
+      "suggestions": []
+    },
+    {
+      "key": "easy as pie",
+      "suggestions": []
+    },
+    {
+      "key": "eat your heart out",
+      "suggestions": []
+    },
+    {
+      "key": "eat your words",
+      "suggestions": []
+    },
+    {
+      "key": "eleventh hour",
+      "suggestions": []
+    },
+    {
+      "key": "even the playing field",
+      "suggestions": []
+    },
+    {
+      "key": "every dog has its day",
+      "suggestions": []
+    },
+    {
+      "key": "every fiber of my being",
+      "suggestions": []
+    },
+    {
+      "key": "everything but the kitchen sink",
+      "suggestions": []
+    },
+    {
+      "key": "eye for an eye",
+      "suggestions": []
+    },
+    {
+      "key": "face the music",
+      "suggestions": []
+    },
+    {
+      "key": "facts of life",
+      "suggestions": []
+    },
+    {
+      "key": "fair weather friend",
+      "suggestions": []
+    },
+    {
+      "key": "fall by the wayside",
+      "suggestions": []
+    },
+    {
+      "key": "fan the flames",
+      "suggestions": []
+    },
+    {
+      "key": "feast or famine",
+      "suggestions": []
+    },
+    {
+      "key": "feather your nest",
+      "suggestions": []
+    },
+    {
+      "key": "feathered friends",
+      "suggestions": []
+    },
+    {
+      "key": "few and far between",
+      "suggestions": []
+    },
+    {
+      "key": "fifteen minutes of fame",
+      "suggestions": []
+    },
+    {
+      "key": "filthy vermin",
+      "suggestions": []
+    },
+    {
+      "key": "fine kettle of fish",
+      "suggestions": []
+    },
+    {
+      "key": "fish out of water",
+      "suggestions": []
+    },
+    {
+      "key": "fishing for a compliment",
+      "suggestions": []
+    },
+    {
+      "key": "fit as a fiddle",
+      "suggestions": []
+    },
+    {
+      "key": "fit the bill",
+      "suggestions": []
+    },
+    {
+      "key": "fit to be tied",
+      "suggestions": []
+    },
+    {
+      "key": "flash in the pan",
+      "suggestions": []
+    },
+    {
+      "key": "flat as a pancake",
+      "suggestions": []
+    },
+    {
+      "key": "flip your lid",
+      "suggestions": []
+    },
+    {
+      "key": "flog a dead horse",
+      "suggestions": []
+    },
+    {
+      "key": "fly by night",
+      "suggestions": []
+    },
+    {
+      "key": "fly the coop",
+      "suggestions": []
+    },
+    {
+      "key": "follow your heart",
+      "suggestions": []
+    },
+    {
+      "key": "for all intents and purposes",
+      "suggestions": []
+    },
+    {
+      "key": "for the birds",
+      "suggestions": []
+    },
+    {
+      "key": "for what it's worth",
+      "suggestions": []
+    },
+    {
+      "key": "force of nature",
+      "suggestions": []
+    },
+    {
+      "key": "force to be reckoned with",
+      "suggestions": []
+    },
+    {
+      "key": "forgive and forget",
+      "suggestions": []
+    },
+    {
+      "key": "fox in the henhouse",
+      "suggestions": []
+    },
+    {
+      "key": "free and easy",
+      "suggestions": []
+    },
+    {
+      "key": "free as a bird",
+      "suggestions": []
+    },
+    {
+      "key": "fresh as a daisy",
+      "suggestions": []
+    },
+    {
+      "key": "full steam ahead",
+      "suggestions": []
+    },
+    {
+      "key": "fun in the sun",
+      "suggestions": []
+    },
+    {
+      "key": "garbage in, garbage out",
+      "suggestions": []
+    },
+    {
+      "key": "gentle as a lamb",
+      "suggestions": []
+    },
+    {
+      "key": "get a kick out of",
+      "suggestions": []
+    },
+    {
+      "key": "get a leg up",
+      "suggestions": []
+    },
+    {
+      "key": "get down and dirty",
+      "suggestions": []
+    },
+    {
+      "key": "get the lead out",
+      "suggestions": []
+    },
+    {
+      "key": "get to the bottom of",
+      "suggestions": []
+    },
+    {
+      "key": "get your feet wet",
+      "suggestions": []
+    },
+    {
+      "key": "gets my goat",
+      "suggestions": []
+    },
+    {
+      "key": "gilding the lily",
+      "suggestions": []
+    },
+    {
+      "key": "give and take",
+      "suggestions": []
+    },
+    {
+      "key": "go against the grain",
+      "suggestions": []
+    },
+    {
+      "key": "go at it tooth and nail",
+      "suggestions": []
+    },
+    {
+      "key": "go for broke",
+      "suggestions": []
+    },
+    {
+      "key": "go him one better",
+      "suggestions": []
+    },
+    {
+      "key": "go the extra mile",
+      "suggestions": []
+    },
+    {
+      "key": "go with the flow",
+      "suggestions": []
+    },
+    {
+      "key": "goes without saying",
+      "suggestions": []
+    },
+    {
+      "key": "good as gold",
+      "suggestions": []
+    },
+    {
+      "key": "good deed for the day",
+      "suggestions": []
+    },
+    {
+      "key": "good things come to those who wait",
+      "suggestions": []
+    },
+    {
+      "key": "good time was had by all",
+      "suggestions": []
+    },
+    {
+      "key": "good times were had by all",
+      "suggestions": []
+    },
+    {
+      "key": "greased lightning",
+      "suggestions": []
+    },
+    {
+      "key": "greek to me",
+      "suggestions": []
+    },
+    {
+      "key": "green thumb",
+      "suggestions": []
+    },
+    {
+      "key": "green-eyed monster",
+      "suggestions": []
+    },
+    {
+      "key": "grist for the mill",
+      "suggestions": []
+    },
+    {
+      "key": "growing like a weed",
+      "suggestions": []
+    },
+    {
+      "key": "hair of the dog",
+      "suggestions": []
+    },
+    {
+      "key": "hand to mouth",
+      "suggestions": []
+    },
+    {
+      "key": "happy as a clam",
+      "suggestions": []
+    },
+    {
+      "key": "happy as a lark",
+      "suggestions": []
+    },
+    {
+      "key": "hasn't a clue",
+      "suggestions": []
+    },
+    {
+      "key": "have a nice day",
+      "suggestions": []
+    },
+    {
+      "key": "have high hopes",
+      "suggestions": []
+    },
+    {
+      "key": "have the last laugh",
+      "suggestions": []
+    },
+    {
+      "key": "haven't got a row to hoe",
+      "suggestions": []
+    },
+    {
+      "key": "head honcho",
+      "suggestions": []
+    },
+    {
+      "key": "head over heels",
+      "suggestions": []
+    },
+    {
+      "key": "hear a pin drop",
+      "suggestions": []
+    },
+    {
+      "key": "heard it through the grapevine",
+      "suggestions": []
+    },
+    {
+      "key": "heart's content",
+      "suggestions": []
+    },
+    {
+      "key": "heavy as lead",
+      "suggestions": []
+    },
+    {
+      "key": "hem and haw",
+      "suggestions": []
+    },
+    {
+      "key": "high and dry",
+      "suggestions": []
+    },
+    {
+      "key": "high and mighty",
+      "suggestions": []
+    },
+    {
+      "key": "high as a kite",
+      "suggestions": []
+    },
+    {
+      "key": "hit paydirt",
+      "suggestions": []
+    },
+    {
+      "key": "hold your head up high",
+      "suggestions": []
+    },
+    {
+      "key": "hold your horses",
+      "suggestions": []
+    },
+    {
+      "key": "hold your own",
+      "suggestions": []
+    },
+    {
+      "key": "hold your tongue",
+      "suggestions": []
+    },
+    {
+      "key": "honest as the day is long",
+      "suggestions": []
+    },
+    {
+      "key": "horns of a dilemma",
+      "suggestions": []
+    },
+    {
+      "key": "horse of a different color",
+      "suggestions": []
+    },
+    {
+      "key": "hot under the collar",
+      "suggestions": []
+    },
+    {
+      "key": "hour of need",
+      "suggestions": []
+    },
+    {
+      "key": "i beg to differ",
+      "suggestions": []
+    },
+    {
+      "key": "icing on the cake",
+      "suggestions": []
+    },
+    {
+      "key": "if the shoe fits",
+      "suggestions": []
+    },
+    {
+      "key": "if the shoe were on the other foot",
+      "suggestions": []
+    },
+    {
+      "key": "in a jam",
+      "suggestions": []
+    },
+    {
+      "key": "in a jiffy",
+      "suggestions": []
+    },
+    {
+      "key": "in a nutshell",
+      "suggestions": []
+    },
+    {
+      "key": "in a pig's eye",
+      "suggestions": []
+    },
+    {
+      "key": "in a pinch",
+      "suggestions": []
+    },
+    {
+      "key": "in a word",
+      "suggestions": []
+    },
+    {
+      "key": "in hot water",
+      "suggestions": []
+    },
+    {
+      "key": "in the gutter",
+      "suggestions": []
+    },
+    {
+      "key": "in the nick of time",
+      "suggestions": []
+    },
+    {
+      "key": "in the thick of it",
+      "suggestions": []
+    },
+    {
+      "key": "in your dreams",
+      "suggestions": []
+    },
+    {
+      "key": "it ain't over till the fat lady sings",
+      "suggestions": []
+    },
+    {
+      "key": "it goes without saying",
+      "suggestions": []
+    },
+    {
+      "key": "it takes all kinds",
+      "suggestions": []
+    },
+    {
+      "key": "it takes one to know one",
+      "suggestions": []
+    },
+    {
+      "key": "it's a small world",
+      "suggestions": []
+    },
+    {
+      "key": "it's only a matter of time",
+      "suggestions": []
+    },
+    {
+      "key": "ivory tower",
+      "suggestions": []
+    },
+    {
+      "key": "jack of all trades",
+      "suggestions": []
+    },
+    {
+      "key": "jockey for position",
+      "suggestions": []
+    },
+    {
+      "key": "jog your memory",
+      "suggestions": []
+    },
+    {
+      "key": "joined at the hip",
+      "suggestions": []
+    },
+    {
+      "key": "judge a book by its cover",
+      "suggestions": []
+    },
+    {
+      "key": "jump down your throat",
+      "suggestions": []
+    },
+    {
+      "key": "jump in with both feet",
+      "suggestions": []
+    },
+    {
+      "key": "jump on the bandwagon",
+      "suggestions": []
+    },
+    {
+      "key": "jump the gun",
+      "suggestions": []
+    },
+    {
+      "key": "jump to conclusions",
+      "suggestions": []
+    },
+    {
+      "key": "just a hop, skip, and a jump",
+      "suggestions": []
+    },
+    {
+      "key": "just the ticket",
+      "suggestions": []
+    },
+    {
+      "key": "justice is blind",
+      "suggestions": []
+    },
+    {
+      "key": "keep a stiff upper lip",
+      "suggestions": []
+    },
+    {
+      "key": "keep an eye on",
+      "suggestions": []
+    },
+    {
+      "key": "keep it simple, stupid",
+      "suggestions": []
+    },
+    {
+      "key": "keep the home fires burning",
+      "suggestions": []
+    },
+    {
+      "key": "keep up with the joneses",
+      "suggestions": []
+    },
+    {
+      "key": "keep your chin up",
+      "suggestions": []
+    },
+    {
+      "key": "keep your fingers crossed",
+      "suggestions": []
+    },
+    {
+      "key": "kick the bucket",
+      "suggestions": []
+    },
+    {
+      "key": "kick up your heels",
+      "suggestions": []
+    },
+    {
+      "key": "kick your feet up",
+      "suggestions": []
+    },
+    {
+      "key": "kid in a candy store",
+      "suggestions": []
+    },
+    {
+      "key": "kill two birds with one stone",
+      "suggestions": []
+    },
+    {
+      "key": "kiss of death",
+      "suggestions": []
+    },
+    {
+      "key": "knock it out of the park",
+      "suggestions": []
+    },
+    {
+      "key": "knock on wood",
+      "suggestions": []
+    },
+    {
+      "key": "knock your socks off",
+      "suggestions": []
+    },
+    {
+      "key": "know him from adam",
+      "suggestions": []
+    },
+    {
+      "key": "know the ropes",
+      "suggestions": []
+    },
+    {
+      "key": "know the score",
+      "suggestions": []
+    },
+    {
+      "key": "knuckle down",
+      "suggestions": []
+    },
+    {
+      "key": "knuckle sandwich",
+      "suggestions": []
+    },
+    {
+      "key": "knuckle under",
+      "suggestions": []
+    },
+    {
+      "key": "labor of love",
+      "suggestions": []
+    },
+    {
+      "key": "ladder of success",
+      "suggestions": []
+    },
+    {
+      "key": "land on your feet",
+      "suggestions": []
+    },
+    {
+      "key": "lap of luxury",
+      "suggestions": []
+    },
+    {
+      "key": "last but not least",
+      "suggestions": []
+    },
+    {
+      "key": "last hurrah",
+      "suggestions": []
+    },
+    {
+      "key": "last-ditch effort",
+      "suggestions": []
+    },
+    {
+      "key": "law of the jungle",
+      "suggestions": []
+    },
+    {
+      "key": "law of the land",
+      "suggestions": []
+    },
+    {
+      "key": "lay down the law",
+      "suggestions": []
+    },
+    {
+      "key": "leaps and bounds",
+      "suggestions": []
+    },
+    {
+      "key": "let sleeping dogs lie",
+      "suggestions": []
+    },
+    {
+      "key": "let the cat out of the bag",
+      "suggestions": []
+    },
+    {
+      "key": "let the good times roll",
+      "suggestions": []
+    },
+    {
+      "key": "let your hair down",
+      "suggestions": []
+    },
+    {
+      "key": "let's talk turkey",
+      "suggestions": []
+    },
+    {
+      "key": "letter perfect",
+      "suggestions": []
+    },
+    {
+      "key": "lick your wounds",
+      "suggestions": []
+    },
+    {
+      "key": "lies like a rug",
+      "suggestions": []
+    },
+    {
+      "key": "life's a bitch",
+      "suggestions": []
+    },
+    {
+      "key": "life's a grind",
+      "suggestions": []
+    },
+    {
+      "key": "light at the end of the tunnel",
+      "suggestions": []
+    },
+    {
+      "key": "lighter than a feather",
+      "suggestions": []
+    },
+    {
+      "key": "lighter than air",
+      "suggestions": []
+    },
+    {
+      "key": "like clockwork",
+      "suggestions": []
+    },
+    {
+      "key": "like father like son",
+      "suggestions": []
+    },
+    {
+      "key": "like taking candy from a baby",
+      "suggestions": []
+    },
+    {
+      "key": "like the plague",
+      "suggestions": []
+    },
+    {
+      "key": "like there's no tomorrow",
+      "suggestions": []
+    },
+    {
+      "key": "lion's share",
+      "suggestions": []
+    },
+    {
+      "key": "live and learn",
+      "suggestions": []
+    },
+    {
+      "key": "live and let live",
+      "suggestions": []
+    },
+    {
+      "key": "long and short of it",
+      "suggestions": []
+    },
+    {
+      "key": "long lost love",
+      "suggestions": []
+    },
+    {
+      "key": "look before you leap",
+      "suggestions": []
+    },
+    {
+      "key": "look down your nose",
+      "suggestions": []
+    },
+    {
+      "key": "look what the cat dragged in",
+      "suggestions": []
+    },
+    {
+      "key": "looking a gift horse in the mouth",
+      "suggestions": []
+    },
+    {
+      "key": "looks like death warmed over",
+      "suggestions": []
+    },
+    {
+      "key": "loose cannon",
+      "suggestions": []
+    },
+    {
+      "key": "lose your head",
+      "suggestions": []
+    },
+    {
+      "key": "lose your temper",
+      "suggestions": []
+    },
+    {
+      "key": "loud as a horn",
+      "suggestions": []
+    },
+    {
+      "key": "lounge lizard",
+      "suggestions": []
+    },
+    {
+      "key": "loved and lost",
+      "suggestions": []
+    },
+    {
+      "key": "low man on the totem pole",
+      "suggestions": []
+    },
+    {
+      "key": "luck of the draw",
+      "suggestions": []
+    },
+    {
+      "key": "luck of the irish",
+      "suggestions": []
+    },
+    {
+      "key": "make hay while the sun shines",
+      "suggestions": []
+    },
+    {
+      "key": "make money hand over fist",
+      "suggestions": []
+    },
+    {
+      "key": "make my day",
+      "suggestions": []
+    },
+    {
+      "key": "make the best of a bad situation",
+      "suggestions": []
+    },
+    {
+      "key": "make the best of it",
+      "suggestions": []
+    },
+    {
+      "key": "make your blood boil",
+      "suggestions": []
+    },
+    {
+      "key": "man of few words",
+      "suggestions": []
+    },
+    {
+      "key": "man's best friend",
+      "suggestions": []
+    },
+    {
+      "key": "mark my words",
+      "suggestions": []
+    },
+    {
+      "key": "meaningful dialogue",
+      "suggestions": []
+    },
+    {
+      "key": "missed the boat on that one",
+      "suggestions": []
+    },
+    {
+      "key": "moment in the sun",
+      "suggestions": []
+    },
+    {
+      "key": "moment of glory",
+      "suggestions": []
+    },
+    {
+      "key": "moment of truth",
+      "suggestions": []
+    },
+    {
+      "key": "money to burn",
+      "suggestions": []
+    },
+    {
+      "key": "more power to you",
+      "suggestions": []
+    },
+    {
+      "key": "more than one way to skin a cat",
+      "suggestions": []
+    },
+    {
+      "key": "movers and shakers",
+      "suggestions": []
+    },
+    {
+      "key": "moving experience",
+      "suggestions": []
+    },
+    {
+      "key": "naked as a jaybird",
+      "suggestions": []
+    },
+    {
+      "key": "naked truth",
+      "suggestions": []
+    },
+    {
+      "key": "neat as a pin",
+      "suggestions": []
+    },
+    {
+      "key": "needle in a haystack",
+      "suggestions": []
+    },
+    {
+      "key": "needless to say",
+      "suggestions": []
+    },
+    {
+      "key": "neither here nor there",
+      "suggestions": []
+    },
+    {
+      "key": "never look back",
+      "suggestions": []
+    },
+    {
+      "key": "never say never",
+      "suggestions": []
+    },
+    {
+      "key": "nip and tuck",
+      "suggestions": []
+    },
+    {
+      "key": "nip it in the bud",
+      "suggestions": []
+    },
+    {
+      "key": "no guts, no glory",
+      "suggestions": []
+    },
+    {
+      "key": "no love lost",
+      "suggestions": []
+    },
+    {
+      "key": "no pain, no gain",
+      "suggestions": []
+    },
+    {
+      "key": "no skin off my back",
+      "suggestions": []
+    },
+    {
+      "key": "no stone unturned",
+      "suggestions": []
+    },
+    {
+      "key": "no time like the present",
+      "suggestions": []
+    },
+    {
+      "key": "no use crying over spilled milk",
+      "suggestions": []
+    },
+    {
+      "key": "nose to the grindstone",
+      "suggestions": []
+    },
+    {
+      "key": "not a hope in hell",
+      "suggestions": []
+    },
+    {
+      "key": "not a minute's peace",
+      "suggestions": []
+    },
+    {
+      "key": "not in my backyard",
+      "suggestions": []
+    },
+    {
+      "key": "not playing with a full deck",
+      "suggestions": []
+    },
+    {
+      "key": "not the end of the world",
+      "suggestions": []
+    },
+    {
+      "key": "not written in stone",
+      "suggestions": []
+    },
+    {
+      "key": "nothing to sneeze at",
+      "suggestions": []
+    },
+    {
+      "key": "nothing ventured nothing gained",
+      "suggestions": []
+    },
+    {
+      "key": "now we're cooking",
+      "suggestions": []
+    },
+    {
+      "key": "off the top of my head",
+      "suggestions": []
+    },
+    {
+      "key": "off the wagon",
+      "suggestions": []
+    },
+    {
+      "key": "off the wall",
+      "suggestions": []
+    },
+    {
+      "key": "old hat",
+      "suggestions": []
+    },
+    {
+      "key": "older and wiser",
+      "suggestions": []
+    },
+    {
+      "key": "older than dirt",
+      "suggestions": []
+    },
+    {
+      "key": "older than methuselah",
+      "suggestions": []
+    },
+    {
+      "key": "on a roll",
+      "suggestions": []
+    },
+    {
+      "key": "on cloud nine",
+      "suggestions": []
+    },
+    {
+      "key": "on pins and needles",
+      "suggestions": []
+    },
+    {
+      "key": "on the bandwagon",
+      "suggestions": []
+    },
+    {
+      "key": "on the money",
+      "suggestions": []
+    },
+    {
+      "key": "on the nose",
+      "suggestions": []
+    },
+    {
+      "key": "on the rocks",
+      "suggestions": []
+    },
+    {
+      "key": "on the spot",
+      "suggestions": []
+    },
+    {
+      "key": "on the tip of my tongue",
+      "suggestions": []
+    },
+    {
+      "key": "on the wagon",
+      "suggestions": []
+    },
+    {
+      "key": "on thin ice",
+      "suggestions": []
+    },
+    {
+      "key": "once bitten, twice shy",
+      "suggestions": []
+    },
+    {
+      "key": "one bad apple doesn't spoil the bushel",
+      "suggestions": []
+    },
+    {
+      "key": "one born every minute",
+      "suggestions": []
+    },
+    {
+      "key": "one brick short",
+      "suggestions": []
+    },
+    {
+      "key": "one foot in the grave",
+      "suggestions": []
+    },
+    {
+      "key": "one in a million",
+      "suggestions": []
+    },
+    {
+      "key": "one red cent",
+      "suggestions": []
+    },
+    {
+      "key": "only game in town",
+      "suggestions": []
+    },
+    {
+      "key": "open a can of worms",
+      "suggestions": []
+    },
+    {
+      "key": "open and shut case",
+      "suggestions": []
+    },
+    {
+      "key": "open the flood gates",
+      "suggestions": []
+    },
+    {
+      "key": "opportunity doesn't knock twice",
+      "suggestions": []
+    },
+    {
+      "key": "out of pocket",
+      "suggestions": []
+    },
+    {
+      "key": "out of sight, out of mind",
+      "suggestions": []
+    },
+    {
+      "key": "out of the frying pan into the fire",
+      "suggestions": []
+    },
+    {
+      "key": "out of the woods",
+      "suggestions": []
+    },
+    {
+      "key": "out on a limb",
+      "suggestions": []
+    },
+    {
+      "key": "over a barrel",
+      "suggestions": []
+    },
+    {
+      "key": "over the hump",
+      "suggestions": []
+    },
+    {
+      "key": "pain and suffering",
+      "suggestions": []
+    },
+    {
+      "key": "pain in the",
+      "suggestions": []
+    },
+    {
+      "key": "panic button",
+      "suggestions": []
+    },
+    {
+      "key": "par for the course",
+      "suggestions": []
+    },
+    {
+      "key": "part and parcel",
+      "suggestions": []
+    },
+    {
+      "key": "party pooper",
+      "suggestions": []
+    },
+    {
+      "key": "pass the buck",
+      "suggestions": []
+    },
+    {
+      "key": "patience is a virtue",
+      "suggestions": []
+    },
+    {
+      "key": "pay through the nose",
+      "suggestions": []
+    },
+    {
+      "key": "penny pincher",
+      "suggestions": []
+    },
+    {
+      "key": "perfect storm",
+      "suggestions": []
+    },
+    {
+      "key": "pig in a poke",
+      "suggestions": []
+    },
+    {
+      "key": "pile it on",
+      "suggestions": []
+    },
+    {
+      "key": "pillar of the community",
+      "suggestions": []
+    },
+    {
+      "key": "pin your hopes on",
+      "suggestions": []
+    },
+    {
+      "key": "pitter patter of little feet",
+      "suggestions": []
+    },
+    {
+      "key": "plain as day",
+      "suggestions": []
+    },
+    {
+      "key": "plain as the nose on your face",
+      "suggestions": []
+    },
+    {
+      "key": "play by the rules",
+      "suggestions": []
+    },
+    {
+      "key": "play your cards right",
+      "suggestions": []
+    },
+    {
+      "key": "playing the field",
+      "suggestions": []
+    },
+    {
+      "key": "playing with fire",
+      "suggestions": []
+    },
+    {
+      "key": "pleased as punch",
+      "suggestions": []
+    },
+    {
+      "key": "plenty of fish in the sea",
+      "suggestions": []
+    },
+    {
+      "key": "point with pride",
+      "suggestions": []
+    },
+    {
+      "key": "poor as a church mouse",
+      "suggestions": []
+    },
+    {
+      "key": "pot calling the kettle black",
+      "suggestions": []
+    },
+    {
+      "key": "pretty as a picture",
+      "suggestions": []
+    },
+    {
+      "key": "pull a fast one",
+      "suggestions": []
+    },
+    {
+      "key": "pull your punches",
+      "suggestions": []
+    },
+    {
+      "key": "pulling your leg",
+      "suggestions": []
+    },
+    {
+      "key": "pure as the driven snow",
+      "suggestions": []
+    },
+    {
+      "key": "put it in a nutshell",
+      "suggestions": []
+    },
+    {
+      "key": "put one over on you",
+      "suggestions": []
+    },
+    {
+      "key": "put the cart before the horse",
+      "suggestions": []
+    },
+    {
+      "key": "put the pedal to the metal",
+      "suggestions": []
+    },
+    {
+      "key": "put your best foot forward",
+      "suggestions": []
+    },
+    {
+      "key": "put your foot down",
+      "suggestions": []
+    },
+    {
+      "key": "quick as a bunny",
+      "suggestions": []
+    },
+    {
+      "key": "quick as a lick",
+      "suggestions": []
+    },
+    {
+      "key": "quick as a wink",
+      "suggestions": []
+    },
+    {
+      "key": "quick as lightning",
+      "suggestions": []
+    },
+    {
+      "key": "quiet as a dormouse",
+      "suggestions": []
+    },
+    {
+      "key": "rags to riches",
+      "suggestions": []
+    },
+    {
+      "key": "raining buckets",
+      "suggestions": []
+    },
+    {
+      "key": "raining cats and dogs",
+      "suggestions": []
+    },
+    {
+      "key": "rank and file",
+      "suggestions": []
+    },
+    {
+      "key": "rat race",
+      "suggestions": []
+    },
+    {
+      "key": "reap what you sow",
+      "suggestions": []
+    },
+    {
+      "key": "red as a beet",
+      "suggestions": []
+    },
+    {
+      "key": "red herring",
+      "suggestions": []
+    },
+    {
+      "key": "reinvent the wheel",
+      "suggestions": []
+    },
+    {
+      "key": "rich and famous",
+      "suggestions": []
+    },
+    {
+      "key": "rings a bell",
+      "suggestions": []
+    },
+    {
+      "key": "ripe old age",
+      "suggestions": []
+    },
+    {
+      "key": "ripped me off",
+      "suggestions": []
+    },
+    {
+      "key": "rise and shine",
+      "suggestions": []
+    },
+    {
+      "key": "road to hell is paved with good intentions",
+      "suggestions": []
+    },
+    {
+      "key": "rob peter to pay paul",
+      "suggestions": []
+    },
+    {
+      "key": "roll over in the grave",
+      "suggestions": []
+    },
+    {
+      "key": "rub the wrong way",
+      "suggestions": []
+    },
+    {
+      "key": "ruled the roost",
+      "suggestions": []
+    },
+    {
+      "key": "running in circles",
+      "suggestions": []
+    },
+    {
+      "key": "sad but true",
+      "suggestions": []
+    },
+    {
+      "key": "sadder but wiser",
+      "suggestions": []
+    },
+    {
+      "key": "salt of the earth",
+      "suggestions": []
+    },
+    {
+      "key": "scared stiff",
+      "suggestions": []
+    },
+    {
+      "key": "scared to death",
+      "suggestions": []
+    },
+    {
+      "key": "sealed with a kiss",
+      "suggestions": []
+    },
+    {
+      "key": "second to none",
+      "suggestions": []
+    },
+    {
+      "key": "see eye to eye",
+      "suggestions": []
+    },
+    {
+      "key": "seen the light",
+      "suggestions": []
+    },
+    {
+      "key": "seize the day",
+      "suggestions": []
+    },
+    {
+      "key": "set the record straight",
+      "suggestions": []
+    },
+    {
+      "key": "set the world on fire",
+      "suggestions": []
+    },
+    {
+      "key": "set your teeth on edge",
+      "suggestions": []
+    },
+    {
+      "key": "sharp as a tack",
+      "suggestions": []
+    },
+    {
+      "key": "shoot for the moon",
+      "suggestions": []
+    },
+    {
+      "key": "shoot the breeze",
+      "suggestions": []
+    },
+    {
+      "key": "shot in the dark",
+      "suggestions": []
+    },
+    {
+      "key": "shoulder to the wheel",
+      "suggestions": []
+    },
+    {
+      "key": "sick as a dog",
+      "suggestions": []
+    },
+    {
+      "key": "sigh of relief",
+      "suggestions": []
+    },
+    {
+      "key": "signed, sealed, and delivered",
+      "suggestions": []
+    },
+    {
+      "key": "sink or swim",
+      "suggestions": []
+    },
+    {
+      "key": "six of one, half a dozen of another",
+      "suggestions": []
+    },
+    {
+      "key": "skating on thin ice",
+      "suggestions": []
+    },
+    {
+      "key": "slept like a log",
+      "suggestions": []
+    },
+    {
+      "key": "slinging mud",
+      "suggestions": []
+    },
+    {
+      "key": "slippery as an eel",
+      "suggestions": []
+    },
+    {
+      "key": "slow as molasses",
+      "suggestions": []
+    },
+    {
+      "key": "smart as a whip",
+      "suggestions": []
+    },
+    {
+      "key": "smooth as a baby's bottom",
+      "suggestions": []
+    },
+    {
+      "key": "sneaking suspicion",
+      "suggestions": []
+    },
+    {
+      "key": "snug as a bug in a rug",
+      "suggestions": []
+    },
+    {
+      "key": "sow wild oats",
+      "suggestions": []
+    },
+    {
+      "key": "spare the rod, spoil the child",
+      "suggestions": []
+    },
+    {
+      "key": "speak of the devil",
+      "suggestions": []
+    },
+    {
+      "key": "spilled the beans",
+      "suggestions": []
+    },
+    {
+      "key": "spinning your wheels",
+      "suggestions": []
+    },
+    {
+      "key": "spitting image of",
+      "suggestions": []
+    },
+    {
+      "key": "spoke with relish",
+      "suggestions": []
+    },
+    {
+      "key": "spread like wildfire",
+      "suggestions": []
+    },
+    {
+      "key": "spring to life",
+      "suggestions": []
+    },
+    {
+      "key": "squeaky wheel gets the grease",
+      "suggestions": []
+    },
+    {
+      "key": "stands out like a sore thumb",
+      "suggestions": []
+    },
+    {
+      "key": "start from scratch",
+      "suggestions": []
+    },
+    {
+      "key": "stick in the mud",
+      "suggestions": []
+    },
+    {
+      "key": "still waters run deep",
+      "suggestions": []
+    },
+    {
+      "key": "stitch in time",
+      "suggestions": []
+    },
+    {
+      "key": "stop and smell the roses",
+      "suggestions": []
+    },
+    {
+      "key": "straight as an arrow",
+      "suggestions": []
+    },
+    {
+      "key": "straw that broke the camel's back",
+      "suggestions": []
+    },
+    {
+      "key": "strong as an ox",
+      "suggestions": []
+    },
+    {
+      "key": "stubborn as a mule",
+      "suggestions": []
+    },
+    {
+      "key": "stuff that dreams are made of",
+      "suggestions": []
+    },
+    {
+      "key": "stuffed shirt",
+      "suggestions": []
+    },
+    {
+      "key": "sweating blood",
+      "suggestions": []
+    },
+    {
+      "key": "sweating bullets",
+      "suggestions": []
+    },
+    {
+      "key": "take a load off",
+      "suggestions": []
+    },
+    {
+      "key": "take one for the team",
+      "suggestions": []
+    },
+    {
+      "key": "take the bait",
+      "suggestions": []
+    },
+    {
+      "key": "take the bull by the horns",
+      "suggestions": []
+    },
+    {
+      "key": "take the plunge",
+      "suggestions": []
+    },
+    {
+      "key": "takes one to know one",
+      "suggestions": []
+    },
+    {
+      "key": "takes two to tango",
+      "suggestions": []
+    },
+    {
+      "key": "the more the merrier",
+      "suggestions": []
+    },
+    {
+      "key": "the real deal",
+      "suggestions": []
+    },
+    {
+      "key": "the real mccoy",
+      "suggestions": []
+    },
+    {
+      "key": "the red carpet treatment",
+      "suggestions": []
+    },
+    {
+      "key": "the same old story",
+      "suggestions": []
+    },
+    {
+      "key": "there is no accounting for taste",
+      "suggestions": []
+    },
+    {
+      "key": "thick as a brick",
+      "suggestions": []
+    },
+    {
+      "key": "thick as thieves",
+      "suggestions": []
+    },
+    {
+      "key": "thin as a rail",
+      "suggestions": []
+    },
+    {
+      "key": "think outside of the box",
+      "suggestions": []
+    },
+    {
+      "key": "third time's the charm",
+      "suggestions": []
+    },
+    {
+      "key": "this day and age",
+      "suggestions": []
+    },
+    {
+      "key": "this hurts me worse than it hurts you",
+      "suggestions": []
+    },
+    {
+      "key": "this point in time",
+      "suggestions": []
+    },
+    {
+      "key": "three sheets to the wind",
+      "suggestions": []
+    },
+    {
+      "key": "through thick and thin",
+      "suggestions": []
+    },
+    {
+      "key": "throw in the towel",
+      "suggestions": []
+    },
+    {
+      "key": "tie one on",
+      "suggestions": []
+    },
+    {
+      "key": "tighter than a drum",
+      "suggestions": []
+    },
+    {
+      "key": "time and time again",
+      "suggestions": []
+    },
+    {
+      "key": "time is of the essence",
+      "suggestions": []
+    },
+    {
+      "key": "tip of the iceberg",
+      "suggestions": []
+    },
+    {
+      "key": "tired but happy",
+      "suggestions": []
+    },
+    {
+      "key": "to coin a phrase",
+      "suggestions": []
+    },
+    {
+      "key": "to each his own",
+      "suggestions": []
+    },
+    {
+      "key": "to make a long story short",
+      "suggestions": []
+    },
+    {
+      "key": "to the best of my knowledge",
+      "suggestions": []
+    },
+    {
+      "key": "toe the line",
+      "suggestions": []
+    },
+    {
+      "key": "tongue in cheek",
+      "suggestions": []
+    },
+    {
+      "key": "too good to be true",
+      "suggestions": []
+    },
+    {
+      "key": "too hot to handle",
+      "suggestions": []
+    },
+    {
+      "key": "too numerous to mention",
+      "suggestions": []
+    },
+    {
+      "key": "touch with a ten foot pole",
+      "suggestions": []
+    },
+    {
+      "key": "tough as nails",
+      "suggestions": []
+    },
+    {
+      "key": "trial and error",
+      "suggestions": []
+    },
+    {
+      "key": "trials and tribulations",
+      "suggestions": []
+    },
+    {
+      "key": "tried and true",
+      "suggestions": []
+    },
+    {
+      "key": "trip down memory lane",
+      "suggestions": []
+    },
+    {
+      "key": "twist of fate",
+      "suggestions": []
+    },
+    {
+      "key": "two cents worth",
+      "suggestions": []
+    },
+    {
+      "key": "two peas in a pod",
+      "suggestions": []
+    },
+    {
+      "key": "ugly as sin",
+      "suggestions": []
+    },
+    {
+      "key": "under the counter",
+      "suggestions": []
+    },
+    {
+      "key": "under the gun",
+      "suggestions": []
+    },
+    {
+      "key": "under the same roof",
+      "suggestions": []
+    },
+    {
+      "key": "under the weather",
+      "suggestions": []
+    },
+    {
+      "key": "until the cows come home",
+      "suggestions": []
+    },
+    {
+      "key": "unvarnished truth",
+      "suggestions": []
+    },
+    {
+      "key": "up the creek",
+      "suggestions": []
+    },
+    {
+      "key": "uphill battle",
+      "suggestions": []
+    },
+    {
+      "key": "upper crust",
+      "suggestions": []
+    },
+    {
+      "key": "upset the applecart",
+      "suggestions": []
+    },
+    {
+      "key": "vain attempt",
+      "suggestions": []
+    },
+    {
+      "key": "vain effort",
+      "suggestions": []
+    },
+    {
+      "key": "vanquish the enemy",
+      "suggestions": []
+    },
+    {
+      "key": "vested interest",
+      "suggestions": []
+    },
+    {
+      "key": "waiting for the other shoe to drop",
+      "suggestions": []
+    },
+    {
+      "key": "wakeup call",
+      "suggestions": []
+    },
+    {
+      "key": "warm welcome",
+      "suggestions": []
+    },
+    {
+      "key": "watch your p's and q's",
+      "suggestions": []
+    },
+    {
+      "key": "watch your tongue",
+      "suggestions": []
+    },
+    {
+      "key": "watching the clock",
+      "suggestions": []
+    },
+    {
+      "key": "water under the bridge",
+      "suggestions": []
+    },
+    {
+      "key": "weather the storm",
+      "suggestions": []
+    },
+    {
+      "key": "weed them out",
+      "suggestions": []
+    },
+    {
+      "key": "week of sundays",
+      "suggestions": []
+    },
+    {
+      "key": "went belly up",
+      "suggestions": []
+    },
+    {
+      "key": "wet behind the ears",
+      "suggestions": []
+    },
+    {
+      "key": "what goes around comes around",
+      "suggestions": []
+    },
+    {
+      "key": "what you see is what you get",
+      "suggestions": []
+    },
+    {
+      "key": "when it rains, it pours",
+      "suggestions": []
+    },
+    {
+      "key": "when push comes to shove",
+      "suggestions": []
+    },
+    {
+      "key": "when the cat's away",
+      "suggestions": []
+    },
+    {
+      "key": "when the going gets tough, the tough get going",
+      "suggestions": []
+    },
+    {
+      "key": "white as a sheet",
+      "suggestions": []
+    },
+    {
+      "key": "whole ball of wax",
+      "suggestions": []
+    },
+    {
+      "key": "whole hog",
+      "suggestions": []
+    },
+    {
+      "key": "whole nine yards",
+      "suggestions": []
+    },
+    {
+      "key": "wild goose chase",
+      "suggestions": []
+    },
+    {
+      "key": "will wonders never cease?",
+      "suggestions": []
+    },
+    {
+      "key": "wisdom of the ages",
+      "suggestions": []
+    },
+    {
+      "key": "wise as an owl",
+      "suggestions": []
+    },
+    {
+      "key": "wolf at the door",
+      "suggestions": []
+    },
+    {
+      "key": "words fail me",
+      "suggestions": []
+    },
+    {
+      "key": "work like a dog",
+      "suggestions": []
+    },
+    {
+      "key": "world weary",
+      "suggestions": []
+    },
+    {
+      "key": "worst nightmare",
+      "suggestions": []
+    },
+    {
+      "key": "worth its weight in gold",
+      "suggestions": []
+    },
+    {
+      "key": "wrong side of the bed",
+      "suggestions": []
+    },
+    {
+      "key": "yanking your chain",
+      "suggestions": []
+    },
+    {
+      "key": "yappy as a dog",
+      "suggestions": []
+    },
+    {
+      "key": "years young",
+      "suggestions": []
+    },
+    {
+      "key": "you are what you eat",
+      "suggestions": []
+    },
+    {
+      "key": "you can run but you can't hide",
+      "suggestions": []
+    },
+    {
+      "key": "you only live once",
+      "suggestions": []
+    },
+    {
+      "key": "you're the boss",
+      "suggestions": []
+    },
+    {
+      "key": "young and foolish",
+      "suggestions": []
+    },
+    {
+      "key": "young and vibrant",
+      "suggestions": []
+    }
+  ]
+}

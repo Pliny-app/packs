@@ -1,0 +1,2132 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "redundancies",
+  "name": "Redundancies",
+  "kind": "style",
+  "language": "en",
+  "description": "Wordy words and phrases with simpler ones.",
+  "updated": "2026-10-13",
+  "message": "a simpler word reads better",
+  "remove": true,
+  "source": "retext-simplify by Titus Wormer (MIT)",
+  "entries": [
+    {
+      "key": "a number of",
+      "suggestions": [
+        "many",
+        "some"
+      ]
+    },
+    {
+      "key": "abundance",
+      "suggestions": [
+        "enough",
+        "plenty"
+      ]
+    },
+    {
+      "key": "accede to",
+      "suggestions": [
+        "agree to",
+        "allow"
+      ]
+    },
+    {
+      "key": "accelerate",
+      "suggestions": [
+        "speed up"
+      ]
+    },
+    {
+      "key": "accentuate",
+      "suggestions": [
+        "stress"
+      ]
+    },
+    {
+      "key": "accompany",
+      "suggestions": [
+        "go with",
+        "with"
+      ]
+    },
+    {
+      "key": "accomplish",
+      "suggestions": [
+        "carry out",
+        "do"
+      ]
+    },
+    {
+      "key": "accorded",
+      "suggestions": [
+        "given"
+      ]
+    },
+    {
+      "key": "accordingly",
+      "suggestions": [
+        "so"
+      ]
+    },
+    {
+      "key": "accrue",
+      "suggestions": [
+        "add",
+        "gain"
+      ]
+    },
+    {
+      "key": "accurate",
+      "suggestions": [
+        "correct",
+        "exact",
+        "right"
+      ]
+    },
+    {
+      "key": "acquiesce",
+      "suggestions": [
+        "agree"
+      ]
+    },
+    {
+      "key": "acquire",
+      "suggestions": [
+        "get"
+      ]
+    },
+    {
+      "key": "additional",
+      "suggestions": [
+        "added",
+        "extra",
+        "more",
+        "other"
+      ]
+    },
+    {
+      "key": "address",
+      "suggestions": [
+        "discuss"
+      ]
+    },
+    {
+      "key": "addressees",
+      "suggestions": [
+        "you"
+      ]
+    },
+    {
+      "key": "addressees are requested",
+      "suggestions": [
+        "please"
+      ]
+    },
+    {
+      "key": "adjacent to",
+      "suggestions": [
+        "next to"
+      ]
+    },
+    {
+      "key": "adjustment",
+      "suggestions": [
+        "change"
+      ]
+    },
+    {
+      "key": "admissible",
+      "suggestions": [
+        "accepted",
+        "allowed"
+      ]
+    },
+    {
+      "key": "advantageous",
+      "suggestions": [
+        "helpful"
+      ]
+    },
+    {
+      "key": "adversely impact",
+      "suggestions": [
+        "hurt"
+      ]
+    },
+    {
+      "key": "adversely impact on",
+      "suggestions": [
+        "hurt",
+        "set back"
+      ]
+    },
+    {
+      "key": "advise",
+      "suggestions": [
+        "recommend",
+        "tell"
+      ]
+    },
+    {
+      "key": "afford an opportunity",
+      "suggestions": [
+        "allow",
+        "let"
+      ]
+    },
+    {
+      "key": "aforementioned",
+      "suggestions": [
+        "remove"
+      ]
+    },
+    {
+      "key": "aggregate",
+      "suggestions": [
+        "add",
+        "total"
+      ]
+    },
+    {
+      "key": "aircraft",
+      "suggestions": [
+        "plane"
+      ]
+    },
+    {
+      "key": "all of",
+      "suggestions": [
+        "all"
+      ]
+    },
+    {
+      "key": "alleviate",
+      "suggestions": [
+        "ease",
+        "reduce"
+      ]
+    },
+    {
+      "key": "allocate",
+      "suggestions": [
+        "divide"
+      ]
+    },
+    {
+      "key": "along the lines of",
+      "suggestions": [
+        "as in",
+        "like"
+      ]
+    },
+    {
+      "key": "already existing",
+      "suggestions": [
+        "existing"
+      ]
+    },
+    {
+      "key": "alternatively",
+      "suggestions": [
+        "or"
+      ]
+    },
+    {
+      "key": "ameliorate",
+      "suggestions": [
+        "help",
+        "improve"
+      ]
+    },
+    {
+      "key": "and/or",
+      "suggestions": [
+        "… or … or both"
+      ]
+    },
+    {
+      "key": "anticipate",
+      "suggestions": [
+        "expect"
+      ]
+    },
+    {
+      "key": "apparent",
+      "suggestions": [
+        "clear",
+        "plain"
+      ]
+    },
+    {
+      "key": "appreciable",
+      "suggestions": [
+        "many"
+      ]
+    },
+    {
+      "key": "appropriate",
+      "suggestions": [
+        "proper",
+        "right"
+      ]
+    },
+    {
+      "key": "approximate",
+      "suggestions": [
+        "about"
+      ]
+    },
+    {
+      "key": "arrive onboard",
+      "suggestions": [
+        "arrive"
+      ]
+    },
+    {
+      "key": "as a means of",
+      "suggestions": [
+        "to"
+      ]
+    },
+    {
+      "key": "as of yet",
+      "suggestions": [
+        "yet"
+      ]
+    },
+    {
+      "key": "as prescribed by",
+      "suggestions": [
+        "in"
+      ]
+    },
+    {
+      "key": "as to",
+      "suggestions": [
+        "about",
+        "on"
+      ]
+    },
+    {
+      "key": "as yet",
+      "suggestions": [
+        "yet"
+      ]
+    },
+    {
+      "key": "ascertain",
+      "suggestions": [
+        "find out",
+        "learn"
+      ]
+    },
+    {
+      "key": "assist",
+      "suggestions": [
+        "aid",
+        "help"
+      ]
+    },
+    {
+      "key": "assistance",
+      "suggestions": [
+        "aid",
+        "help"
+      ]
+    },
+    {
+      "key": "at the present time",
+      "suggestions": [
+        "at present"
+      ]
+    },
+    {
+      "key": "at this time",
+      "suggestions": [
+        "now"
+      ]
+    },
+    {
+      "key": "attain",
+      "suggestions": [
+        "meet"
+      ]
+    },
+    {
+      "key": "attempt",
+      "suggestions": [
+        "try"
+      ]
+    },
+    {
+      "key": "attributable to",
+      "suggestions": [
+        "because"
+      ]
+    },
+    {
+      "key": "authorise",
+      "suggestions": [
+        "allow",
+        "let"
+      ]
+    },
+    {
+      "key": "authorize",
+      "suggestions": [
+        "allow",
+        "let"
+      ]
+    },
+    {
+      "key": "be advised",
+      "suggestions": []
+    },
+    {
+      "key": "because of the fact that",
+      "suggestions": [
+        "because"
+      ]
+    },
+    {
+      "key": "belated",
+      "suggestions": [
+        "late"
+      ]
+    },
+    {
+      "key": "benefit",
+      "suggestions": [
+        "help"
+      ]
+    },
+    {
+      "key": "benefit from",
+      "suggestions": [
+        "enjoy"
+      ]
+    },
+    {
+      "key": "bestow",
+      "suggestions": [
+        "award",
+        "give"
+      ]
+    },
+    {
+      "key": "by means of",
+      "suggestions": [
+        "by",
+        "with"
+      ]
+    },
+    {
+      "key": "by virtue of",
+      "suggestions": [
+        "by",
+        "under"
+      ]
+    },
+    {
+      "key": "capability",
+      "suggestions": [
+        "ability"
+      ]
+    },
+    {
+      "key": "caveat",
+      "suggestions": [
+        "warning"
+      ]
+    },
+    {
+      "key": "cease",
+      "suggestions": [
+        "stop"
+      ]
+    },
+    {
+      "key": "close proximity",
+      "suggestions": [
+        "near"
+      ]
+    },
+    {
+      "key": "combat environment",
+      "suggestions": [
+        "combat"
+      ]
+    },
+    {
+      "key": "combined",
+      "suggestions": [
+        "joint"
+      ]
+    },
+    {
+      "key": "commence",
+      "suggestions": [
+        "begin",
+        "start"
+      ]
+    },
+    {
+      "key": "comply with",
+      "suggestions": [
+        "follow"
+      ]
+    },
+    {
+      "key": "component",
+      "suggestions": [
+        "part"
+      ]
+    },
+    {
+      "key": "comprise",
+      "suggestions": [
+        "form",
+        "include",
+        "make up"
+      ]
+    },
+    {
+      "key": "concerning",
+      "suggestions": [
+        "about",
+        "on"
+      ]
+    },
+    {
+      "key": "consequently",
+      "suggestions": [
+        "so"
+      ]
+    },
+    {
+      "key": "consolidate",
+      "suggestions": [
+        "combine",
+        "join",
+        "merge"
+      ]
+    },
+    {
+      "key": "constitutes",
+      "suggestions": [
+        "forms",
+        "is",
+        "makes up"
+      ]
+    },
+    {
+      "key": "contains",
+      "suggestions": [
+        "has"
+      ]
+    },
+    {
+      "key": "convene",
+      "suggestions": [
+        "meet"
+      ]
+    },
+    {
+      "key": "currently",
+      "suggestions": [
+        "now"
+      ]
+    },
+    {
+      "key": "deem",
+      "suggestions": [
+        "believe",
+        "consider",
+        "think"
+      ]
+    },
+    {
+      "key": "delete",
+      "suggestions": [
+        "cut",
+        "drop"
+      ]
+    },
+    {
+      "key": "demonstrate",
+      "suggestions": [
+        "prove",
+        "show"
+      ]
+    },
+    {
+      "key": "depart",
+      "suggestions": [
+        "go",
+        "leave"
+      ]
+    },
+    {
+      "key": "designate",
+      "suggestions": [
+        "appoint",
+        "choose",
+        "name"
+      ]
+    },
+    {
+      "key": "desire",
+      "suggestions": [
+        "want",
+        "wish"
+      ]
+    },
+    {
+      "key": "determine",
+      "suggestions": [
+        "decide",
+        "figure",
+        "find"
+      ]
+    },
+    {
+      "key": "disclose",
+      "suggestions": [
+        "show"
+      ]
+    },
+    {
+      "key": "discontinue",
+      "suggestions": [
+        "drop",
+        "stop"
+      ]
+    },
+    {
+      "key": "disseminate",
+      "suggestions": [
+        "give",
+        "issue",
+        "pass",
+        "send"
+      ]
+    },
+    {
+      "key": "due to the fact that",
+      "suggestions": [
+        "because",
+        "due to",
+        "since"
+      ]
+    },
+    {
+      "key": "during the period",
+      "suggestions": [
+        "during"
+      ]
+    },
+    {
+      "key": "e.g.",
+      "suggestions": [
+        "for example",
+        "such as"
+      ]
+    },
+    {
+      "key": "each and every",
+      "suggestions": [
+        "each"
+      ]
+    },
+    {
+      "key": "economical",
+      "suggestions": [
+        "cheap"
+      ]
+    },
+    {
+      "key": "effect",
+      "suggestions": [
+        "choose",
+        "pick",
+        "result"
+      ]
+    },
+    {
+      "key": "effect modifications",
+      "suggestions": [
+        "make changes"
+      ]
+    },
+    {
+      "key": "elect",
+      "suggestions": [
+        "choose"
+      ]
+    },
+    {
+      "key": "eliminate",
+      "suggestions": [
+        "cut",
+        "drop",
+        "end",
+        "stop"
+      ]
+    },
+    {
+      "key": "elucidate",
+      "suggestions": [
+        "explain"
+      ]
+    },
+    {
+      "key": "employ",
+      "suggestions": [
+        "use"
+      ]
+    },
+    {
+      "key": "encounter",
+      "suggestions": [
+        "meet"
+      ]
+    },
+    {
+      "key": "endeavor",
+      "suggestions": [
+        "try"
+      ]
+    },
+    {
+      "key": "ensure",
+      "suggestions": [
+        "make sure"
+      ]
+    },
+    {
+      "key": "enumerate",
+      "suggestions": [
+        "count"
+      ]
+    },
+    {
+      "key": "equipments",
+      "suggestions": [
+        "equipment"
+      ]
+    },
+    {
+      "key": "equitable",
+      "suggestions": [
+        "fair"
+      ]
+    },
+    {
+      "key": "equivalent",
+      "suggestions": [
+        "equal"
+      ]
+    },
+    {
+      "key": "establish",
+      "suggestions": [
+        "set up",
+        "prove",
+        "show"
+      ]
+    },
+    {
+      "key": "evaluate",
+      "suggestions": [
+        "check",
+        "test"
+      ]
+    },
+    {
+      "key": "evidenced",
+      "suggestions": [
+        "showed"
+      ]
+    },
+    {
+      "key": "evident",
+      "suggestions": [
+        "clear"
+      ]
+    },
+    {
+      "key": "exclusively",
+      "suggestions": [
+        "only"
+      ]
+    },
+    {
+      "key": "exhibit",
+      "suggestions": [
+        "show"
+      ]
+    },
+    {
+      "key": "expedite",
+      "suggestions": [
+        "hasten",
+        "hurry",
+        "speed up"
+      ]
+    },
+    {
+      "key": "expeditious",
+      "suggestions": [
+        "fast",
+        "quick"
+      ]
+    },
+    {
+      "key": "expend",
+      "suggestions": [
+        "spend"
+      ]
+    },
+    {
+      "key": "expertise",
+      "suggestions": [
+        "ability"
+      ]
+    },
+    {
+      "key": "expiration",
+      "suggestions": [
+        "end"
+      ]
+    },
+    {
+      "key": "facilitate",
+      "suggestions": [
+        "ease",
+        "help"
+      ]
+    },
+    {
+      "key": "factual evidence",
+      "suggestions": [
+        "evidence",
+        "facts"
+      ]
+    },
+    {
+      "key": "failed to",
+      "suggestions": [
+        "didn’t"
+      ]
+    },
+    {
+      "key": "feasible",
+      "suggestions": [
+        "can be done",
+        "workable"
+      ]
+    },
+    {
+      "key": "females",
+      "suggestions": [
+        "women"
+      ]
+    },
+    {
+      "key": "finalise",
+      "suggestions": [
+        "complete",
+        "finish"
+      ]
+    },
+    {
+      "key": "finalize",
+      "suggestions": [
+        "complete",
+        "finish"
+      ]
+    },
+    {
+      "key": "first and foremost",
+      "suggestions": [
+        "first"
+      ]
+    },
+    {
+      "key": "for a period of",
+      "suggestions": [
+        "for"
+      ]
+    },
+    {
+      "key": "for the purpose of",
+      "suggestions": [
+        "to"
+      ]
+    },
+    {
+      "key": "forfeit",
+      "suggestions": [
+        "give up",
+        "lose"
+      ]
+    },
+    {
+      "key": "formulate",
+      "suggestions": [
+        "plan"
+      ]
+    },
+    {
+      "key": "forward",
+      "suggestions": [
+        "send"
+      ]
+    },
+    {
+      "key": "frequently",
+      "suggestions": [
+        "often"
+      ]
+    },
+    {
+      "key": "function",
+      "suggestions": [
+        "act",
+        "role",
+        "work"
+      ]
+    },
+    {
+      "key": "furnish",
+      "suggestions": [
+        "give",
+        "send"
+      ]
+    },
+    {
+      "key": "has a requirement for",
+      "suggestions": [
+        "needs"
+      ]
+    },
+    {
+      "key": "has no effect",
+      "suggestions": [
+        "does nothing",
+        "does not apply"
+      ]
+    },
+    {
+      "key": "herein",
+      "suggestions": [
+        "here"
+      ]
+    },
+    {
+      "key": "heretofore",
+      "suggestions": [
+        "until now"
+      ]
+    },
+    {
+      "key": "herewith",
+      "suggestions": [
+        "here",
+        "below"
+      ]
+    },
+    {
+      "key": "honest truth",
+      "suggestions": [
+        "truth"
+      ]
+    },
+    {
+      "key": "however",
+      "suggestions": [
+        "but",
+        "yet"
+      ]
+    },
+    {
+      "key": "i.e.",
+      "suggestions": [
+        "as in"
+      ]
+    },
+    {
+      "key": "identical",
+      "suggestions": [
+        "same"
+      ]
+    },
+    {
+      "key": "identify",
+      "suggestions": [
+        "find",
+        "name",
+        "show"
+      ]
+    },
+    {
+      "key": "if and when",
+      "suggestions": [
+        "if",
+        "when"
+      ]
+    },
+    {
+      "key": "immediately",
+      "suggestions": [
+        "at once"
+      ]
+    },
+    {
+      "key": "impacted",
+      "suggestions": [
+        "affected",
+        "changed",
+        "harmed"
+      ]
+    },
+    {
+      "key": "implement",
+      "suggestions": [
+        "carry out",
+        "install",
+        "put in place",
+        "tool",
+        "start"
+      ]
+    },
+    {
+      "key": "in a timely manner",
+      "suggestions": [
+        "on time",
+        "promptly"
+      ]
+    },
+    {
+      "key": "in accordance with",
+      "suggestions": [
+        "by",
+        "under",
+        "following",
+        "per"
+      ]
+    },
+    {
+      "key": "in addition",
+      "suggestions": [
+        "also",
+        "besides",
+        "too"
+      ]
+    },
+    {
+      "key": "in all likelihood",
+      "suggestions": [
+        "probably"
+      ]
+    },
+    {
+      "key": "in an effort to",
+      "suggestions": [
+        "to"
+      ]
+    },
+    {
+      "key": "in between",
+      "suggestions": [
+        "between"
+      ]
+    },
+    {
+      "key": "in excess of",
+      "suggestions": [
+        "more than"
+      ]
+    },
+    {
+      "key": "in lieu of",
+      "suggestions": [
+        "instead"
+      ]
+    },
+    {
+      "key": "in light of the fact that",
+      "suggestions": [
+        "because"
+      ]
+    },
+    {
+      "key": "in many cases",
+      "suggestions": [
+        "often"
+      ]
+    },
+    {
+      "key": "in order that",
+      "suggestions": [
+        "for",
+        "so"
+      ]
+    },
+    {
+      "key": "in order to",
+      "suggestions": [
+        "to"
+      ]
+    },
+    {
+      "key": "in order for",
+      "suggestions": [
+        "for"
+      ]
+    },
+    {
+      "key": "in regard to",
+      "suggestions": [
+        "about",
+        "concerning",
+        "on"
+      ]
+    },
+    {
+      "key": "in relation to",
+      "suggestions": [
+        "about",
+        "with",
+        "to"
+      ]
+    },
+    {
+      "key": "in some instances",
+      "suggestions": [
+        "sometimes"
+      ]
+    },
+    {
+      "key": "in terms of",
+      "suggestions": [
+        "as",
+        "for",
+        "with"
+      ]
+    },
+    {
+      "key": "in the amount of",
+      "suggestions": [
+        "for"
+      ]
+    },
+    {
+      "key": "in the event of",
+      "suggestions": [
+        "if"
+      ]
+    },
+    {
+      "key": "in the near future",
+      "suggestions": [
+        "soon",
+        "shortly"
+      ]
+    },
+    {
+      "key": "in the process of",
+      "suggestions": []
+    },
+    {
+      "key": "in view of",
+      "suggestions": [
+        "since"
+      ]
+    },
+    {
+      "key": "in view of the above",
+      "suggestions": [
+        "so"
+      ]
+    },
+    {
+      "key": "inasmuch as",
+      "suggestions": [
+        "since"
+      ]
+    },
+    {
+      "key": "inception",
+      "suggestions": [
+        "start"
+      ]
+    },
+    {
+      "key": "incumbent upon",
+      "suggestions": [
+        "must"
+      ]
+    },
+    {
+      "key": "indicate",
+      "suggestions": [
+        "show",
+        "say",
+        "state",
+        "write down"
+      ]
+    },
+    {
+      "key": "indication",
+      "suggestions": [
+        "sign"
+      ]
+    },
+    {
+      "key": "initial",
+      "suggestions": [
+        "first"
+      ]
+    },
+    {
+      "key": "initiate",
+      "suggestions": [
+        "start"
+      ]
+    },
+    {
+      "key": "inter alia",
+      "suggestions": []
+    },
+    {
+      "key": "interface",
+      "suggestions": [
+        "meet",
+        "work with"
+      ]
+    },
+    {
+      "key": "interpose no objection",
+      "suggestions": [
+        "don’t object"
+      ]
+    },
+    {
+      "key": "is applicable to",
+      "suggestions": [
+        "applies to"
+      ]
+    },
+    {
+      "key": "is authorised to",
+      "suggestions": [
+        "may"
+      ]
+    },
+    {
+      "key": "is authorized to",
+      "suggestions": [
+        "may"
+      ]
+    },
+    {
+      "key": "is in consonance with",
+      "suggestions": [
+        "agrees with",
+        "follows"
+      ]
+    },
+    {
+      "key": "is responsible for",
+      "suggestions": [
+        "handles"
+      ]
+    },
+    {
+      "key": "it appears",
+      "suggestions": [
+        "seems"
+      ]
+    },
+    {
+      "key": "it is",
+      "suggestions": []
+    },
+    {
+      "key": "it is essential",
+      "suggestions": [
+        "must",
+        "need to"
+      ]
+    },
+    {
+      "key": "it is requested",
+      "suggestions": [
+        "please"
+      ]
+    },
+    {
+      "key": "liaison",
+      "suggestions": [
+        "discussion"
+      ]
+    },
+    {
+      "key": "limited number",
+      "suggestions": [
+        "limits"
+      ]
+    },
+    {
+      "key": "literally",
+      "suggestions": []
+    },
+    {
+      "key": "magnitude",
+      "suggestions": [
+        "size"
+      ]
+    },
+    {
+      "key": "maintain",
+      "suggestions": [
+        "support",
+        "keep"
+      ]
+    },
+    {
+      "key": "maximum",
+      "suggestions": [
+        "greatest",
+        "largest",
+        "most"
+      ]
+    },
+    {
+      "key": "methodology",
+      "suggestions": [
+        "method"
+      ]
+    },
+    {
+      "key": "minimise",
+      "suggestions": [
+        "cut",
+        "decrease"
+      ]
+    },
+    {
+      "key": "minimize",
+      "suggestions": [
+        "cut",
+        "decrease"
+      ]
+    },
+    {
+      "key": "minimum",
+      "suggestions": [
+        "least",
+        "small",
+        "smallest"
+      ]
+    },
+    {
+      "key": "modify",
+      "suggestions": [
+        "change"
+      ]
+    },
+    {
+      "key": "monitor",
+      "suggestions": [
+        "check",
+        "track",
+        "watch"
+      ]
+    },
+    {
+      "key": "multiple",
+      "suggestions": [
+        "many"
+      ]
+    },
+    {
+      "key": "necessitate",
+      "suggestions": [
+        "cause",
+        "need"
+      ]
+    },
+    {
+      "key": "nevertheless",
+      "suggestions": [
+        "besides",
+        "even so",
+        "still"
+      ]
+    },
+    {
+      "key": "not certain",
+      "suggestions": [
+        "uncertain"
+      ]
+    },
+    {
+      "key": "not many",
+      "suggestions": [
+        "few"
+      ]
+    },
+    {
+      "key": "not often",
+      "suggestions": [
+        "rarely"
+      ]
+    },
+    {
+      "key": "not unless",
+      "suggestions": [
+        "only if"
+      ]
+    },
+    {
+      "key": "not unlike",
+      "suggestions": [
+        "alike",
+        "similar"
+      ]
+    },
+    {
+      "key": "notify",
+      "suggestions": [
+        "let know",
+        "tell"
+      ]
+    },
+    {
+      "key": "not later than",
+      "suggestions": [
+        "by",
+        "before"
+      ]
+    },
+    {
+      "key": "notwithstanding",
+      "suggestions": [
+        "despite",
+        "in spite of",
+        "still"
+      ]
+    },
+    {
+      "key": "null and void",
+      "suggestions": [
+        "null",
+        "void"
+      ]
+    },
+    {
+      "key": "numerous",
+      "suggestions": [
+        "many"
+      ]
+    },
+    {
+      "key": "objective",
+      "suggestions": [
+        "aim",
+        "goal"
+      ]
+    },
+    {
+      "key": "obligate",
+      "suggestions": [
+        "bind",
+        "compel"
+      ]
+    },
+    {
+      "key": "observe",
+      "suggestions": [
+        "see"
+      ]
+    },
+    {
+      "key": "obtain",
+      "suggestions": [
+        "get"
+      ]
+    },
+    {
+      "key": "on the contrary",
+      "suggestions": [
+        "but",
+        "so"
+      ]
+    },
+    {
+      "key": "on the other hand",
+      "suggestions": [
+        "but",
+        "so"
+      ]
+    },
+    {
+      "key": "one particular",
+      "suggestions": [
+        "one"
+      ]
+    },
+    {
+      "key": "operate",
+      "suggestions": [
+        "run",
+        "use",
+        "work"
+      ]
+    },
+    {
+      "key": "optimum",
+      "suggestions": [
+        "best",
+        "greatest",
+        "most"
+      ]
+    },
+    {
+      "key": "option",
+      "suggestions": [
+        "choice"
+      ]
+    },
+    {
+      "key": "overall",
+      "suggestions": []
+    },
+    {
+      "key": "owing to the fact that",
+      "suggestions": [
+        "because",
+        "since"
+      ]
+    },
+    {
+      "key": "parameters",
+      "suggestions": [
+        "limits"
+      ]
+    },
+    {
+      "key": "participate",
+      "suggestions": [
+        "take part"
+      ]
+    },
+    {
+      "key": "particulars",
+      "suggestions": [
+        "details"
+      ]
+    },
+    {
+      "key": "pass away",
+      "suggestions": [
+        "die"
+      ]
+    },
+    {
+      "key": "perform",
+      "suggestions": [
+        "do"
+      ]
+    },
+    {
+      "key": "permit",
+      "suggestions": [
+        "let"
+      ]
+    },
+    {
+      "key": "pertaining to",
+      "suggestions": [
+        "about",
+        "of",
+        "on"
+      ]
+    },
+    {
+      "key": "point in time",
+      "suggestions": [
+        "moment",
+        "now",
+        "point",
+        "time"
+      ]
+    },
+    {
+      "key": "portion",
+      "suggestions": [
+        "part"
+      ]
+    },
+    {
+      "key": "possess",
+      "suggestions": [
+        "have",
+        "own"
+      ]
+    },
+    {
+      "key": "practicable",
+      "suggestions": [
+        "practical"
+      ]
+    },
+    {
+      "key": "preclude",
+      "suggestions": [
+        "prevent"
+      ]
+    },
+    {
+      "key": "previous",
+      "suggestions": [
+        "earlier"
+      ]
+    },
+    {
+      "key": "previously",
+      "suggestions": [
+        "before"
+      ]
+    },
+    {
+      "key": "prior to",
+      "suggestions": [
+        "before"
+      ]
+    },
+    {
+      "key": "prioritise",
+      "suggestions": [
+        "focus on",
+        "rank"
+      ]
+    },
+    {
+      "key": "prioritize",
+      "suggestions": [
+        "focus on",
+        "rank"
+      ]
+    },
+    {
+      "key": "proceed",
+      "suggestions": [
+        "do",
+        "go ahead",
+        "try"
+      ]
+    },
+    {
+      "key": "procure",
+      "suggestions": [
+        "buy",
+        "get"
+      ]
+    },
+    {
+      "key": "proficiency",
+      "suggestions": [
+        "skill"
+      ]
+    },
+    {
+      "key": "promulgate",
+      "suggestions": [
+        "issue",
+        "publish"
+      ]
+    },
+    {
+      "key": "provide",
+      "suggestions": [
+        "give",
+        "offer",
+        "say"
+      ]
+    },
+    {
+      "key": "provided that",
+      "suggestions": [
+        "if"
+      ]
+    },
+    {
+      "key": "provides guidance for",
+      "suggestions": [
+        "guides"
+      ]
+    },
+    {
+      "key": "purchase",
+      "suggestions": [
+        "buy",
+        "sale"
+      ]
+    },
+    {
+      "key": "pursuant to",
+      "suggestions": [
+        "by",
+        "following",
+        "per",
+        "under"
+      ]
+    },
+    {
+      "key": "put simply",
+      "suggestions": []
+    },
+    {
+      "key": "readily apparent",
+      "suggestions": [
+        "clear"
+      ]
+    },
+    {
+      "key": "refer back",
+      "suggestions": [
+        "refer"
+      ]
+    },
+    {
+      "key": "reflect",
+      "suggestions": [
+        "say",
+        "show"
+      ]
+    },
+    {
+      "key": "regarding",
+      "suggestions": [
+        "about",
+        "of",
+        "on"
+      ]
+    },
+    {
+      "key": "relative to",
+      "suggestions": [
+        "about",
+        "on"
+      ]
+    },
+    {
+      "key": "relocate",
+      "suggestions": [
+        "move"
+      ]
+    },
+    {
+      "key": "remain",
+      "suggestions": [
+        "stay"
+      ]
+    },
+    {
+      "key": "remainder",
+      "suggestions": [
+        "rest"
+      ]
+    },
+    {
+      "key": "remuneration",
+      "suggestions": [
+        "pay",
+        "payment"
+      ]
+    },
+    {
+      "key": "render",
+      "suggestions": [
+        "give",
+        "make"
+      ]
+    },
+    {
+      "key": "represents",
+      "suggestions": [
+        "is"
+      ]
+    },
+    {
+      "key": "request",
+      "suggestions": [
+        "ask"
+      ]
+    },
+    {
+      "key": "require",
+      "suggestions": [
+        "must",
+        "need"
+      ]
+    },
+    {
+      "key": "requirement",
+      "suggestions": [
+        "need",
+        "rule"
+      ]
+    },
+    {
+      "key": "reside",
+      "suggestions": [
+        "live"
+      ]
+    },
+    {
+      "key": "residence",
+      "suggestions": [
+        "house"
+      ]
+    },
+    {
+      "key": "retain",
+      "suggestions": [
+        "keep"
+      ]
+    },
+    {
+      "key": "satisfy",
+      "suggestions": [
+        "meet",
+        "please"
+      ]
+    },
+    {
+      "key": "selection",
+      "suggestions": [
+        "choice"
+      ]
+    },
+    {
+      "key": "set forth in",
+      "suggestions": [
+        "in"
+      ]
+    },
+    {
+      "key": "shall",
+      "suggestions": [
+        "must",
+        "will"
+      ]
+    },
+    {
+      "key": "should you wish",
+      "suggestions": [
+        "if you want"
+      ]
+    },
+    {
+      "key": "similar to",
+      "suggestions": [
+        "like"
+      ]
+    },
+    {
+      "key": "solicit",
+      "suggestions": [
+        "ask for",
+        "request"
+      ]
+    },
+    {
+      "key": "span across",
+      "suggestions": [
+        "cross",
+        "span"
+      ]
+    },
+    {
+      "key": "state-of-the-art",
+      "suggestions": [
+        "latest"
+      ]
+    },
+    {
+      "key": "strategise",
+      "suggestions": [
+        "plan"
+      ]
+    },
+    {
+      "key": "strategize",
+      "suggestions": [
+        "plan"
+      ]
+    },
+    {
+      "key": "submit",
+      "suggestions": [
+        "give",
+        "send"
+      ]
+    },
+    {
+      "key": "subsequent",
+      "suggestions": [
+        "after",
+        "later",
+        "next",
+        "then"
+      ]
+    },
+    {
+      "key": "subsequently",
+      "suggestions": [
+        "after",
+        "later",
+        "then"
+      ]
+    },
+    {
+      "key": "substantial",
+      "suggestions": [
+        "large",
+        "much"
+      ]
+    },
+    {
+      "key": "successfully complete",
+      "suggestions": [
+        "complete",
+        "pass"
+      ]
+    },
+    {
+      "key": "sufficient",
+      "suggestions": [
+        "enough"
+      ]
+    },
+    {
+      "key": "take action to",
+      "suggestions": []
+    },
+    {
+      "key": "terminate",
+      "suggestions": [
+        "end",
+        "stop"
+      ]
+    },
+    {
+      "key": "the month of",
+      "suggestions": []
+    },
+    {
+      "key": "the undersigned",
+      "suggestions": [
+        "I"
+      ]
+    },
+    {
+      "key": "the use of",
+      "suggestions": []
+    },
+    {
+      "key": "there are",
+      "suggestions": []
+    },
+    {
+      "key": "there is",
+      "suggestions": []
+    },
+    {
+      "key": "therefore",
+      "suggestions": [
+        "so",
+        "thus"
+      ]
+    },
+    {
+      "key": "thereof",
+      "suggestions": [
+        "its",
+        "their"
+      ]
+    },
+    {
+      "key": "therein",
+      "suggestions": [
+        "there"
+      ]
+    },
+    {
+      "key": "this day and age",
+      "suggestions": [
+        "today"
+      ]
+    },
+    {
+      "key": "time period",
+      "suggestions": [
+        "period",
+        "time"
+      ]
+    },
+    {
+      "key": "timely",
+      "suggestions": [
+        "prompt"
+      ]
+    },
+    {
+      "key": "took advantage of",
+      "suggestions": [
+        "preyed on"
+      ]
+    },
+    {
+      "key": "transmit",
+      "suggestions": [
+        "send"
+      ]
+    },
+    {
+      "key": "type",
+      "suggestions": []
+    },
+    {
+      "key": "transpire",
+      "suggestions": [
+        "happen"
+      ]
+    },
+    {
+      "key": "under the provisions of",
+      "suggestions": [
+        "under"
+      ]
+    },
+    {
+      "key": "until such time as",
+      "suggestions": [
+        "until"
+      ]
+    },
+    {
+      "key": "utilise",
+      "suggestions": [
+        "use"
+      ]
+    },
+    {
+      "key": "utilisation",
+      "suggestions": [
+        "use"
+      ]
+    },
+    {
+      "key": "utilization",
+      "suggestions": [
+        "use"
+      ]
+    },
+    {
+      "key": "utilize",
+      "suggestions": [
+        "use"
+      ]
+    },
+    {
+      "key": "validate",
+      "suggestions": [
+        "confirm"
+      ]
+    },
+    {
+      "key": "various different",
+      "suggestions": [
+        "different",
+        "various"
+      ]
+    },
+    {
+      "key": "very",
+      "suggestions": []
+    },
+    {
+      "key": "viable",
+      "suggestions": [
+        "practical",
+        "workable"
+      ]
+    },
+    {
+      "key": "vice",
+      "suggestions": [
+        "instead of",
+        "versus"
+      ]
+    },
+    {
+      "key": "warrant",
+      "suggestions": [
+        "call for",
+        "permit"
+      ]
+    },
+    {
+      "key": "whereas",
+      "suggestions": [
+        "because",
+        "since"
+      ]
+    },
+    {
+      "key": "whether or not",
+      "suggestions": [
+        "whether"
+      ]
+    },
+    {
+      "key": "with reference to",
+      "suggestions": [
+        "about"
+      ]
+    },
+    {
+      "key": "with respect to",
+      "suggestions": [
+        "about",
+        "on"
+      ]
+    },
+    {
+      "key": "with the exception of",
+      "suggestions": [
+        "except for"
+      ]
+    },
+    {
+      "key": "witnessed",
+      "suggestions": [
+        "saw",
+        "seen"
+      ]
+    },
+    {
+      "key": "your office",
+      "suggestions": [
+        "you"
+      ]
+    }
+  ]
+}

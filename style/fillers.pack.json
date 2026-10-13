@@ -1,0 +1,213 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "fillers",
+  "name": "Fillers",
+  "kind": "style",
+  "language": "en",
+  "description": "Words that rarely add meaning.",
+  "updated": "2026-10-13",
+  "message": "a filler that can usually go",
+  "remove": true,
+  "source": "Piotr Weber",
+  "entries": [
+    {
+      "key": "very",
+      "suggestions": []
+    },
+    {
+      "key": "really",
+      "suggestions": []
+    },
+    {
+      "key": "just",
+      "suggestions": []
+    },
+    {
+      "key": "actually",
+      "suggestions": []
+    },
+    {
+      "key": "basically",
+      "suggestions": []
+    },
+    {
+      "key": "quite",
+      "suggestions": []
+    },
+    {
+      "key": "rather",
+      "suggestions": []
+    },
+    {
+      "key": "somewhat",
+      "suggestions": []
+    },
+    {
+      "key": "totally",
+      "suggestions": []
+    },
+    {
+      "key": "literally",
+      "suggestions": []
+    },
+    {
+      "key": "simply",
+      "suggestions": []
+    },
+    {
+      "key": "definitely",
+      "suggestions": []
+    },
+    {
+      "key": "certainly",
+      "suggestions": []
+    },
+    {
+      "key": "completely",
+      "suggestions": []
+    },
+    {
+      "key": "absolutely",
+      "suggestions": []
+    },
+    {
+      "key": "honestly",
+      "suggestions": []
+    },
+    {
+      "key": "seriously",
+      "suggestions": []
+    },
+    {
+      "key": "extremely",
+      "suggestions": []
+    },
+    {
+      "key": "incredibly",
+      "suggestions": []
+    },
+    {
+      "key": "fairly",
+      "suggestions": []
+    },
+    {
+      "key": "essentially",
+      "suggestions": []
+    },
+    {
+      "key": "practically",
+      "suggestions": []
+    },
+    {
+      "key": "virtually",
+      "suggestions": []
+    },
+    {
+      "key": "obviously",
+      "suggestions": []
+    },
+    {
+      "key": "kind of",
+      "suggestions": []
+    },
+    {
+      "key": "sort of",
+      "suggestions": []
+    },
+    {
+      "key": "a little bit",
+      "suggestions": []
+    },
+    {
+      "key": "a bit",
+      "suggestions": []
+    },
+    {
+      "key": "in fact",
+      "suggestions": []
+    },
+    {
+      "key": "pretty much",
+      "suggestions": []
+    },
+    {
+      "key": "pretty good",
+      "suggestions": [
+        "good"
+      ]
+    },
+    {
+      "key": "pretty bad",
+      "suggestions": [
+        "bad"
+      ]
+    },
+    {
+      "key": "pretty sure",
+      "suggestions": [
+        "sure"
+      ]
+    },
+    {
+      "key": "pretty well",
+      "suggestions": [
+        "well"
+      ]
+    },
+    {
+      "key": "pretty big",
+      "suggestions": [
+        "big"
+      ]
+    },
+    {
+      "key": "pretty small",
+      "suggestions": [
+        "small"
+      ]
+    },
+    {
+      "key": "pretty hard",
+      "suggestions": [
+        "hard"
+      ]
+    },
+    {
+      "key": "pretty easy",
+      "suggestions": [
+        "easy"
+      ]
+    },
+    {
+      "key": "pretty nice",
+      "suggestions": [
+        "nice"
+      ]
+    },
+    {
+      "key": "pretty cool",
+      "suggestions": [
+        "cool"
+      ]
+    },
+    {
+      "key": "pretty close",
+      "suggestions": [
+        "close"
+      ]
+    },
+    {
+      "key": "pretty long",
+      "suggestions": [
+        "long"
+      ]
+    },
+    {
+      "key": "pretty quick",
+      "suggestions": [
+        "quick"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 ---
 name: Weather
 description: Words for sky, rain, wind, cold and heat.
+category: Nature
 updated: 2026-10-13
 ---
 # Weather
