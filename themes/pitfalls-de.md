@@ -1,6 +1,7 @@
 ---
 name: English Pitfalls for German Speakers
 description: False friends, translated phrases, grammar slips and number traps that German and Swiss German speakers carry into English, with what to write instead.
+category: Language
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

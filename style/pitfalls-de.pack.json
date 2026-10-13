@@ -3,11 +3,13 @@
   "version": 1,
   "id": "pitfalls-de",
   "name": "English pitfalls for German speakers",
-  "kind": "synonyms",
+  "kind": "style",
   "language": "en",
   "description": "Flags false friends and translated phrases that German speakers carry into English, and suggests what a native speaker would write.",
+  "category": "Language",
   "source": "Pliny (CC0 1.0)",
   "updated": "2026-10-13",
+  "message": "a common pitfall",
   "entries": [
     {
       "key": "eventually",

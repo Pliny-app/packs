@@ -1,6 +1,7 @@
 ---
 name: Corporate Speak
 description: Phrases from meetings, memos, emails, and press releases.
+category: Language
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13

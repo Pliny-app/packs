@@ -3,11 +3,13 @@
   "version": 1,
   "id": "pitfalls-fr",
   "name": "English pitfalls for French speakers",
-  "kind": "synonyms",
+  "kind": "style",
   "language": "en",
   "description": "Flags false friends and translated phrases that French speakers carry into English, and suggests what a native speaker would write.",
+  "category": "Language",
   "source": "Pliny (CC0 1.0)",
   "updated": "2026-10-13",
+  "message": "a common pitfall",
   "entries": [
     {
       "key": "eventually",
