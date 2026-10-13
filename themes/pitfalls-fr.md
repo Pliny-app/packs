@@ -1,14 +1,12 @@
 ---
 name: English Pitfalls for French Speakers
-description: False friends, translated phrases, grammar slips and number traps that French speakers carry into English, with what to write instead.
+description: Habits Frenchs speakers carry into English
 category: Language
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13
 ---
 # English Pitfalls for French Speakers
-
-Each entry gives the slip, the French behind it, and what a native speaker would write instead.
 
 ## False friends
 - **eventually** — from *éventuellement*, "possibly". In English it means "in the end". Write *possibly, if needed*.
