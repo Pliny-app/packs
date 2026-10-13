@@ -3,6 +3,30 @@
   "version": 1,
   "packs": [
     {
+      "id": "cliches",
+      "name": "Clichés",
+      "kind": "style",
+      "description": "Worn-out phrases.",
+      "file": "style/cliches.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "fillers",
+      "name": "Fillers",
+      "kind": "style",
+      "description": "Words that rarely add meaning.",
+      "file": "style/fillers.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "redundancies",
+      "name": "Redundancies",
+      "kind": "style",
+      "description": "Wordy words and phrases with simpler ones.",
+      "file": "style/redundancies.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "dig",
       "name": "Instead of “dig”",
       "kind": "synonyms",
@@ -39,6 +63,7 @@
       "name": "Alien Worlds",
       "kind": "theme",
       "description": "Words for describing planets and moons in science fiction.",
+      "category": "Sci-fi",
       "file": "themes/alien-worlds.md",
       "updated": "2026-10-13"
     },
@@ -47,6 +72,7 @@
       "name": "High Strangeness",
       "kind": "theme",
       "description": "Words for anomalies, secret agencies, cover-ups, close encounters, warped places and the minds that meet them.",
+      "category": "Sci-fi",
       "file": "themes/high-strangeness.md",
       "updated": "2026-10-13"
     },
@@ -55,6 +81,7 @@
       "name": "Light",
       "kind": "theme",
       "description": "Words for light, shadow, color, clarity and the act of seeing.",
+      "category": "Nature",
       "file": "themes/light.md",
       "updated": "2026-10-13"
     },
@@ -63,6 +90,7 @@
       "name": "Mining",
       "kind": "theme",
       "description": "Words for mines, rock, ore, metals, gems, tools and the work of digging, from the shaft to the polished stone.",
+      "category": "Earth",
       "file": "themes/mining.md",
       "updated": "2026-10-13"
     },
@@ -71,6 +99,7 @@
       "name": "Supernatural",
       "kind": "theme",
       "description": "Words for spirits, hauntings, spells, seers, charms and the realms beyond, with the differences between close neighbors.",
+      "category": "Fantasy",
       "file": "themes/supernatural.md",
       "updated": "2026-10-13"
     },
@@ -79,6 +108,7 @@
       "name": "Weather",
       "kind": "theme",
       "description": "Words for sky, rain, wind, cold and heat.",
+      "category": "Nature",
       "file": "themes/weather.md",
       "updated": "2026-10-13"
     }
