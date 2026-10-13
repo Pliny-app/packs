@@ -1,0 +1,369 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "pitfalls-de",
+  "name": "English pitfalls for German speakers",
+  "kind": "synonyms",
+  "language": "en",
+  "description": "Flags false friends and translated phrases that German speakers carry into English, and suggests what a native speaker would write.",
+  "source": "Pliny (CC0 1.0)",
+  "updated": "2026-10-13",
+  "entries": [
+    {
+      "key": "eventually",
+      "suggestions": [
+        "possibly",
+        "if necessary",
+        "maybe",
+        "in the end"
+      ]
+    },
+    {
+      "key": "eventual",
+      "suggestions": [
+        "possible",
+        "potential",
+        "final"
+      ]
+    },
+    {
+      "key": "actually",
+      "suggestions": [
+        "currently",
+        "at the moment",
+        "in fact"
+      ]
+    },
+    {
+      "key": "actual",
+      "suggestions": [
+        "current",
+        "up-to-date",
+        "real"
+      ]
+    },
+    {
+      "key": "explain me",
+      "suggestions": [
+        "explain to me"
+      ]
+    },
+    {
+      "key": "explained me",
+      "suggestions": [
+        "explained to me"
+      ]
+    },
+    {
+      "key": "discuss about",
+      "suggestions": [
+        "discuss",
+        "talk about"
+      ]
+    },
+    {
+      "key": "discussed about",
+      "suggestions": [
+        "discussed",
+        "talked about"
+      ]
+    },
+    {
+      "key": "informations",
+      "suggestions": [
+        "information",
+        "details"
+      ]
+    },
+    {
+      "key": "advices",
+      "suggestions": [
+        "advice",
+        "tips"
+      ]
+    },
+    {
+      "key": "feedbacks",
+      "suggestions": [
+        "feedback",
+        "comments"
+      ]
+    },
+    {
+      "key": "equipments",
+      "suggestions": [
+        "equipment"
+      ]
+    },
+    {
+      "key": "make a photo",
+      "suggestions": [
+        "take a photo"
+      ]
+    },
+    {
+      "key": "made a photo",
+      "suggestions": [
+        "took a photo"
+      ]
+    },
+    {
+      "key": "make a pause",
+      "suggestions": [
+        "take a break"
+      ]
+    },
+    {
+      "key": "since a year",
+      "suggestions": [
+        "for a year"
+      ]
+    },
+    {
+      "key": "since two years",
+      "suggestions": [
+        "for two years"
+      ]
+    },
+    {
+      "key": "since three years",
+      "suggestions": [
+        "for three years"
+      ]
+    },
+    {
+      "key": "since many years",
+      "suggestions": [
+        "for many years"
+      ]
+    },
+    {
+      "key": "since years",
+      "suggestions": [
+        "for years"
+      ]
+    },
+    {
+      "key": "since months",
+      "suggestions": [
+        "for months"
+      ]
+    },
+    {
+      "key": "became your",
+      "suggestions": [
+        "received your",
+        "got your"
+      ]
+    },
+    {
+      "key": "become your",
+      "suggestions": [
+        "receive your",
+        "get your"
+      ]
+    },
+    {
+      "key": "please control",
+      "suggestions": [
+        "please check"
+      ]
+    },
+    {
+      "key": "consequent",
+      "suggestions": [
+        "consistent",
+        "rigorous"
+      ]
+    },
+    {
+      "key": "consequently",
+      "suggestions": [
+        "consistently",
+        "therefore"
+      ]
+    },
+    {
+      "key": "sensible",
+      "suggestions": [
+        "sensitive",
+        "reasonable"
+      ]
+    },
+    {
+      "key": "in my meaning",
+      "suggestions": [
+        "in my opinion",
+        "I think"
+      ]
+    },
+    {
+      "key": "provision",
+      "suggestions": [
+        "commission",
+        "provision"
+      ]
+    },
+    {
+      "key": "concurrence",
+      "suggestions": [
+        "competition",
+        "competitors"
+      ]
+    },
+    {
+      "key": "chef",
+      "suggestions": [
+        "boss",
+        "manager",
+        "head"
+      ]
+    },
+    {
+      "key": "personal department",
+      "suggestions": [
+        "HR department",
+        "personnel department"
+      ]
+    },
+    {
+      "key": "borrow me",
+      "suggestions": [
+        "lend me"
+      ]
+    },
+    {
+      "key": "make sport",
+      "suggestions": [
+        "do sport",
+        "exercise"
+      ]
+    },
+    {
+      "key": "make a break",
+      "suggestions": [
+        "take a break"
+      ]
+    },
+    {
+      "key": "with the bus",
+      "suggestions": [
+        "by bus"
+      ]
+    },
+    {
+      "key": "with the train",
+      "suggestions": [
+        "by train"
+      ]
+    },
+    {
+      "key": "on the picture",
+      "suggestions": [
+        "in the picture"
+      ]
+    },
+    {
+      "key": "hello together",
+      "suggestions": [
+        "hello everyone",
+        "hi all"
+      ]
+    },
+    {
+      "key": "in the attachment you find",
+      "suggestions": [
+        "attached is",
+        "please find attached"
+      ]
+    },
+    {
+      "key": "I'm in home office",
+      "suggestions": [
+        "I'm working from home"
+      ]
+    },
+    {
+      "key": "my handy",
+      "suggestions": [
+        "my phone",
+        "my mobile"
+      ]
+    },
+    {
+      "key": "your handy",
+      "suggestions": [
+        "your phone",
+        "your mobile"
+      ]
+    },
+    {
+      "key": "beamer",
+      "suggestions": [
+        "projector"
+      ]
+    },
+    {
+      "key": "mobbing",
+      "suggestions": [
+        "bullying",
+        "harassment"
+      ]
+    },
+    {
+      "key": "public viewing",
+      "suggestions": [
+        "screening",
+        "outdoor screening"
+      ]
+    },
+    {
+      "key": "if I would have",
+      "suggestions": [
+        "if I had"
+      ]
+    },
+    {
+      "key": "look forward to hear",
+      "suggestions": [
+        "look forward to hearing"
+      ]
+    },
+    {
+      "key": "knowledges",
+      "suggestions": [
+        "knowledge",
+        "skills"
+      ]
+    },
+    {
+      "key": "dear ladies and gentlemen",
+      "suggestions": [
+        "Dear Sir or Madam",
+        "Dear all",
+        "Hello"
+      ]
+    },
+    {
+      "key": "friendly greetings",
+      "suggestions": [
+        "Kind regards",
+        "Best regards"
+      ]
+    },
+    {
+      "key": "best greetings",
+      "suggestions": [
+        "Best regards",
+        "Best wishes"
+      ]
+    },
+    {
+      "key": "lovely greetings",
+      "suggestions": [
+        "Best wishes",
+        "All the best"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "pitfalls-fr",
+  "name": "English pitfalls for French speakers",
+  "kind": "synonyms",
+  "language": "en",
+  "description": "Flags false friends and translated phrases that French speakers carry into English, and suggests what a native speaker would write.",
+  "source": "Pliny (CC0 1.0)",
+  "updated": "2026-10-13",
+  "entries": [
+    {
+      "key": "eventually",
+      "suggestions": [
+        "possibly",
+        "if necessary",
+        "maybe",
+        "in the end"
+      ]
+    },
+    {
+      "key": "eventual",
+      "suggestions": [
+        "possible",
+        "potential",
+        "final"
+      ]
+    },
+    {
+      "key": "actually",
+      "suggestions": [
+        "currently",
+        "at the moment",
+        "in fact"
+      ]
+    },
+    {
+      "key": "actual",
+      "suggestions": [
+        "current",
+        "up-to-date",
+        "real"
+      ]
+    },
+    {
+      "key": "explain me",
+      "suggestions": [
+        "explain to me"
+      ]
+    },
+    {
+      "key": "explained me",
+      "suggestions": [
+        "explained to me"
+      ]
+    },
+    {
+      "key": "discuss about",
+      "suggestions": [
+        "discuss",
+        "talk about"
+      ]
+    },
+    {
+      "key": "discussed about",
+      "suggestions": [
+        "discussed",
+        "talked about"
+      ]
+    },
+    {
+      "key": "informations",
+      "suggestions": [
+        "information",
+        "details"
+      ]
+    },
+    {
+      "key": "advices",
+      "suggestions": [
+        "advice",
+        "tips"
+      ]
+    },
+    {
+      "key": "feedbacks",
+      "suggestions": [
+        "feedback",
+        "comments"
+      ]
+    },
+    {
+      "key": "equipments",
+      "suggestions": [
+        "equipment"
+      ]
+    },
+    {
+      "key": "make a photo",
+      "suggestions": [
+        "take a photo"
+      ]
+    },
+    {
+      "key": "made a photo",
+      "suggestions": [
+        "took a photo"
+      ]
+    },
+    {
+      "key": "make a pause",
+      "suggestions": [
+        "take a break"
+      ]
+    },
+    {
+      "key": "since a year",
+      "suggestions": [
+        "for a year"
+      ]
+    },
+    {
+      "key": "since two years",
+      "suggestions": [
+        "for two years"
+      ]
+    },
+    {
+      "key": "since three years",
+      "suggestions": [
+        "for three years"
+      ]
+    },
+    {
+      "key": "since many years",
+      "suggestions": [
+        "for many years"
+      ]
+    },
+    {
+      "key": "since years",
+      "suggestions": [
+        "for years"
+      ]
+    },
+    {
+      "key": "since months",
+      "suggestions": [
+        "for months"
+      ]
+    },
+    {
+      "key": "assist to",
+      "suggestions": [
+        "attend"
+      ]
+    },
+    {
+      "key": "assisted to",
+      "suggestions": [
+        "attended"
+      ]
+    },
+    {
+      "key": "assist at",
+      "suggestions": [
+        "attend"
+      ]
+    },
+    {
+      "key": "I attend your",
+      "suggestions": [
+        "I look forward to your",
+        "I await your"
+      ]
+    },
+    {
+      "key": "please control",
+      "suggestions": [
+        "please check"
+      ]
+    },
+    {
+      "key": "demanded me",
+      "suggestions": [
+        "asked me"
+      ]
+    },
+    {
+      "key": "demand you to",
+      "suggestions": [
+        "ask you to"
+      ]
+    },
+    {
+      "key": "realized the project",
+      "suggestions": [
+        "completed the project",
+        "carried out the project"
+      ]
+    },
+    {
+      "key": "I precise",
+      "suggestions": [
+        "I should point out",
+        "to clarify"
+      ]
+    },
+    {
+      "key": "precisions",
+      "suggestions": [
+        "details",
+        "clarification"
+      ]
+    },
+    {
+      "key": "within the delay",
+      "suggestions": [
+        "by the deadline",
+        "within the deadline"
+      ]
+    },
+    {
+      "key": "respect the delay",
+      "suggestions": [
+        "meet the deadline"
+      ]
+    },
+    {
+      "key": "formation",
+      "suggestions": [
+        "training",
+        "course"
+      ]
+    },
+    {
+      "key": "a planning",
+      "suggestions": [
+        "a schedule",
+        "a plan"
+      ]
+    },
+    {
+      "key": "a timing",
+      "suggestions": [
+        "a schedule",
+        "a timeline"
+      ]
+    },
+    {
+      "key": "we dispose of",
+      "suggestions": [
+        "we have"
+      ]
+    },
+    {
+      "key": "punctual",
+      "suggestions": [
+        "one-off",
+        "occasional",
+        "on time"
+      ]
+    },
+    {
+      "key": "collaborators",
+      "suggestions": [
+        "colleagues",
+        "team members",
+        "employees"
+      ]
+    },
+    {
+      "key": "benefice",
+      "suggestions": [
+        "profit"
+      ]
+    },
+    {
+      "key": "benefices",
+      "suggestions": [
+        "profits"
+      ]
+    },
+    {
+      "key": "valorize",
+      "suggestions": [
+        "showcase",
+        "make the most of",
+        "enhance"
+      ]
+    },
+    {
+      "key": "valorise",
+      "suggestions": [
+        "showcase",
+        "make the most of",
+        "enhance"
+      ]
+    },
+    {
+      "key": "sensible",
+      "suggestions": [
+        "sensitive",
+        "reasonable"
+      ]
+    },
+    {
+      "key": "sensibilize",
+      "suggestions": [
+        "raise awareness"
+      ]
+    },
+    {
+      "key": "sympathetic",
+      "suggestions": [
+        "nice",
+        "friendly",
+        "likeable"
+      ]
+    },
+    {
+      "key": "deceived",
+      "suggestions": [
+        "disappointed"
+      ]
+    },
+    {
+      "key": "deceiving",
+      "suggestions": [
+        "disappointing"
+      ]
+    },
+    {
+      "key": "pretend that",
+      "suggestions": [
+        "claim that"
+      ]
+    },
+    {
+      "key": "take altitude",
+      "suggestions": [
+        "step back",
+        "zoom out",
+        "look at the big picture"
+      ]
+    },
+    {
+      "key": "make a point",
+      "suggestions": [
+        "take stock",
+        "review progress",
+        "make a point"
+      ]
+    },
+    {
+      "key": "in the frame of",
+      "suggestions": [
+        "as part of",
+        "under",
+        "within"
+      ]
+    },
+    {
+      "key": "at the level of",
+      "suggestions": [
+        "regarding",
+        "in terms of",
+        "in"
+      ]
+    },
+    {
+      "key": "animate the meeting",
+      "suggestions": [
+        "run the meeting",
+        "chair the meeting"
+      ]
+    },
+    {
+      "key": "animate a workshop",
+      "suggestions": [
+        "run a workshop",
+        "facilitate a workshop"
+      ]
+    },
+    {
+      "key": "pilot the project",
+      "suggestions": [
+        "manage the project",
+        "lead the project"
+      ]
+    },
+    {
+      "key": "mount a project",
+      "suggestions": [
+        "set up a project"
+      ]
+    },
+    {
+      "key": "it's not evident",
+      "suggestions": [
+        "it's not easy",
+        "it's not obvious"
+      ]
+    },
+    {
+      "key": "it is not evident",
+      "suggestions": [
+        "it is not easy",
+        "it is not obvious"
+      ]
+    },
+    {
+      "key": "I propose you to",
+      "suggestions": [
+        "I suggest that you",
+        "let's"
+      ]
+    },
+    {
+      "key": "do a brainstorming",
+      "suggestions": [
+        "brainstorm",
+        "have a brainstorm"
+      ]
+    },
+    {
+      "key": "I'm agree",
+      "suggestions": [
+        "I agree"
+      ]
+    },
+    {
+      "key": "I am agree",
+      "suggestions": [
+        "I agree"
+      ]
+    },
+    {
+      "key": "we are agree",
+      "suggestions": [
+        "we agree"
+      ]
+    },
+    {
+      "key": "say me",
+      "suggestions": [
+        "tell me"
+      ]
+    },
+    {
+      "key": "open space",
+      "suggestions": [
+        "open-plan office"
+      ]
+    },
+    {
+      "key": "my stage",
+      "suggestions": [
+        "my internship"
+      ]
+    },
+    {
+      "key": "madam, sir",
+      "suggestions": [
+        "Dear Sir or Madam",
+        "Hello"
+      ]
+    },
+    {
+      "key": "thanks for your comprehension",
+      "suggestions": [
+        "thanks for your understanding"
+      ]
+    },
+    {
+      "key": "thank you for your comprehension",
+      "suggestions": [
+        "thank you for your understanding"
+      ]
+    },
+    {
+      "key": "remain at your disposal",
+      "suggestions": [
+        "let me know if you have any questions",
+        "am happy to help"
+      ]
+    },
+    {
+      "key": "waiting for your return",
+      "suggestions": [
+        "I look forward to hearing from you",
+        "waiting for your reply"
+      ]
+    },
+    {
+      "key": "please find in attachment",
+      "suggestions": [
+        "please find attached",
+        "attached is"
+      ]
+    },
+    {
+      "key": "in attachment",
+      "suggestions": [
+        "attached"
+      ]
+    },
+    {
+      "key": "very cordially",
+      "suggestions": [
+        "Best regards",
+        "Kind regards"
+      ]
+    },
+    {
+      "key": "me, I think",
+      "suggestions": [
+        "I think",
+        "personally, I think",
+        "in my view"
+      ]
+    },
+    {
+      "key": "me, I believe",
+      "suggestions": [
+        "I believe",
+        "personally, I believe"
+      ]
+    },
+    {
+      "key": "me, I prefer",
+      "suggestions": [
+        "I prefer",
+        "personally, I prefer"
+      ]
+    },
+    {
+      "key": "me, I find",
+      "suggestions": [
+        "I find",
+        "personally, I find"
+      ]
+    },
+    {
+      "key": "me, I don't",
+      "suggestions": [
+        "I don't",
+        "personally, I don't"
+      ]
+    }
+  ]
+}

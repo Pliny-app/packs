@@ -1,0 +1,695 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "pitfalls-it",
+  "name": "English pitfalls for Italian speakers",
+  "kind": "synonyms",
+  "language": "en",
+  "description": "Flags false friends, translated phrases and grammar slips that Italian speakers carry into English, and suggests what a native speaker would write.",
+  "source": "Pliny (CC0 1.0)",
+  "updated": "2026-10-13",
+  "entries": [
+    {
+      "key": "eventually",
+      "suggestions": [
+        "possibly",
+        "if necessary",
+        "maybe",
+        "in the end"
+      ]
+    },
+    {
+      "key": "eventual",
+      "suggestions": [
+        "possible",
+        "potential",
+        "final"
+      ]
+    },
+    {
+      "key": "actually",
+      "suggestions": [
+        "currently",
+        "at the moment",
+        "in fact"
+      ]
+    },
+    {
+      "key": "actual",
+      "suggestions": [
+        "current",
+        "up-to-date",
+        "real"
+      ]
+    },
+    {
+      "key": "explain me",
+      "suggestions": [
+        "explain to me"
+      ]
+    },
+    {
+      "key": "explained me",
+      "suggestions": [
+        "explained to me"
+      ]
+    },
+    {
+      "key": "discuss about",
+      "suggestions": [
+        "discuss",
+        "talk about"
+      ]
+    },
+    {
+      "key": "discussed about",
+      "suggestions": [
+        "discussed",
+        "talked about"
+      ]
+    },
+    {
+      "key": "informations",
+      "suggestions": [
+        "information",
+        "details"
+      ]
+    },
+    {
+      "key": "advices",
+      "suggestions": [
+        "advice",
+        "tips"
+      ]
+    },
+    {
+      "key": "feedbacks",
+      "suggestions": [
+        "feedback",
+        "comments"
+      ]
+    },
+    {
+      "key": "equipments",
+      "suggestions": [
+        "equipment"
+      ]
+    },
+    {
+      "key": "make a photo",
+      "suggestions": [
+        "take a photo"
+      ]
+    },
+    {
+      "key": "made a photo",
+      "suggestions": [
+        "took a photo"
+      ]
+    },
+    {
+      "key": "make a pause",
+      "suggestions": [
+        "take a break"
+      ]
+    },
+    {
+      "key": "since a year",
+      "suggestions": [
+        "for a year"
+      ]
+    },
+    {
+      "key": "since two years",
+      "suggestions": [
+        "for two years"
+      ]
+    },
+    {
+      "key": "since three years",
+      "suggestions": [
+        "for three years"
+      ]
+    },
+    {
+      "key": "since many years",
+      "suggestions": [
+        "for many years"
+      ]
+    },
+    {
+      "key": "since years",
+      "suggestions": [
+        "for years"
+      ]
+    },
+    {
+      "key": "since months",
+      "suggestions": [
+        "for months"
+      ]
+    },
+    {
+      "key": "next argument",
+      "suggestions": [
+        "next topic",
+        "next item"
+      ]
+    },
+    {
+      "key": "the argument of",
+      "suggestions": [
+        "the topic of",
+        "the subject of"
+      ]
+    },
+    {
+      "key": "consistent increase",
+      "suggestions": [
+        "significant increase",
+        "substantial increase"
+      ]
+    },
+    {
+      "key": "consistent amount",
+      "suggestions": [
+        "substantial amount",
+        "considerable amount"
+      ]
+    },
+    {
+      "key": "pretend that",
+      "suggestions": [
+        "expect that",
+        "insist that",
+        "claim that"
+      ]
+    },
+    {
+      "key": "deluded",
+      "suggestions": [
+        "disappointed"
+      ]
+    },
+    {
+      "key": "deluding",
+      "suggestions": [
+        "disappointing"
+      ]
+    },
+    {
+      "key": "firm the contract",
+      "suggestions": [
+        "sign the contract"
+      ]
+    },
+    {
+      "key": "firmed the contract",
+      "suggestions": [
+        "signed the contract"
+      ]
+    },
+    {
+      "key": "assist to",
+      "suggestions": [
+        "attend"
+      ]
+    },
+    {
+      "key": "assisted to",
+      "suggestions": [
+        "attended"
+      ]
+    },
+    {
+      "key": "please control",
+      "suggestions": [
+        "please check"
+      ]
+    },
+    {
+      "key": "realized the project",
+      "suggestions": [
+        "completed the project",
+        "built the project"
+      ]
+    },
+    {
+      "key": "formation",
+      "suggestions": [
+        "training",
+        "course"
+      ]
+    },
+    {
+      "key": "confront the",
+      "suggestions": [
+        "compare the"
+      ]
+    },
+    {
+      "key": "confront with",
+      "suggestions": [
+        "compare with"
+      ]
+    },
+    {
+      "key": "it occurs that",
+      "suggestions": [
+        "we need to",
+        "it's necessary to"
+      ]
+    },
+    {
+      "key": "convenient price",
+      "suggestions": [
+        "good price",
+        "low price"
+      ]
+    },
+    {
+      "key": "sensible",
+      "suggestions": [
+        "sensitive",
+        "reasonable"
+      ]
+    },
+    {
+      "key": "sympathetic",
+      "suggestions": [
+        "nice",
+        "friendly",
+        "likeable"
+      ]
+    },
+    {
+      "key": "the responsible of",
+      "suggestions": [
+        "the person in charge of",
+        "the head of"
+      ]
+    },
+    {
+      "key": "make a question",
+      "suggestions": [
+        "ask a question"
+      ]
+    },
+    {
+      "key": "made a question",
+      "suggestions": [
+        "asked a question"
+      ]
+    },
+    {
+      "key": "depends from",
+      "suggestions": [
+        "depends on"
+      ]
+    },
+    {
+      "key": "depending from",
+      "suggestions": [
+        "depending on"
+      ]
+    },
+    {
+      "key": "married with",
+      "suggestions": [
+        "married to"
+      ]
+    },
+    {
+      "key": "say me",
+      "suggestions": [
+        "tell me"
+      ]
+    },
+    {
+      "key": "discuss of",
+      "suggestions": [
+        "discuss",
+        "talk about"
+      ]
+    },
+    {
+      "key": "I'm agree",
+      "suggestions": [
+        "I agree"
+      ]
+    },
+    {
+      "key": "I am agree",
+      "suggestions": [
+        "I agree"
+      ]
+    },
+    {
+      "key": "open space",
+      "suggestions": [
+        "open-plan office"
+      ]
+    },
+    {
+      "key": "event location",
+      "suggestions": [
+        "venue"
+      ]
+    },
+    {
+      "key": "TV spot",
+      "suggestions": [
+        "TV commercial",
+        "TV ad"
+      ]
+    },
+    {
+      "key": "my stage",
+      "suggestions": [
+        "my internship"
+      ]
+    },
+    {
+      "key": "kind mr",
+      "suggestions": [
+        "Dear Mr"
+      ]
+    },
+    {
+      "key": "kind ms",
+      "suggestions": [
+        "Dear Ms"
+      ]
+    },
+    {
+      "key": "gentle mr",
+      "suggestions": [
+        "Dear Mr"
+      ]
+    },
+    {
+      "key": "gentle ms",
+      "suggestions": [
+        "Dear Ms"
+      ]
+    },
+    {
+      "key": "in attachment",
+      "suggestions": [
+        "attached"
+      ]
+    },
+    {
+      "key": "in attached",
+      "suggestions": [
+        "attached"
+      ]
+    },
+    {
+      "key": "waiting for your kind reply",
+      "suggestions": [
+        "I look forward to hearing from you"
+      ]
+    },
+    {
+      "key": "distinct greetings",
+      "suggestions": [
+        "Kind regards",
+        "Best regards"
+      ]
+    },
+    {
+      "key": "cordial greetings",
+      "suggestions": [
+        "Kind regards",
+        "Best regards"
+      ]
+    },
+    {
+      "key": "anticipate the meeting",
+      "suggestions": [
+        "bring the meeting forward",
+        "move the meeting earlier"
+      ]
+    },
+    {
+      "key": "anticipate the call",
+      "suggestions": [
+        "bring the call forward",
+        "move the call earlier"
+      ]
+    },
+    {
+      "key": "anticipate the appointment",
+      "suggestions": [
+        "bring the appointment forward"
+      ]
+    },
+    {
+      "key": "it's not the case to",
+      "suggestions": [
+        "there's no need to",
+        "it's not appropriate to"
+      ]
+    },
+    {
+      "key": "it is not the case to",
+      "suggestions": [
+        "there is no need to",
+        "it is not appropriate to"
+      ]
+    },
+    {
+      "key": "reasonment",
+      "suggestions": [
+        "reasoning"
+      ]
+    },
+    {
+      "key": "reasonments",
+      "suggestions": [
+        "reasoning",
+        "arguments"
+      ]
+    },
+    {
+      "key": "differents",
+      "suggestions": [
+        "different"
+      ]
+    },
+    {
+      "key": "importants",
+      "suggestions": [
+        "important"
+      ]
+    },
+    {
+      "key": "interestings",
+      "suggestions": [
+        "interesting"
+      ]
+    },
+    {
+      "key": "do a mistake",
+      "suggestions": [
+        "make a mistake"
+      ]
+    },
+    {
+      "key": "did a mistake",
+      "suggestions": [
+        "made a mistake"
+      ]
+    },
+    {
+      "key": "did an error",
+      "suggestions": [
+        "made a mistake"
+      ]
+    },
+    {
+      "key": "see TV",
+      "suggestions": [
+        "watch TV"
+      ]
+    },
+    {
+      "key": "saw TV",
+      "suggestions": [
+        "watched TV"
+      ]
+    },
+    {
+      "key": "seeing TV",
+      "suggestions": [
+        "watching TV"
+      ]
+    },
+    {
+      "key": "lose time",
+      "suggestions": [
+        "waste time"
+      ]
+    },
+    {
+      "key": "losing time",
+      "suggestions": [
+        "wasting time"
+      ]
+    },
+    {
+      "key": "you have reason",
+      "suggestions": [
+        "you're right"
+      ]
+    },
+    {
+      "key": "you had reason",
+      "suggestions": [
+        "you were right"
+      ]
+    },
+    {
+      "key": "what did you did",
+      "suggestions": [
+        "what did you do"
+      ]
+    },
+    {
+      "key": "what did I told",
+      "suggestions": [
+        "what did I tell"
+      ]
+    },
+    {
+      "key": "did you went",
+      "suggestions": [
+        "did you go"
+      ]
+    },
+    {
+      "key": "did you saw",
+      "suggestions": [
+        "did you see"
+      ]
+    },
+    {
+      "key": "did you told",
+      "suggestions": [
+        "did you tell"
+      ]
+    },
+    {
+      "key": "did you said",
+      "suggestions": [
+        "did you say"
+      ]
+    },
+    {
+      "key": "didn't do nothing",
+      "suggestions": [
+        "didn't do anything",
+        "did nothing"
+      ]
+    },
+    {
+      "key": "didn't say nothing",
+      "suggestions": [
+        "didn't say anything",
+        "said nothing"
+      ]
+    },
+    {
+      "key": "didn't learn nothing",
+      "suggestions": [
+        "didn't learn anything",
+        "learned nothing"
+      ]
+    },
+    {
+      "key": "don't know nothing",
+      "suggestions": [
+        "don't know anything",
+        "know nothing"
+      ]
+    },
+    {
+      "key": "come in Italy",
+      "suggestions": [
+        "come to Italy"
+      ]
+    },
+    {
+      "key": "arrive to",
+      "suggestions": [
+        "arrive in",
+        "arrive at",
+        "get to"
+      ]
+    },
+    {
+      "key": "arrived to",
+      "suggestions": [
+        "arrived in",
+        "arrived at",
+        "got to"
+      ]
+    },
+    {
+      "key": "by foot",
+      "suggestions": [
+        "on foot"
+      ]
+    },
+    {
+      "key": "with the train",
+      "suggestions": [
+        "by train"
+      ]
+    },
+    {
+      "key": "with the bus",
+      "suggestions": [
+        "by bus"
+      ]
+    },
+    {
+      "key": "with the car",
+      "suggestions": [
+        "by car"
+      ]
+    },
+    {
+      "key": "go to the school",
+      "suggestions": [
+        "go to school"
+      ]
+    },
+    {
+      "key": "go to the bed",
+      "suggestions": [
+        "go to bed"
+      ]
+    },
+    {
+      "key": "at the home",
+      "suggestions": [
+        "at home"
+      ]
+    },
+    {
+      "key": "the life is",
+      "suggestions": [
+        "life is"
+      ]
+    },
+    {
+      "key": "how not",
+      "suggestions": [
+        "of course",
+        "sure"
+      ]
+    }
+  ]
+}
