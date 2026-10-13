@@ -3,6 +3,14 @@
   "version": 1,
   "packs": [
     {
+      "id": "dig",
+      "name": "Instead of “dig”",
+      "kind": "synonyms",
+      "description": "Other words for “dig”, from careful excavation to frantic scrabbling.",
+      "file": "synonyms/dig.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "said",
       "name": "Instead of “said”",
       "kind": "synonyms",
@@ -40,6 +48,14 @@
       "kind": "theme",
       "description": "Words for light, shadow, color, clarity and the act of seeing.",
       "file": "themes/light.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "kind": "theme",
+      "description": "Words for mines, rock, ore, metals, gems, tools and the work of digging, from the shaft to the polished stone.",
+      "file": "themes/mining.md",
       "updated": "2026-10-13"
     },
     {
