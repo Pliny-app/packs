@@ -61,6 +61,16 @@ The same file as a synonym pack, with `"kind": "style"`, marked with a dotted un
 - `message`: what a mark says after the words ("“very”: a filler that can usually go"); without it, the pack's name.
 - `suggestions` are the fixes and may be empty.
 - `remove`: an entry without suggestions offers Remove.
+- `formats`: the form each kind of value is written in; Pliny marks the others and converts them. Leave a kind out to let the text's most used form count. Kinds and forms:
+  - `time`: `3 pm`, `3pm`, `3 PM`, `3PM`, `3 p.m.`, `15:00`
+  - `date`: `13 October 2026`, `October 13, 2026`, `2026-10-13`, `13/10/2026`, `10/13/2026`
+  - `money`: `$5`, `5 dollars`, `USD 5`
+  - `numbers`: `1,000`, `1 000`, `1000`
+  - `percent`: `5%`, `5 percent`, `5 per cent`
+  - `quotes`: `“curly”`, `"straight"`
+  - `dashes`: `a—b`, `a — b`, `a – b`, `a -- b`
+
+  `"formats": { "time": "3 p.m.", "date": "October 13, 2026" }`
 
 ## Category
 

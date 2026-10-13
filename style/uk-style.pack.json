@@ -1,0 +1,442 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "uk-style",
+  "name": "UK style",
+  "kind": "style",
+  "language": "en",
+  "description": "British spelling, times like 3pm, dates like 13 October 2026, and spaced en dashes.",
+  "category": "Language",
+  "source": "Pliny (CC0 1.0)",
+  "message": "UK style spelling",
+  "formats": {
+    "time": "3pm",
+    "date": "13 October 2026",
+    "numbers": "1,000",
+    "percent": "5 per cent",
+    "quotes": "“curly”",
+    "dashes": "a – b"
+  },
+  "entries": [
+    {
+      "key": "color",
+      "suggestions": [
+        "colour"
+      ]
+    },
+    {
+      "key": "colors",
+      "suggestions": [
+        "colours"
+      ]
+    },
+    {
+      "key": "colored",
+      "suggestions": [
+        "coloured"
+      ]
+    },
+    {
+      "key": "favor",
+      "suggestions": [
+        "favour"
+      ]
+    },
+    {
+      "key": "favorite",
+      "suggestions": [
+        "favourite"
+      ]
+    },
+    {
+      "key": "favorites",
+      "suggestions": [
+        "favourites"
+      ]
+    },
+    {
+      "key": "honor",
+      "suggestions": [
+        "honour"
+      ]
+    },
+    {
+      "key": "humor",
+      "suggestions": [
+        "humour"
+      ]
+    },
+    {
+      "key": "labor",
+      "suggestions": [
+        "labour"
+      ]
+    },
+    {
+      "key": "neighbor",
+      "suggestions": [
+        "neighbour"
+      ]
+    },
+    {
+      "key": "neighbors",
+      "suggestions": [
+        "neighbours"
+      ]
+    },
+    {
+      "key": "behavior",
+      "suggestions": [
+        "behaviour"
+      ]
+    },
+    {
+      "key": "flavor",
+      "suggestions": [
+        "flavour"
+      ]
+    },
+    {
+      "key": "harbor",
+      "suggestions": [
+        "harbour"
+      ]
+    },
+    {
+      "key": "rumor",
+      "suggestions": [
+        "rumour"
+      ]
+    },
+    {
+      "key": "vapor",
+      "suggestions": [
+        "vapour"
+      ]
+    },
+    {
+      "key": "armor",
+      "suggestions": [
+        "armour"
+      ]
+    },
+    {
+      "key": "parlor",
+      "suggestions": [
+        "parlour"
+      ]
+    },
+    {
+      "key": "center",
+      "suggestions": [
+        "centre"
+      ]
+    },
+    {
+      "key": "centers",
+      "suggestions": [
+        "centres"
+      ]
+    },
+    {
+      "key": "liter",
+      "suggestions": [
+        "litre"
+      ]
+    },
+    {
+      "key": "liters",
+      "suggestions": [
+        "litres"
+      ]
+    },
+    {
+      "key": "theater",
+      "suggestions": [
+        "theatre"
+      ]
+    },
+    {
+      "key": "fiber",
+      "suggestions": [
+        "fibre"
+      ]
+    },
+    {
+      "key": "somber",
+      "suggestions": [
+        "sombre"
+      ]
+    },
+    {
+      "key": "specter",
+      "suggestions": [
+        "spectre"
+      ]
+    },
+    {
+      "key": "realize",
+      "suggestions": [
+        "realise"
+      ]
+    },
+    {
+      "key": "realized",
+      "suggestions": [
+        "realised"
+      ]
+    },
+    {
+      "key": "organize",
+      "suggestions": [
+        "organise"
+      ]
+    },
+    {
+      "key": "organized",
+      "suggestions": [
+        "organised"
+      ]
+    },
+    {
+      "key": "recognize",
+      "suggestions": [
+        "recognise"
+      ]
+    },
+    {
+      "key": "recognized",
+      "suggestions": [
+        "recognised"
+      ]
+    },
+    {
+      "key": "apologize",
+      "suggestions": [
+        "apologise"
+      ]
+    },
+    {
+      "key": "criticize",
+      "suggestions": [
+        "criticise"
+      ]
+    },
+    {
+      "key": "emphasize",
+      "suggestions": [
+        "emphasise"
+      ]
+    },
+    {
+      "key": "analyze",
+      "suggestions": [
+        "analyse"
+      ]
+    },
+    {
+      "key": "analyzed",
+      "suggestions": [
+        "analysed"
+      ]
+    },
+    {
+      "key": "paralyze",
+      "suggestions": [
+        "paralyse"
+      ]
+    },
+    {
+      "key": "defense",
+      "suggestions": [
+        "defence"
+      ]
+    },
+    {
+      "key": "offense",
+      "suggestions": [
+        "offence"
+      ]
+    },
+    {
+      "key": "pretense",
+      "suggestions": [
+        "pretence"
+      ]
+    },
+    {
+      "key": "traveled",
+      "suggestions": [
+        "travelled"
+      ]
+    },
+    {
+      "key": "traveling",
+      "suggestions": [
+        "travelling"
+      ]
+    },
+    {
+      "key": "traveler",
+      "suggestions": [
+        "traveller"
+      ]
+    },
+    {
+      "key": "canceled",
+      "suggestions": [
+        "cancelled"
+      ]
+    },
+    {
+      "key": "canceling",
+      "suggestions": [
+        "cancelling"
+      ]
+    },
+    {
+      "key": "modeling",
+      "suggestions": [
+        "modelling"
+      ]
+    },
+    {
+      "key": "jewelry",
+      "suggestions": [
+        "jewellery"
+      ]
+    },
+    {
+      "key": "gray",
+      "suggestions": [
+        "grey"
+      ]
+    },
+    {
+      "key": "grays",
+      "suggestions": [
+        "greys"
+      ]
+    },
+    {
+      "key": "plow",
+      "suggestions": [
+        "plough"
+      ]
+    },
+    {
+      "key": "mold",
+      "suggestions": [
+        "mould"
+      ]
+    },
+    {
+      "key": "molt",
+      "suggestions": [
+        "moult"
+      ]
+    },
+    {
+      "key": "skeptic",
+      "suggestions": [
+        "sceptic"
+      ]
+    },
+    {
+      "key": "skeptical",
+      "suggestions": [
+        "sceptical"
+      ]
+    },
+    {
+      "key": "catalog",
+      "suggestions": [
+        "catalogue"
+      ]
+    },
+    {
+      "key": "aluminum",
+      "suggestions": [
+        "aluminium"
+      ]
+    },
+    {
+      "key": "maneuver",
+      "suggestions": [
+        "manoeuvre"
+      ]
+    },
+    {
+      "key": "airplane",
+      "suggestions": [
+        "aeroplane"
+      ]
+    },
+    {
+      "key": "estrogen",
+      "suggestions": [
+        "oestrogen"
+      ]
+    },
+    {
+      "key": "pediatric",
+      "suggestions": [
+        "paediatric"
+      ]
+    },
+    {
+      "key": "encyclopedia",
+      "suggestions": [
+        "encyclopaedia"
+      ]
+    },
+    {
+      "key": "aging",
+      "suggestions": [
+        "ageing"
+      ]
+    },
+    {
+      "key": "judgment",
+      "suggestions": [
+        "judgement"
+      ]
+    },
+    {
+      "key": "enroll",
+      "suggestions": [
+        "enrol"
+      ]
+    },
+    {
+      "key": "fulfill",
+      "suggestions": [
+        "fulfil"
+      ]
+    },
+    {
+      "key": "skillful",
+      "suggestions": [
+        "skilful"
+      ]
+    },
+    {
+      "key": "willful",
+      "suggestions": [
+        "wilful"
+      ]
+    },
+    {
+      "key": "draft",
+      "suggestions": [
+        "draught"
+      ]
+    },
+    {
+      "key": "pajamas",
+      "suggestions": [
+        "pyjamas"
+      ]
+    }
+  ]
+}

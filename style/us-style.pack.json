@@ -1,0 +1,497 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "us-style",
+  "name": "US style",
+  "kind": "style",
+  "language": "en",
+  "description": "American spelling, times like 3 p.m., dates like October 13, 2026, and closed em dashes.",
+  "category": "Language",
+  "source": "Pliny (CC0 1.0)",
+  "message": "US style spelling",
+  "formats": {
+    "time": "3 p.m.",
+    "date": "October 13, 2026",
+    "money": "$5",
+    "numbers": "1,000",
+    "percent": "5 percent",
+    "quotes": "“curly”",
+    "dashes": "a—b"
+  },
+  "entries": [
+    {
+      "key": "colour",
+      "suggestions": [
+        "color"
+      ]
+    },
+    {
+      "key": "colours",
+      "suggestions": [
+        "colors"
+      ]
+    },
+    {
+      "key": "coloured",
+      "suggestions": [
+        "colored"
+      ]
+    },
+    {
+      "key": "favour",
+      "suggestions": [
+        "favor"
+      ]
+    },
+    {
+      "key": "favourite",
+      "suggestions": [
+        "favorite"
+      ]
+    },
+    {
+      "key": "favourites",
+      "suggestions": [
+        "favorites"
+      ]
+    },
+    {
+      "key": "honour",
+      "suggestions": [
+        "honor"
+      ]
+    },
+    {
+      "key": "humour",
+      "suggestions": [
+        "humor"
+      ]
+    },
+    {
+      "key": "labour",
+      "suggestions": [
+        "labor"
+      ]
+    },
+    {
+      "key": "neighbour",
+      "suggestions": [
+        "neighbor"
+      ]
+    },
+    {
+      "key": "neighbours",
+      "suggestions": [
+        "neighbors"
+      ]
+    },
+    {
+      "key": "behaviour",
+      "suggestions": [
+        "behavior"
+      ]
+    },
+    {
+      "key": "flavour",
+      "suggestions": [
+        "flavor"
+      ]
+    },
+    {
+      "key": "harbour",
+      "suggestions": [
+        "harbor"
+      ]
+    },
+    {
+      "key": "rumour",
+      "suggestions": [
+        "rumor"
+      ]
+    },
+    {
+      "key": "vapour",
+      "suggestions": [
+        "vapor"
+      ]
+    },
+    {
+      "key": "armour",
+      "suggestions": [
+        "armor"
+      ]
+    },
+    {
+      "key": "parlour",
+      "suggestions": [
+        "parlor"
+      ]
+    },
+    {
+      "key": "centre",
+      "suggestions": [
+        "center"
+      ]
+    },
+    {
+      "key": "centres",
+      "suggestions": [
+        "centers"
+      ]
+    },
+    {
+      "key": "metre",
+      "suggestions": [
+        "meter"
+      ]
+    },
+    {
+      "key": "metres",
+      "suggestions": [
+        "meters"
+      ]
+    },
+    {
+      "key": "litre",
+      "suggestions": [
+        "liter"
+      ]
+    },
+    {
+      "key": "litres",
+      "suggestions": [
+        "liters"
+      ]
+    },
+    {
+      "key": "theatre",
+      "suggestions": [
+        "theater"
+      ]
+    },
+    {
+      "key": "fibre",
+      "suggestions": [
+        "fiber"
+      ]
+    },
+    {
+      "key": "sombre",
+      "suggestions": [
+        "somber"
+      ]
+    },
+    {
+      "key": "spectre",
+      "suggestions": [
+        "specter"
+      ]
+    },
+    {
+      "key": "realise",
+      "suggestions": [
+        "realize"
+      ]
+    },
+    {
+      "key": "realised",
+      "suggestions": [
+        "realized"
+      ]
+    },
+    {
+      "key": "organise",
+      "suggestions": [
+        "organize"
+      ]
+    },
+    {
+      "key": "organised",
+      "suggestions": [
+        "organized"
+      ]
+    },
+    {
+      "key": "recognise",
+      "suggestions": [
+        "recognize"
+      ]
+    },
+    {
+      "key": "recognised",
+      "suggestions": [
+        "recognized"
+      ]
+    },
+    {
+      "key": "apologise",
+      "suggestions": [
+        "apologize"
+      ]
+    },
+    {
+      "key": "criticise",
+      "suggestions": [
+        "criticize"
+      ]
+    },
+    {
+      "key": "emphasise",
+      "suggestions": [
+        "emphasize"
+      ]
+    },
+    {
+      "key": "analyse",
+      "suggestions": [
+        "analyze"
+      ]
+    },
+    {
+      "key": "analysed",
+      "suggestions": [
+        "analyzed"
+      ]
+    },
+    {
+      "key": "paralyse",
+      "suggestions": [
+        "paralyze"
+      ]
+    },
+    {
+      "key": "defence",
+      "suggestions": [
+        "defense"
+      ]
+    },
+    {
+      "key": "offence",
+      "suggestions": [
+        "offense"
+      ]
+    },
+    {
+      "key": "licence",
+      "suggestions": [
+        "license"
+      ]
+    },
+    {
+      "key": "pretence",
+      "suggestions": [
+        "pretense"
+      ]
+    },
+    {
+      "key": "travelled",
+      "suggestions": [
+        "traveled"
+      ]
+    },
+    {
+      "key": "travelling",
+      "suggestions": [
+        "traveling"
+      ]
+    },
+    {
+      "key": "traveller",
+      "suggestions": [
+        "traveler"
+      ]
+    },
+    {
+      "key": "cancelled",
+      "suggestions": [
+        "canceled"
+      ]
+    },
+    {
+      "key": "cancelling",
+      "suggestions": [
+        "canceling"
+      ]
+    },
+    {
+      "key": "modelling",
+      "suggestions": [
+        "modeling"
+      ]
+    },
+    {
+      "key": "jewellery",
+      "suggestions": [
+        "jewelry"
+      ]
+    },
+    {
+      "key": "grey",
+      "suggestions": [
+        "gray"
+      ]
+    },
+    {
+      "key": "greys",
+      "suggestions": [
+        "grays"
+      ]
+    },
+    {
+      "key": "plough",
+      "suggestions": [
+        "plow"
+      ]
+    },
+    {
+      "key": "mould",
+      "suggestions": [
+        "mold"
+      ]
+    },
+    {
+      "key": "moult",
+      "suggestions": [
+        "molt"
+      ]
+    },
+    {
+      "key": "sceptic",
+      "suggestions": [
+        "skeptic"
+      ]
+    },
+    {
+      "key": "sceptical",
+      "suggestions": [
+        "skeptical"
+      ]
+    },
+    {
+      "key": "catalogue",
+      "suggestions": [
+        "catalog"
+      ]
+    },
+    {
+      "key": "dialogue",
+      "suggestions": [
+        "dialog"
+      ]
+    },
+    {
+      "key": "cheque",
+      "suggestions": [
+        "check"
+      ]
+    },
+    {
+      "key": "tyre",
+      "suggestions": [
+        "tire"
+      ]
+    },
+    {
+      "key": "tyres",
+      "suggestions": [
+        "tires"
+      ]
+    },
+    {
+      "key": "kerb",
+      "suggestions": [
+        "curb"
+      ]
+    },
+    {
+      "key": "aluminium",
+      "suggestions": [
+        "aluminum"
+      ]
+    },
+    {
+      "key": "programme",
+      "suggestions": [
+        "program"
+      ]
+    },
+    {
+      "key": "manoeuvre",
+      "suggestions": [
+        "maneuver"
+      ]
+    },
+    {
+      "key": "aeroplane",
+      "suggestions": [
+        "airplane"
+      ]
+    },
+    {
+      "key": "oestrogen",
+      "suggestions": [
+        "estrogen"
+      ]
+    },
+    {
+      "key": "paediatric",
+      "suggestions": [
+        "pediatric"
+      ]
+    },
+    {
+      "key": "encyclopaedia",
+      "suggestions": [
+        "encyclopedia"
+      ]
+    },
+    {
+      "key": "ageing",
+      "suggestions": [
+        "aging"
+      ]
+    },
+    {
+      "key": "judgement",
+      "suggestions": [
+        "judgment"
+      ]
+    },
+    {
+      "key": "enrol",
+      "suggestions": [
+        "enroll"
+      ]
+    },
+    {
+      "key": "fulfil",
+      "suggestions": [
+        "fulfill"
+      ]
+    },
+    {
+      "key": "skilful",
+      "suggestions": [
+        "skillful"
+      ]
+    },
+    {
+      "key": "wilful",
+      "suggestions": [
+        "willful"
+      ]
+    },
+    {
+      "key": "draught",
+      "suggestions": [
+        "draft"
+      ]
+    },
+    {
+      "key": "pyjamas",
+      "suggestions": [
+        "pajamas"
+      ]
+    }
+  ]
+}
