@@ -1,6 +1,6 @@
 ---
 name: English Pitfalls for Polish Speakers
-description: Articles, tenses, word order, false friends, translated phrases and number traps that Polish speakers carry into English, with what to write instead.
+description: Habits Polish speakers carry into English
 category: Language
 author: Pliny
 license: CC0 1.0
