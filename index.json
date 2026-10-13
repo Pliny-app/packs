@@ -63,6 +63,24 @@
       "updated": "2026-10-13"
     },
     {
+      "id": "uk-style",
+      "name": "UK style",
+      "kind": "style",
+      "description": "British spelling, times like 3pm, dates like 13 October 2026, and spaced en dashes.",
+      "category": "Language",
+      "file": "style/uk-style.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "us-style",
+      "name": "US style",
+      "kind": "style",
+      "description": "American spelling, times like 3 p.m., dates like October 13, 2026, and closed em dashes.",
+      "category": "Language",
+      "file": "style/us-style.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "dig",
       "name": "Instead of “dig”",
       "kind": "synonyms",
@@ -182,6 +200,22 @@
       "description": "Words for mines, rock, ore, metals, gems, tools and the work of digging, from the shaft to the polished stone.",
       "category": "Earth",
       "file": "themes/mining.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "naming",
+      "name": "Naming",
+      "kind": "theme",
+      "description": "Techniques for inventing sci-fi and fantasy names.",
+      "file": "themes/naming.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "rules-and-policies",
+      "name": "Rules and Policies",
+      "kind": "theme",
+      "description": "The language of handbooks, codes of conduct, policies, contracts and workplace rules.",
+      "file": "themes/rules-and-policies.md",
       "updated": "2026-10-13"
     },
     {
