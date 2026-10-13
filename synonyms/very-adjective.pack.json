@@ -1,0 +1,443 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "very-adjective",
+  "name": "Very + adjective",
+  "kind": "synonyms",
+  "language": "en",
+  "description": "One stronger word instead of “very” + an adjective (A–F).",
+  "updated": "2026-10-13",
+  "trigger": "very {word}",
+  "source": "Piotr Weber; extra suggestions from Open English WordNet 2025 (CC BY 4.0) and Claude, reviewed",
+  "entries": [
+    {
+      "key": "accurate",
+      "suggestions": [
+        "exact",
+        "precise",
+        "faithful",
+        "dead-on"
+      ]
+    },
+    {
+      "key": "afraid",
+      "suggestions": [
+        "fearful",
+        "terrified",
+        "petrified",
+        "panic-stricken"
+      ]
+    },
+    {
+      "key": "angry",
+      "suggestions": [
+        "furious",
+        "enraged",
+        "livid",
+        "irate"
+      ]
+    },
+    {
+      "key": "annoying",
+      "suggestions": [
+        "exasperating",
+        "infuriating",
+        "galling",
+        "vexing"
+      ]
+    },
+    {
+      "key": "bad",
+      "suggestions": [
+        "atrocious",
+        "dreadful",
+        "abominable",
+        "terrible"
+      ]
+    },
+    {
+      "key": "beautiful",
+      "suggestions": [
+        "exquisite",
+        "stunning",
+        "gorgeous",
+        "ravishing"
+      ]
+    },
+    {
+      "key": "big",
+      "suggestions": [
+        "immense",
+        "enormous",
+        "colossal",
+        "gigantic"
+      ]
+    },
+    {
+      "key": "boring",
+      "suggestions": [
+        "dull",
+        "tedious",
+        "tiresome",
+        "monotonous"
+      ]
+    },
+    {
+      "key": "bright",
+      "suggestions": [
+        "luminous",
+        "dazzling",
+        "radiant",
+        "brilliant"
+      ]
+    },
+    {
+      "key": "busy",
+      "suggestions": [
+        "swamped",
+        "overwhelmed",
+        "snowed under"
+      ]
+    },
+    {
+      "key": "calm",
+      "suggestions": [
+        "serene",
+        "tranquil",
+        "placid",
+        "unruffled"
+      ]
+    },
+    {
+      "key": "careful",
+      "suggestions": [
+        "cautious",
+        "meticulous",
+        "painstaking",
+        "scrupulous"
+      ]
+    },
+    {
+      "key": "cheap",
+      "suggestions": [
+        "stingy",
+        "dirt-cheap",
+        "rock-bottom"
+      ]
+    },
+    {
+      "key": "clean",
+      "suggestions": [
+        "spotless",
+        "immaculate",
+        "pristine",
+        "spick-and-span"
+      ]
+    },
+    {
+      "key": "clear",
+      "suggestions": [
+        "obvious",
+        "unmistakable",
+        "lucid",
+        "crystal-clear"
+      ]
+    },
+    {
+      "key": "clever",
+      "suggestions": [
+        "intelligent",
+        "brilliant",
+        "ingenious",
+        "shrewd"
+      ]
+    },
+    {
+      "key": "cold",
+      "suggestions": [
+        "freezing",
+        "frigid",
+        "icy",
+        "glacial"
+      ]
+    },
+    {
+      "key": "colourful",
+      "suggestions": [
+        "vibrant",
+        "vivid",
+        "brilliant",
+        "psychedelic"
+      ]
+    },
+    {
+      "key": "competitive",
+      "suggestions": [
+        "cutthroat",
+        "ruthless",
+        "fierce"
+      ]
+    },
+    {
+      "key": "complete",
+      "suggestions": [
+        "comprehensive",
+        "exhaustive",
+        "thorough",
+        "all-encompassing"
+      ]
+    },
+    {
+      "key": "confused",
+      "suggestions": [
+        "perplexed",
+        "baffled",
+        "bewildered",
+        "befuddled"
+      ]
+    },
+    {
+      "key": "conventional",
+      "suggestions": [
+        "conservative",
+        "traditional",
+        "conformist",
+        "stuffy"
+      ]
+    },
+    {
+      "key": "creative",
+      "suggestions": [
+        "innovative",
+        "inventive",
+        "imaginative",
+        "visionary"
+      ]
+    },
+    {
+      "key": "crowded",
+      "suggestions": [
+        "bustling",
+        "packed",
+        "jam-packed",
+        "teeming"
+      ]
+    },
+    {
+      "key": "cute",
+      "suggestions": [
+        "adorable",
+        "charming",
+        "endearing",
+        "precious"
+      ]
+    },
+    {
+      "key": "dangerous",
+      "suggestions": [
+        "perilous",
+        "hazardous",
+        "treacherous",
+        "life-threatening"
+      ]
+    },
+    {
+      "key": "dear",
+      "suggestions": [
+        "cherished",
+        "beloved",
+        "precious",
+        "treasured"
+      ]
+    },
+    {
+      "key": "deep",
+      "suggestions": [
+        "profound",
+        "unfathomable",
+        "bottomless",
+        "abysmal"
+      ]
+    },
+    {
+      "key": "depressed",
+      "suggestions": [
+        "despondent",
+        "dejected",
+        "miserable",
+        "crestfallen"
+      ]
+    },
+    {
+      "key": "detailed",
+      "suggestions": [
+        "meticulous",
+        "elaborate",
+        "thorough",
+        "exhaustive"
+      ]
+    },
+    {
+      "key": "different",
+      "suggestions": [
+        "disparate",
+        "contrasting",
+        "divergent",
+        "poles apart"
+      ]
+    },
+    {
+      "key": "difficult",
+      "suggestions": [
+        "arduous",
+        "gruelling",
+        "herculean",
+        "formidable"
+      ]
+    },
+    {
+      "key": "dirty",
+      "suggestions": [
+        "filthy",
+        "squalid",
+        "grimy",
+        "foul"
+      ]
+    },
+    {
+      "key": "dry",
+      "suggestions": [
+        "arid",
+        "parched",
+        "bone-dry",
+        "desiccated"
+      ]
+    },
+    {
+      "key": "dull",
+      "suggestions": [
+        "tedious",
+        "monotonous",
+        "humdrum",
+        "dreary"
+      ]
+    },
+    {
+      "key": "eager",
+      "suggestions": [
+        "keen",
+        "avid",
+        "zealous",
+        "raring"
+      ]
+    },
+    {
+      "key": "easy",
+      "suggestions": [
+        "effortless",
+        "simple",
+        "painless",
+        "a breeze"
+      ]
+    },
+    {
+      "key": "empty",
+      "suggestions": [
+        "desolate",
+        "deserted",
+        "barren",
+        "vacant"
+      ]
+    },
+    {
+      "key": "excited",
+      "suggestions": [
+        "thrilled",
+        "elated",
+        "ecstatic",
+        "exhilarated"
+      ]
+    },
+    {
+      "key": "exciting",
+      "suggestions": [
+        "exhilarating",
+        "thrilling",
+        "electrifying",
+        "breathtaking"
+      ]
+    },
+    {
+      "key": "expensive",
+      "suggestions": [
+        "costly",
+        "exorbitant",
+        "extortionate",
+        "overpriced"
+      ]
+    },
+    {
+      "key": "fancy",
+      "suggestions": [
+        "lavish",
+        "ornate",
+        "elaborate",
+        "extravagant"
+      ]
+    },
+    {
+      "key": "fast",
+      "suggestions": [
+        "swift",
+        "rapid",
+        "speedy",
+        "lightning-fast"
+      ]
+    },
+    {
+      "key": "fat",
+      "suggestions": [
+        "obese",
+        "corpulent",
+        "overweight",
+        "rotund"
+      ]
+    },
+    {
+      "key": "friendly",
+      "suggestions": [
+        "amiable",
+        "affable",
+        "cordial",
+        "warm-hearted"
+      ]
+    },
+    {
+      "key": "frightened",
+      "suggestions": [
+        "alarmed",
+        "terrified",
+        "petrified",
+        "panic-stricken"
+      ]
+    },
+    {
+      "key": "frightening",
+      "suggestions": [
+        "terrifying",
+        "horrifying",
+        "dreadful",
+        "hair-raising"
+      ]
+    },
+    {
+      "key": "funny",
+      "suggestions": [
+        "hilarious",
+        "hysterical",
+        "side-splitting",
+        "uproarious"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pliny": "pack-index",
+  "version": 1,
+  "packs": [
+    {
+      "id": "said",
+      "name": "Instead of “said”",
+      "kind": "synonyms",
+      "description": "Other words for “said”, for dialogue and reported speech.",
+      "file": "synonyms/said.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "very-adjective",
+      "name": "Very + adjective",
+      "kind": "synonyms",
+      "description": "One stronger word instead of “very” + an adjective (A–F).",
+      "file": "synonyms/very-adjective.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "kind": "theme",
+      "description": "Words for sky, rain, wind, cold and heat.",
+      "file": "themes/weather.md",
+      "updated": "2026-10-13"
+    }
+  ]
+}
