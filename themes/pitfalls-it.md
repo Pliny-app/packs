@@ -1,14 +1,12 @@
 ---
 name: English Pitfalls for Italian Speakers
-description: False friends, translated phrases, grammar slips, interjections and number traps that Italian speakers carry into English, with what to write instead.
+description: Habits Italian speakers carry into English
 category: Language
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13
 ---
 # English Pitfalls for Italian Speakers
-
-Each entry gives the slip, the Italian behind it, and what a native speaker would write instead.
 
 ## False friends
 - **eventually** — from *eventualmente*, "if needed, possibly". In English it means "in the end".
