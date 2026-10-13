@@ -11,6 +11,42 @@
       "updated": "2026-10-13"
     },
     {
+      "id": "pitfalls-fr",
+      "name": "English pitfalls for French speakers",
+      "kind": "style",
+      "description": "Flags false friends and translated phrases that French speakers carry into English, and suggests what a native speaker would write.",
+      "category": "Language",
+      "file": "style/pitfalls-fr.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "pitfalls-de",
+      "name": "English pitfalls for German speakers",
+      "kind": "style",
+      "description": "Flags false friends and translated phrases that German speakers carry into English, and suggests what a native speaker would write.",
+      "category": "Language",
+      "file": "style/pitfalls-de.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "pitfalls-it",
+      "name": "English pitfalls for Italian speakers",
+      "kind": "style",
+      "description": "Flags false friends, translated phrases and grammar slips that Italian speakers carry into English, and suggests what a native speaker would write.",
+      "category": "Language",
+      "file": "style/pitfalls-it.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "pitfalls-pl",
+      "name": "English pitfalls for Polish speakers",
+      "kind": "style",
+      "description": "Flags false friends, translated phrases, prepositions and grammar slips that Polish speakers carry into English, and suggests what a native speaker would write.",
+      "category": "Language",
+      "file": "style/pitfalls-pl.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "fillers",
       "name": "Fillers",
       "kind": "style",
@@ -65,6 +101,51 @@
       "description": "Words for describing planets and moons in science fiction.",
       "category": "Sci-fi",
       "file": "themes/alien-worlds.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "corporate-speak",
+      "name": "Corporate Speak",
+      "kind": "theme",
+      "description": "Phrases from meetings, memos, emails, and press releases.",
+      "category": "Language",
+      "file": "themes/corporate-speak.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "english-pitfalls-for-french-speakers",
+      "name": "English Pitfalls for French Speakers",
+      "kind": "theme",
+      "description": "False friends, translated phrases, grammar slips and number traps that French speakers carry into English, with what to write instead.",
+      "category": "Language",
+      "file": "themes/pitfalls-fr.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "english-pitfalls-for-german-speakers",
+      "name": "English Pitfalls for German Speakers",
+      "kind": "theme",
+      "description": "False friends, translated phrases, grammar slips and number traps that German and Swiss German speakers carry into English, with what to write instead.",
+      "category": "Language",
+      "file": "themes/pitfalls-de.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "english-pitfalls-for-italian-speakers",
+      "name": "English Pitfalls for Italian Speakers",
+      "kind": "theme",
+      "description": "False friends, translated phrases, grammar slips, interjections and number traps that Italian speakers carry into English, with what to write instead.",
+      "category": "Language",
+      "file": "themes/pitfalls-it.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "english-pitfalls-for-polish-speakers",
+      "name": "English Pitfalls for Polish Speakers",
+      "kind": "theme",
+      "description": "Articles, tenses, word order, false friends, translated phrases and number traps that Polish speakers carry into English, with what to write instead.",
+      "category": "Language",
+      "file": "themes/pitfalls-pl.md",
       "updated": "2026-10-13"
     },
     {
