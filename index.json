@@ -167,6 +167,15 @@
       "updated": "2026-10-13"
     },
     {
+      "id": "mangled-idioms",
+      "name": "Mangled Idioms",
+      "kind": "theme",
+      "description": "Malaphors, eggcorns and other twisted sayings",
+      "category": "Language",
+      "file": "themes/mangled-idioms.md",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "mining",
       "name": "Mining",
       "kind": "theme",
