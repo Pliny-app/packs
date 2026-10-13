@@ -27,6 +27,22 @@
       "updated": "2026-10-13"
     },
     {
+      "id": "high-strangeness",
+      "name": "High Strangeness",
+      "kind": "theme",
+      "description": "Words for anomalies, secret agencies, cover-ups, close encounters, warped places and the minds that meet them.",
+      "file": "themes/high-strangeness.md",
+      "updated": "2026-10-13"
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "kind": "theme",
+      "description": "Words for light, shadow, color, clarity and the act of seeing.",
+      "file": "themes/light.md",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "weather",
       "name": "Weather",
       "kind": "theme",
