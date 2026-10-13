@@ -1,0 +1,38 @@
+# On a push to main: checks every pack and rebuilds index.json (committed if it changed).
+# On a pull request: only checks.
+name: Index
+
+on:
+  push:
+    branches: [main]
+    paths: ['synonyms/**', 'themes/**', 'scripts/**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # the whole history: each pack's date is its last commit
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check packs
+        if: github.event_name == 'pull_request'
+        run: node scripts/build-index.mjs --check
+      - name: Build index.json
+        if: github.event_name != 'pull_request'
+        run: node scripts/build-index.mjs
+      - name: Commit index.json
+        if: github.event_name != 'pull_request'
+        run: |
+          git diff --quiet index.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Rebuild index.json" index.json
+          git push

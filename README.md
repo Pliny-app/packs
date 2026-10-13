@@ -55,6 +55,8 @@ If `name` is missing, the first `#` heading is used.
 
 ## Adding a pack
 
-1. Put the file in `synonyms/` or `themes/`.
-2. Add it to `index.json`: `id`, `name`, `kind` (`synonyms` or `theme`), `description`, `file` (its path here) and `updated` (YYYY-MM-DD).
-3. When you change a pack, raise its `updated` date in `index.json`. Pliny then offers Update to people who have it.
+1. Make it in Pliny (Settings › Word packs › New pack) and use Save as file…, or write the `.md`.
+2. Put the file in `synonyms/` (name ending in `.pack.json`) or `themes/` (`.md`): on github.com, Add file › Upload files.
+3. That's it: on every push, a GitHub Action checks the packs and rebuilds `index.json`. Each pack's `updated` date is its file's last change, so Pliny offers Update when a pack changes (at most once a day). A broken pack fails the run (Actions tab) and the index stays as it was.
+
+To check locally: `node scripts/build-index.mjs --check`
