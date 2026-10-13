@@ -1,0 +1,35 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "dig",
+  "name": "Instead of “dig”",
+  "kind": "synonyms",
+  "language": "en",
+  "description": "Other words for “dig”, from careful excavation to frantic scrabbling.",
+  "trigger": "dig",
+  "source": "Pliny (CC0 1.0)",
+  "updated": "2026-10-13",
+  "entries": [
+    {
+      "key": "dig",
+      "suggestions": [
+        "excavate",
+        "delve",
+        "burrow",
+        "tunnel",
+        "mine",
+        "shovel",
+        "scoop",
+        "unearth",
+        "hew",
+        "quarry",
+        "bore",
+        "trench",
+        "gouge",
+        "grub",
+        "root",
+        "scrabble"
+      ]
+    }
+  ]
+}
