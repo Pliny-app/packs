@@ -1,14 +1,12 @@
 ---
 name: English Pitfalls for German Speakers
-description: False friends, translated phrases, grammar slips and number traps that German and Swiss German speakers carry into English, with what to write instead.
+description: Habits German and Swiss German speakers carry into English
 category: Language
 author: Pliny
 license: CC0 1.0
 updated: 2026-10-13
 ---
 # English Pitfalls for German Speakers
-
-Each entry gives the slip, the German behind it, and what a native speaker would write instead.
 
 ## False friends
 - **eventually** — from *eventuell*, "possibly". In English it means "in the end". Write *possibly, maybe, if necessary*.
