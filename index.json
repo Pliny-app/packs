@@ -11,6 +11,14 @@
       "updated": "2026-10-13"
     },
     {
+      "id": "but",
+      "name": "Synonyms of “but”",
+      "kind": "synonyms",
+      "description": "Other words for “but”.",
+      "file": "synonyms/but.pack.json",
+      "updated": "2026-10-13"
+    },
+    {
       "id": "very-adjective",
       "name": "Very + adjective",
       "kind": "synonyms",
