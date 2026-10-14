@@ -3,6 +3,51 @@
   "version": 1,
   "packs": [
     {
+      "id": "chicago-citations",
+      "name": "Chicago citations",
+      "kind": "format",
+      "description": "Bibliography entries for books, articles and websites, Chicago style.",
+      "category": "Writing",
+      "file": "formats/chicago-citations.pack.json",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "collecting",
+      "name": "Collecting notations",
+      "kind": "format",
+      "description": "Editions, numbered pieces, approximate dates, sizes, condition and provenance.",
+      "category": "Collecting",
+      "file": "formats/collecting.pack.json",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "markdown",
+      "name": "Markdown",
+      "kind": "format",
+      "description": "Links, images, quotes, tables and checklists in pages and notes.",
+      "category": "Writing",
+      "file": "formats/markdown.pack.json",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "uk-formats",
+      "name": "UK formats",
+      "kind": "format",
+      "description": "Times like 3pm, dates like 13 October 2026, 5 per cent, spaced en dashes; British dialogue and quotations.",
+      "category": "Language",
+      "file": "formats/uk-formats.pack.json",
+      "updated": "2026-10-14"
+    },
+    {
+      "id": "us-formats",
+      "name": "US formats",
+      "kind": "format",
+      "description": "Times like 3 p.m., dates like October 13, 2026, $5, 5 percent, closed em dashes; American dialogue and quotations.",
+      "category": "Language",
+      "file": "formats/us-formats.pack.json",
+      "updated": "2026-10-14"
+    },
+    {
       "id": "cliches",
       "name": "Clichés",
       "kind": "style",
@@ -66,19 +111,19 @@
       "id": "uk-style",
       "name": "UK style",
       "kind": "style",
-      "description": "British spelling, times like 3pm, dates like 13 October 2026, and spaced en dashes.",
+      "description": "British spelling: colour, favourite, behaviour…",
       "category": "Language",
       "file": "style/uk-style.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "id": "us-style",
       "name": "US style",
       "kind": "style",
-      "description": "American spelling, times like 3 p.m., dates like October 13, 2026, and closed em dashes.",
+      "description": "American spelling: color, favorite, behavior…",
       "category": "Language",
       "file": "style/us-style.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-14"
     },
     {
       "id": "dig",
