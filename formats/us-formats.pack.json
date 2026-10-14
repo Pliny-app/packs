@@ -1,0 +1,54 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "us-formats",
+  "name": "US formats",
+  "kind": "format",
+  "language": "en",
+  "description": "Times like 3 p.m., dates like October 13, 2026, $5, 5 percent, closed em dashes; American dialogue and quotations.",
+  "category": "Language",
+  "source": "Pliny (CC0 1.0)",
+  "formats": {
+    "time": "3 p.m.",
+    "date": "October 13, 2026",
+    "money": "$5",
+    "numbers": "1,000",
+    "percent": "5 percent",
+    "quotes": "“curly”",
+    "dashes": "a—b"
+  },
+  "snippets": [
+    {
+      "name": "Dialogue",
+      "template": "“{line},” {name} said."
+    },
+    {
+      "name": "Dialogue, a question",
+      "template": "“{line}?” {name} asked."
+    },
+    {
+      "name": "Quote in a quote",
+      "template": "“{line} ‘{inner}’ {rest}”"
+    },
+    {
+      "name": "Quotation",
+      "template": "As {author} put it, “{quote}.”"
+    },
+    {
+      "name": "Date",
+      "template": "{month} {day}, {year}"
+    },
+    {
+      "name": "Date range",
+      "template": "{month} {from}–{to}, {year}"
+    },
+    {
+      "name": "Time range",
+      "template": "{from}–{to} p.m."
+    },
+    {
+      "name": "Price",
+      "template": "${amount}"
+    }
+  ]
+}

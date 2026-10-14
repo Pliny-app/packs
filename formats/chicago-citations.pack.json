@@ -1,0 +1,25 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "chicago-citations",
+  "name": "Chicago citations",
+  "kind": "format",
+  "language": "en",
+  "description": "Bibliography entries for books, articles and websites, Chicago style.",
+  "category": "Writing",
+  "source": "Pliny (CC0 1.0)",
+  "snippets": [
+    {
+      "name": "Book",
+      "template": "{Last name}, {First name}. *{Title}*. {City}: {Publisher}, {year}."
+    },
+    {
+      "name": "Article",
+      "template": "{Last name}, {First name}. “{Article title}.” *{Journal}* {volume}, no. {issue} ({year}): {pages}."
+    },
+    {
+      "name": "Website",
+      "template": "{Last name}, {First name}. “{Page title}.” {Site name}. {Month} {day}, {year}. {URL}."
+    }
+  ]
+}

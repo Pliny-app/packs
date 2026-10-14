@@ -1,0 +1,49 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "collecting",
+  "name": "Collecting notations",
+  "kind": "format",
+  "language": "en",
+  "description": "Editions, numbered pieces, approximate dates, sizes, condition and provenance.",
+  "category": "Collecting",
+  "source": "Pliny (CC0 1.0)",
+  "snippets": [
+    {
+      "name": "Numbered piece",
+      "template": "#{number}/{edition size}"
+    },
+    {
+      "name": "First edition",
+      "template": "1st ed., {year}"
+    },
+    {
+      "name": "Printing",
+      "template": "{edition} ed., {printing} printing, {year}"
+    },
+    {
+      "name": "Approximate date",
+      "template": "c. {year}"
+    },
+    {
+      "name": "Date range",
+      "template": "{from}–{to}"
+    },
+    {
+      "name": "Size",
+      "template": "{width} × {height} cm"
+    },
+    {
+      "name": "Size with depth",
+      "template": "{width} × {height} × {depth} cm"
+    },
+    {
+      "name": "Condition",
+      "template": "{grade} ({notes})"
+    },
+    {
+      "name": "Provenance",
+      "template": "{owner}, {place}, {year}; by descent to {next owner}"
+    }
+  ]
+}

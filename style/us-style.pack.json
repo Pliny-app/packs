@@ -5,19 +5,10 @@
   "name": "US style",
   "kind": "style",
   "language": "en",
-  "description": "American spelling, times like 3 p.m., dates like October 13, 2026, and closed em dashes.",
+  "description": "American spelling: color, favorite, behavior…",
   "category": "Language",
   "source": "Pliny (CC0 1.0)",
   "message": "US style spelling",
-  "formats": {
-    "time": "3 p.m.",
-    "date": "October 13, 2026",
-    "money": "$5",
-    "numbers": "1,000",
-    "percent": "5 percent",
-    "quotes": "“curly”",
-    "dashes": "a—b"
-  },
   "entries": [
     {
       "key": "colour",

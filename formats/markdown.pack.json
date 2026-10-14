@@ -1,0 +1,37 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "markdown",
+  "name": "Markdown",
+  "kind": "format",
+  "language": "en",
+  "description": "Links, images, quotes, tables and checklists in pages and notes.",
+  "category": "Writing",
+  "source": "Pliny (CC0 1.0)",
+  "snippets": [
+    {
+      "name": "Link",
+      "template": "[{text}]({url})"
+    },
+    {
+      "name": "Image",
+      "template": "![{description}]({url})"
+    },
+    {
+      "name": "Block quote",
+      "template": "> {quote}\n>\n> — {author}"
+    },
+    {
+      "name": "Heading",
+      "template": "## {heading}"
+    },
+    {
+      "name": "Checklist",
+      "template": "- [ ] {task}"
+    },
+    {
+      "name": "Table",
+      "template": "| {column 1} | {column 2} |\n|---|---|\n| {value 1} | {value 2} |"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pliny": "pack",
+  "version": 1,
+  "id": "uk-formats",
+  "name": "UK formats",
+  "kind": "format",
+  "language": "en",
+  "description": "Times like 3pm, dates like 13 October 2026, 5 per cent, spaced en dashes; British dialogue and quotations.",
+  "category": "Language",
+  "source": "Pliny (CC0 1.0)",
+  "formats": {
+    "time": "3pm",
+    "date": "13 October 2026",
+    "numbers": "1,000",
+    "percent": "5 per cent",
+    "quotes": "“curly”",
+    "dashes": "a – b"
+  },
+  "snippets": [
+    {
+      "name": "Dialogue",
+      "template": "‘{line},’ {name} said."
+    },
+    {
+      "name": "Dialogue, a question",
+      "template": "‘{line}?’ {name} asked."
+    },
+    {
+      "name": "Quote in a quote",
+      "template": "‘{line} “{inner}” {rest}’"
+    },
+    {
+      "name": "Quotation",
+      "template": "As {author} put it, ‘{quote}’."
+    },
+    {
+      "name": "Date",
+      "template": "{day} {month} {year}"
+    },
+    {
+      "name": "Date range",
+      "template": "{from}–{to} {month} {year}"
+    },
+    {
+      "name": "Time range",
+      "template": "{from}–{to}pm"
+    },
+    {
+      "name": "Price",
+      "template": "£{amount}"
+    }
+  ]
+}

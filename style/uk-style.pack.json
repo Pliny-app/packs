@@ -5,18 +5,10 @@
   "name": "UK style",
   "kind": "style",
   "language": "en",
-  "description": "British spelling, times like 3pm, dates like 13 October 2026, and spaced en dashes.",
+  "description": "British spelling: colour, favourite, behaviour…",
   "category": "Language",
   "source": "Pliny (CC0 1.0)",
   "message": "UK style spelling",
-  "formats": {
-    "time": "3pm",
-    "date": "13 October 2026",
-    "numbers": "1,000",
-    "percent": "5 per cent",
-    "quotes": "“curly”",
-    "dashes": "a – b"
-  },
   "entries": [
     {
       "key": "color",

@@ -5,7 +5,7 @@ name: Index
 on:
   push:
     branches: [main]
-    paths: ['synonyms/**', 'themes/**', 'scripts/**']
+    paths: ['style/**', 'synonyms/**', 'formats/**', 'themes/**', 'scripts/**']
   pull_request:
   workflow_dispatch:
 
