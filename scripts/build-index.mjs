@@ -1,5 +1,5 @@
 // Builds index.json from the packs in style/, synonyms/ and formats/ (*.pack.json) and themes/ (*.md), checking each one.
-// `updated` is the date of the file's last commit, so changing a pack makes Pliny offer Update.
+// `updated` is the time of the file's last commit, so changing a pack makes Pliny offer Update; `commit` is that commit, which Pliny fetches the file from (never a stale copy); `note` is its message's first line, shown beside Update.
 // node scripts/build-index.mjs          → writes index.json
 // node scripts/build-index.mjs --check  → only checks (pull requests)
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs'
@@ -10,8 +10,9 @@ const problems = []
 const packs = []
 
 const lastChanged = (file) => {
-  const date = execFileSync('git', ['log', '-1', '--format=%cs', '--', file], { encoding: 'utf8' }).trim()
-  return date || new Date().toISOString().slice(0, 10)   // not committed yet
+  const [, time, commit, note] = /^(\d+) (\w+) ?(.*)$/.exec(execFileSync('git', ['log', '-1', '--format=%ct %H %s', '--', file], { encoding: 'utf8' }).trim()) ?? []
+  if (!commit) return { updated: new Date().toISOString() }   // not committed yet
+  return { updated: new Date(Number(time) * 1000).toISOString(), commit, ...(note ? { note } : {}) }
 }
 
 const slug = (name) => name.toLowerCase().normalize('NFKD').replace(/[^\p{L}\p{N}]+/gu, '-').replace(/^-|-$/g, '')
@@ -35,7 +36,7 @@ function wordPack(file, kind) {
   if (!Array.isArray(data.entries)) return problems.push(`${file}: "entries" must be a list: [ { "key": …, "suggestions": [ … ] } ]`)
   const bad = data.entries.findIndex((e) => typeof e?.key !== 'string' || !Array.isArray(e.suggestions) || e.suggestions.some((s) => typeof s !== 'string'))
   if (bad !== -1) return problems.push(`${file}: entry ${bad + 1} needs a "key" and a list of "suggestions"`)
-  packs.push({ id: data.id, name: data.name, kind, ...info(data), file, updated: lastChanged(file) })
+  packs.push({ id: data.id, name: data.name, kind, ...info(data), file, ...lastChanged(file) })
 }
 
 const FORMS = {
@@ -67,7 +68,7 @@ function formatPack(file) {
   const bad = data.snippets.findIndex((s) => typeof s?.name !== 'string' || !s.name.trim() || typeof s.template !== 'string' || !s.template.trim())
   if (bad !== -1) return problems.push(`${file}: snippet ${bad + 1} needs a "name" and a "template"`)
   if (!data.formats && data.snippets.length === 0) return problems.push(`${file}: no "formats" and no "snippets"`)
-  packs.push({ id: data.id, name: data.name, kind: 'format', ...info(data), file, updated: lastChanged(file) })
+  packs.push({ id: data.id, name: data.name, kind: 'format', ...info(data), file, ...lastChanged(file) })
 }
 
 function themePack(file) {
@@ -81,7 +82,7 @@ function themePack(file) {
   const body = front ? text.slice(front[0].length) : text
   if (!body.trim()) return problems.push(`${file}: no text`)
   const name = fields.name ?? /^#\s+(.+?)\s*#*\s*$/m.exec(body)?.[1] ?? file.replace(/^.*\/|\.md$/g, '')
-  packs.push({ id: fields.id ?? slug(name), name, kind: 'theme', ...info(fields), file, updated: lastChanged(file) })
+  packs.push({ id: fields.id ?? slug(name), name, kind: 'theme', ...info(fields), file, ...lastChanged(file) })
 }
 
 for (const [folder, ending, read] of [['style', '.pack.json', (f) => wordPack(f, 'style')], ['synonyms', '.pack.json', (f) => wordPack(f, 'synonyms')], ['formats', '.pack.json', formatPack], ['themes', '.md', themePack]]) {

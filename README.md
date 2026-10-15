@@ -118,6 +118,6 @@ If `name` is missing, the first `#` heading is used.
 
 1. Make it in Pliny (Settings › Word packs › Add) and use Save as file…, or write the file.
 2. Put the file in `style/`, `synonyms/` or `formats/` (name ending in `.pack.json`) or `themes/` (`.md`): on github.com, Add file › Upload files.
-3. That's it: on every push, a GitHub Action checks the packs and rebuilds `index.json`. Each pack's `updated` date is its file's last change, so Pliny offers Update when a pack changes (at most once a day). A broken pack fails the run (Actions tab) and the index stays as it was.
+3. That's it: on every push, a GitHub Action checks the packs and rebuilds `index.json`. Each pack's `updated` time and `commit` are its file's last change, so Pliny offers Update whenever a pack changes, with the commit message's first line as what changed. A broken pack fails the run (Actions tab) and the index stays as it was.
 
 To check locally: `node scripts/build-index.mjs --check`
