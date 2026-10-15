@@ -242,10 +242,10 @@
       "id": "mining",
       "name": "Mining",
       "kind": "theme",
-      "description": "Words for mines, rock, ore, metals, gems, tools and the work of digging, from the shaft to the polished stone.",
+      "description": "Words for mines, rock, ore, metals, gems, tools and the work of digging.",
       "category": "Earth",
       "file": "themes/mining.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-15"
     },
     {
       "id": "naming",
