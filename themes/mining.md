@@ -1,10 +1,10 @@
 ---
 name: Mining
-description: Words for mines, rock, ore, metals, gems, tools and the work of digging, from the shaft to the polished stone.
+description: Words for mines, rock, ore, metals, gems, tools and the work of digging.
 category: Earth
 author: Pliny
 license: CC0 1.0
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 # Mining
 
@@ -37,8 +37,6 @@ updated: 2026-10-13
 - **outcrop** — rock that breaks the surface, where a deposit shows itself.
 - **paydirt** — ground rich enough to pay for the work.
 - **bonanza** — an exceptionally rich find; its opposite is **borrasca**, a barren one.
-- **bedrock** — the solid rock under soil and gravel.
-- **strata** — rock laid down in layers (singular: *stratum*).
 
 ## What comes out with it
 - **gangue** — the worthless mineral around the ore.
@@ -47,12 +45,96 @@ updated: 2026-10-13
 - **spoil / waste rock** — rock dug out and thrown aside; heaped up, it makes a **spoil heap**.
 - **tailings** — the fine waste left after ore is crushed and processed.
 - **slag** — the glassy waste skimmed off during smelting.
-- **rubble · scree · gravel** — broken rock; loose stones on a slope; small rounded stones.
-- **dust · grit · sand** — rock at its finest.
+
+## Rock, earth and grit
+### By size
+- **grain-size scale** — geologists' ladder from finest to coarsest: **clay · silt · sand · granule · pebble · cobble · boulder**. On the Wentworth scale, sand runs from 1/16 to 2 mm, granules 2–4 mm, pebbles 4–64 mm, cobbles 64–256 mm, and boulders anything larger.
+- **clast** — the geologist's word for any fragment of rock; *clastic* rock is made of them.
+
+### Solid
+- **rock** — the material, or a large mass of it.
+- **stone** — rock as a material for building or carving, or a single small piece. (British English says *stone* for a pebble you throw; American English often says *rock*.)
+- **slab · block · monolith** — a flat, thick piece; a squared piece; a single huge standing stone.
+- **crag · ledge · cliff · bluff** — a rough, jutting rock; a narrow shelf; a sheer face; a steep, rounded bank.
+- **tor** — a rocky outcrop on a hilltop, weathered into stacked blocks.
+
+### Pieces
+- **chunk · lump · hunk** — a thick, shapeless piece.
+- **clod** — a lump of earth or clay.
+- **chip · flake · sliver · splinter · shard** — small to thin, sharp pieces; *shard* also for glass and pottery.
+- **fragment · debris · rubble** — a broken piece; scattered remains; broken rock and masonry.
+- **pebble · cobble · boulder** — fist-sized and smaller; larger than a fist; too big to lift.
+- **scree · talus** — loose, angular stones heaped on a slope or at the foot of a cliff.
+- **shingle** — rounded beach pebbles.
+- **nugget** — a rounded lump of native metal, usually gold.
+
+### Loose and fine
+- **dust · powder** — fine enough to float; fine enough to pour.
+- **rock flour** — rock ground to powder under a glacier; it turns meltwater milky blue.
+- **grit · sand · gravel** — hard, sharp grains; loose grains up to 2 mm; small stones.
+- **granules · granulate** — small grains; *granulate* is an industrial term, rare in everyday English.
+- **aggregate** — crushed stone, gravel and sand used for building.
+- **silt** — grains finer than sand, smooth to the touch.
+- **clay** — the finest particles; sticky when wet, hard when dried or fired.
+- **loam** — a balanced mix of sand, silt and clay; good, crumbly soil.
+- **marl** — clay rich in lime.
+- **loess** — fine, yellowish silt laid down by wind.
+- **soil · earth · dirt · ground** — the everyday words; *dirt* is mostly American for loose earth.
+- **humus** — dark, decayed plant matter in soil.
+- **peat** — waterlogged, half-decayed plants, cut and dried as fuel.
+
+### Wet
+- **mud · muck · mire** — wet earth; dirty, sticky mud; deep mud you sink in.
+- **sludge · slurry** — thick, wet waste; a pourable mix of solids and water, as pumped from mines.
+- **ooze** — soft mud on a lake or sea floor.
+- **quicksand** — sand so saturated it can't bear weight.
+
+### Texture
+- **loose · compacted · packed** — falling apart; pressed tight; pressed hard by weight or tramping.
+- **friable** — crumbling easily in the hand.
+- **cohesive** — sticking together, like clay.
+- **coarse · fine · powdery · granular** — by grain.
+- **rounded · angular** — worn smooth by water; sharp-edged and freshly broken.
+- **well-sorted · poorly sorted** — grains all one size; a jumble of sizes.
+
+## Layers of the ground
+### From the surface down
+- **leaf litter · humus** — dead leaves and plant matter on the surface; the dark, rotted layer just beneath.
+- **topsoil** — the dark, fertile top layer, full of roots and life.
+- **subsoil** — paler, denser soil below, holding clay and minerals washed down from above.
+- **soil horizons** — soil scientists' layers: **O** (organic litter), **A** (topsoil), **E** (pale, leached layer), **B** (subsoil), **C** (broken-up parent rock), **R** (bedrock).
+- **hardpan** — a cemented layer that roots and water can't get through; in dry regions, **caliche**.
+- **regolith** — all the loose material above bedrock: soil, sand, broken rock.
+- **saprolite** — rock rotted in place, soft enough to dig but still showing its original grain.
+- **bedrock** — the solid rock beneath all loose material.
+- **water table** — the depth below which the ground is saturated with water.
+- **aquifer** — a layer of rock, sand or gravel that holds and passes groundwater.
+- **permafrost** — ground frozen year-round.
+
+### Rock layers
+- **strata** — rock laid down in layers (singular: *stratum*).
+- **bed · bedding plane** — a single layer of sedimentary rock; the surface between two beds.
+- **seam · lens** — a thin layer of something valuable, such as coal; a layer that thins out to nothing at the edges.
+- **sill · dike** (UK *dyke*) — a sheet of once-molten rock forced between layers; one cutting across them.
+- **fault** — a break where rock on one side has slipped past the other.
+- **fold · anticline · syncline** — layers bent; bent upward into an arch; bent down into a trough.
+- **unconformity** — a gap in the layers where rock wore away before new layers formed; missing time.
+- **superposition** — the rule that lower layers are older than those above.
+- **marker bed** — a distinctive layer, such as volcanic ash, used to match strata from place to place.
+- **fossil bed** — a layer rich in fossils.
+- **stratigraphy** — the study of rock layers and their order.
+
+### The deep Earth
+- **crust** — the thin rocky skin; roughly 5–10 km thick under oceans, 30–50 km under continents.
+- **Moho** — the boundary between crust and mantle, after the Croatian seismologist Andrija Mohorovičić. The deepest borehole ever drilled, the Kola Superdeep in Russia, reached about 12 km without getting near it.
+- **mantle** — hot, solid rock that flows very slowly over millions of years.
+- **lithosphere · asthenosphere** — the rigid outer shell, broken into tectonic plates; the softer layer of mantle it rides on.
+- **outer core · inner core** — liquid iron and nickel, whose motion makes Earth's magnetic field; a solid iron-nickel ball at the center.
+- **geothermal gradient** — the ground gets hotter with depth, on average about 25 °C per kilometre; deep mines need cooling.
+- **magma · lava** — molten rock underground; the same rock once it reaches the surface.
 
 ## Rocks
-*Igneous* rocks form from cooled magma, *sedimentary* ones from settled layers, and *metamorphic* ones from rock changed by heat and pressure.
-
+- **igneous · sedimentary · metamorphic** — rock formed from cooled magma; from settled layers; from older rock changed by heat and pressure.
 - **granite** — hard, speckled igneous rock with visible crystals.
 - **basalt** — dark, fine volcanic rock that sometimes cools into columns.
 - **obsidian** — black volcanic glass that breaks to razor edges.
@@ -82,8 +164,7 @@ updated: 2026-10-13
 - **clay** — fine, sticky earth that hardens when fired.
 
 ## Ores
-An **ore** is rock with enough metal to be worth mining.
-
+- **ore** — rock with enough metal in it to be worth mining.
 - **hematite** — iron ore, grey to red-black, leaving a red-brown streak.
 - **magnetite** — black iron ore, naturally magnetic. A magnetized piece is a **lodestone**.
 - **pyrite** — brassy cubes known as **fool's gold**.
@@ -268,7 +349,6 @@ An **ore** is rock with enough metal to be worth mining.
 - **dowsing rod** — a forked stick said, in folklore, to twitch over water or ore.
 
 ## Borrowed from specific works
-These are tied to one franchise; the neutral alternative comes after the arrow.
 - **mithril** (Tolkien) → *truesilver, moonsilver*
 - **adamantium**, **vibranium** (Marvel) → *adamant*
 - **netherite**, **redstone** (Minecraft) → *coined names of your own*
