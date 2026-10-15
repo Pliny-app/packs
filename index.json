@@ -9,7 +9,9 @@
       "description": "Bibliography entries for books, articles and websites, Chicago style.",
       "category": "Writing",
       "file": "formats/chicago-citations.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "collecting",
@@ -18,7 +20,9 @@
       "description": "Editions, numbered pieces, approximate dates, sizes, condition and provenance.",
       "category": "Collecting",
       "file": "formats/collecting.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "markdown",
@@ -27,7 +31,9 @@
       "description": "Links, images, quotes, tables and checklists in pages and notes.",
       "category": "Writing",
       "file": "formats/markdown.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "uk-formats",
@@ -36,7 +42,9 @@
       "description": "Times like 3pm, dates like 13 October 2026, 5 per cent, spaced en dashes; British dialogue and quotations.",
       "category": "Language",
       "file": "formats/uk-formats.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "us-formats",
@@ -45,7 +53,9 @@
       "description": "Times like 3 p.m., dates like October 13, 2026, $5, 5 percent, closed em dashes; American dialogue and quotations.",
       "category": "Language",
       "file": "formats/us-formats.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "cliches",
@@ -53,7 +63,9 @@
       "kind": "style",
       "description": "Worn-out phrases.",
       "file": "style/cliches.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "pitfalls-fr",
@@ -62,7 +74,9 @@
       "description": "Flags false friends and translated phrases that French speakers carry into English, and suggests what a native speaker would write.",
       "category": "Language",
       "file": "style/pitfalls-fr.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:30:56.000Z",
+      "commit": "d65214a10866815badff5f9558d294a25ec5b386",
+      "note": "Pitfalls packs are style packs; pitfalls and Corporate Speak under Language"
     },
     {
       "id": "pitfalls-de",
@@ -71,7 +85,9 @@
       "description": "Flags false friends and translated phrases that German speakers carry into English, and suggests what a native speaker would write.",
       "category": "Language",
       "file": "style/pitfalls-de.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:30:56.000Z",
+      "commit": "d65214a10866815badff5f9558d294a25ec5b386",
+      "note": "Pitfalls packs are style packs; pitfalls and Corporate Speak under Language"
     },
     {
       "id": "pitfalls-it",
@@ -80,7 +96,9 @@
       "description": "Flags false friends, translated phrases and grammar slips that Italian speakers carry into English, and suggests what a native speaker would write.",
       "category": "Language",
       "file": "style/pitfalls-it.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:30:56.000Z",
+      "commit": "d65214a10866815badff5f9558d294a25ec5b386",
+      "note": "Pitfalls packs are style packs; pitfalls and Corporate Speak under Language"
     },
     {
       "id": "pitfalls-pl",
@@ -89,7 +107,9 @@
       "description": "Flags false friends, translated phrases, prepositions and grammar slips that Polish speakers carry into English, and suggests what a native speaker would write.",
       "category": "Language",
       "file": "style/pitfalls-pl.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:30:56.000Z",
+      "commit": "d65214a10866815badff5f9558d294a25ec5b386",
+      "note": "Pitfalls packs are style packs; pitfalls and Corporate Speak under Language"
     },
     {
       "id": "fillers",
@@ -97,7 +117,9 @@
       "kind": "style",
       "description": "Words that rarely add meaning.",
       "file": "style/fillers.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "redundancies",
@@ -105,7 +127,9 @@
       "kind": "style",
       "description": "Wordy words and phrases with simpler ones.",
       "file": "style/redundancies.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "uk-style",
@@ -114,7 +138,9 @@
       "description": "British spelling: colour, favourite, behaviour…",
       "category": "Language",
       "file": "style/uk-style.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "us-style",
@@ -123,7 +149,9 @@
       "description": "American spelling: color, favorite, behavior…",
       "category": "Language",
       "file": "style/us-style.pack.json",
-      "updated": "2026-10-14"
+      "updated": "2026-10-14T05:52:49.000Z",
+      "commit": "fdd544a63df7e5bbe6115ed808af47ab322dabe8",
+      "note": "Format packs: UK and US formats (forms moved out of UK/US style, plus snippets), Markdown, Chicago citations, Collecting notations; index builder and README; the workflow also runs for style/ and formats/"
     },
     {
       "id": "dig",
@@ -131,7 +159,9 @@
       "kind": "synonyms",
       "description": "Other words for “dig”, from careful excavation to frantic scrabbling.",
       "file": "synonyms/dig.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T12:29:28.000Z",
+      "commit": "ee5e82662118ec9a08e9e0ba0c4a848a5d00be56",
+      "note": "Dig and mining packs"
     },
     {
       "id": "said",
@@ -139,7 +169,9 @@
       "kind": "synonyms",
       "description": "Other words for “said”, for dialogue and reported speech.",
       "file": "synonyms/said.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T10:55:43.000Z",
+      "commit": "28067c45523b176b18ae9e4bd3bc0b8e0a3a4c16",
+      "note": "First packs: said, very + adjective, weather; README with the format"
     },
     {
       "id": "but",
@@ -147,7 +179,9 @@
       "kind": "synonyms",
       "description": "Other words for “but”.",
       "file": "synonyms/but.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T11:27:40.000Z",
+      "commit": "a246092a905f35b40124076f0b8c4896a2592df8",
+      "note": "but pack: renamed to but.pack.json, entries as a list, listed in index.json"
     },
     {
       "id": "very-adjective",
@@ -155,7 +189,9 @@
       "kind": "synonyms",
       "description": "One stronger word instead of “very” + an adjective (A–F).",
       "file": "synonyms/very-adjective.pack.json",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T10:55:43.000Z",
+      "commit": "28067c45523b176b18ae9e4bd3bc0b8e0a3a4c16",
+      "note": "First packs: said, very + adjective, weather; README with the format"
     },
     {
       "id": "alien-worlds",
@@ -164,7 +200,9 @@
       "description": "Words for describing planets and moons in science fiction.",
       "category": "Sci-fi",
       "file": "themes/alien-worlds.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "corporate-speak",
@@ -173,7 +211,9 @@
       "description": "Phrases from meetings, memos, emails, and press releases.",
       "category": "Language",
       "file": "themes/corporate-speak.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:30:56.000Z",
+      "commit": "d65214a10866815badff5f9558d294a25ec5b386",
+      "note": "Pitfalls packs are style packs; pitfalls and Corporate Speak under Language"
     },
     {
       "id": "english-pitfalls-for-french-speakers",
@@ -182,7 +222,9 @@
       "description": "Habits Frenchs speakers carry into English",
       "category": "Language",
       "file": "themes/pitfalls-fr.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:49:32.000Z",
+      "commit": "74244bae28e3442d1543393266ad6ec3653d9f0e",
+      "note": "Update pitfalls-fr.md"
     },
     {
       "id": "english-pitfalls-for-german-speakers",
@@ -191,7 +233,9 @@
       "description": "Habits German and Swiss German speakers carry into English",
       "category": "Language",
       "file": "themes/pitfalls-de.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:48:51.000Z",
+      "commit": "5e46607b8c42544653eb5538eda528132ad93258",
+      "note": "Update pitfalls-de.md"
     },
     {
       "id": "english-pitfalls-for-italian-speakers",
@@ -200,7 +244,9 @@
       "description": "Habits Italian speakers carry into English",
       "category": "Language",
       "file": "themes/pitfalls-it.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:49:59.000Z",
+      "commit": "bb6e951541572495cb0e3b3703796661e14f88d6",
+      "note": "Update pitfalls-it.md"
     },
     {
       "id": "english-pitfalls-for-polish-speakers",
@@ -209,7 +255,9 @@
       "description": "Habits Polish speakers carry into English",
       "category": "Language",
       "file": "themes/pitfalls-pl.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:50:32.000Z",
+      "commit": "fdc30424accbcd01adaa4404cd7f9208cfa45090",
+      "note": "Update pitfalls-pl.md"
     },
     {
       "id": "high-strangeness",
@@ -218,7 +266,9 @@
       "description": "Words for anomalies, secret agencies, cover-ups, close encounters, warped places and the minds that meet them.",
       "category": "Sci-fi",
       "file": "themes/high-strangeness.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "light",
@@ -227,7 +277,9 @@
       "description": "Words for light, shadow, color, clarity and the act of seeing.",
       "category": "Nature",
       "file": "themes/light.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "mangled-idioms",
@@ -236,7 +288,9 @@
       "description": "Malaphors, eggcorns and other twisted sayings",
       "category": "Language",
       "file": "themes/mangled-idioms.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:56:31.000Z",
+      "commit": "81f31be86f8f07e8a4f6b3819e10d89511d2575d",
+      "note": "Added mangled idioms"
     },
     {
       "id": "mining",
@@ -245,7 +299,9 @@
       "description": "Words for mines, rock, ore, metals, gems, tools and the work of digging.",
       "category": "Earth",
       "file": "themes/mining.md",
-      "updated": "2026-10-15"
+      "updated": "2026-10-15T07:03:52.000Z",
+      "commit": "8fc849d0a47479e976c5ed90b12ba964950573fc",
+      "note": "Update mining.md"
     },
     {
       "id": "naming",
@@ -253,7 +309,9 @@
       "kind": "theme",
       "description": "Techniques for inventing sci-fi and fantasy names.",
       "file": "themes/naming.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T16:14:25.000Z",
+      "commit": "5337e3412e42b3b0714e16a5654114362a9c9ca0",
+      "note": "Naming and legalese packs"
     },
     {
       "id": "rules-and-policies",
@@ -261,7 +319,9 @@
       "kind": "theme",
       "description": "The language of handbooks, codes of conduct, policies, contracts and workplace rules.",
       "file": "themes/rules-and-policies.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T16:14:25.000Z",
+      "commit": "5337e3412e42b3b0714e16a5654114362a9c9ca0",
+      "note": "Naming and legalese packs"
     },
     {
       "id": "supernatural",
@@ -270,7 +330,9 @@
       "description": "Words for spirits, hauntings, spells, seers, charms and the realms beyond, with the differences between close neighbors.",
       "category": "Fantasy",
       "file": "themes/supernatural.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     },
     {
       "id": "weather",
@@ -279,7 +341,9 @@
       "description": "Words for sky, rain, wind, cold and heat.",
       "category": "Nature",
       "file": "themes/weather.md",
-      "updated": "2026-10-13"
+      "updated": "2026-10-13T14:09:25.000Z",
+      "commit": "2a8c6caaaed9326879c3f340ea8791ce14a71a71",
+      "note": "Style packs (fillers, clichés, redundancies) and categories in the index"
     }
   ]
 }
