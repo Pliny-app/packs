@@ -260,6 +260,17 @@
       "note": "Update pitfalls-pl.md"
     },
     {
+      "id": "flavor-texts",
+      "name": "Flavor texts",
+      "kind": "theme",
+      "description": "A cheat sheet for in-game flavour texts and item descriptions.",
+      "category": "Writing",
+      "file": "themes/flavor-texts.md",
+      "updated": "2026-11-03T10:27:17.000Z",
+      "commit": "e5c64db83b8637ac801cfced99b92a277dd6a867",
+      "note": "Flavor texts pack"
+    },
+    {
       "id": "high-strangeness",
       "name": "High Strangeness",
       "kind": "theme",
