@@ -266,9 +266,9 @@
       "description": "A cheat sheet for in-game flavour texts and item descriptions.",
       "category": "Writing",
       "file": "themes/flavor-texts.md",
-      "updated": "2026-11-03T10:27:17.000Z",
-      "commit": "e5c64db83b8637ac801cfced99b92a277dd6a867",
-      "note": "Flavor texts pack"
+      "updated": "2026-11-08T16:11:21.000Z",
+      "commit": "5a0f763ba8b3ec4cb537302c43e24a062456ed33",
+      "note": "Added few more uses to flavor-texts.md"
     },
     {
       "id": "high-strangeness",
