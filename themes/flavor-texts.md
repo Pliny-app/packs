@@ -176,6 +176,14 @@ The flavor text renders the actual text carried by the item such as labels, insc
 
 ### In-World Use
 *Common and uncommon ways of using the item*
+
+### Industrial use
+- Cosmetics (plants, minerals)
+- Food
+- Buildings
+- Technology
+
+
 ### Plants
 - When burned...
 - can be stewed
